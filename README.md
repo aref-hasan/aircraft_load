@@ -1,4 +1,5 @@
-Gruppenmitglieder:
+## Team Members:
+
 Aref Hasan
 Nik Yakovlev
 Christian Schmid

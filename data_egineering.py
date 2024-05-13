@@ -1,3 +1,7 @@
+# This script loads raw data from raw_data.csv, performs necessary formatting, and saves the cleaned data into
+# modified_data.csv. This file is used for all subsequent data analyses, with any changes in the script directly 
+# updating the CSV file.
+
 import pandas as pd
 
 # original data
