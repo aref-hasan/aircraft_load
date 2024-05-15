@@ -4,7 +4,6 @@
 
 <p align="center">
   <h1>DATAFLY</h1>
-  <img src="URL-zum-Bild" alt="Alt-Text">
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
