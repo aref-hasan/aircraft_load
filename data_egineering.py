@@ -5,7 +5,7 @@
 import pandas as pd
 
 # original data
-data = pd.read_csv('../aircraft_load/data/raw_data.csv', sep=';')
+data = pd.read_csv('../aircraft_load/data/one_flight_raw_data.csv', sep=';')
 
 # copy of DataFrame
 modified_data = data.copy()
@@ -17,7 +17,7 @@ modified_data['creation_time'] = pd.to_datetime(modified_data['creation_time'], 
 modified_data['formatted_creation_time'] = modified_data['creation_time'].dt.strftime('%d-%m-%Y %H:%M:%S')
 
 # new CSV file
-output_path = '../aircraft_load/data/modified_data.csv'
+output_path = '../aircraft_load/data/one_flight_modified_data.csv'
 
 # Save modified DataFrame 
 modified_data.to_csv(output_path, index=False)  # Set 'index=False' to avoid writing row numbers to the file
