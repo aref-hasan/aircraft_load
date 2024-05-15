@@ -1,4 +1,6 @@
-![Logo](https://github.com/aref-hasan/aircraft_load/blob/main/logo.svg)
+<p align="center">
+  <img src="https://github.com/aref-hasan/aircraft_load/blob/main/logo.svg" alt="Logo">
+</p>
 
 #					DATAFLY
 
