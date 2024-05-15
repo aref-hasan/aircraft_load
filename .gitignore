@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.vscode/
+.ipynb_checkpoint/
+data/america_data.csv
+data/asia_data.csv
+data/europe_data.csv
+
