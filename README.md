@@ -1,4 +1,16 @@
 #					DATAFLY
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Table of Contents
+
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+
+## About
 by students at The Baden-Württemberg Cooperative State University (DHBW) Mannheim in Germany
 
 
@@ -10,7 +22,22 @@ by students at The Baden-Württemberg Cooperative State University (DHBW) Mannhe
 [Niklas Scholz](https://github.com/nklsdhbw)
 [Luca Mohr](https://github.com/Luca2732)
 
-### Download repository
-Run the following command in your terminal to clone the repo.
+## Getting Started
 
-	git clone https://github.com/aref-hasan/aircraft_load
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone aref-hasan/aircraft_load
+
+2. Navigate to the project directory:
+   ```bash
+   cd aircraft_load
+
+3. Install the required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+
+
+   
