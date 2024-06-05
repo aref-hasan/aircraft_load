@@ -5,4 +5,7 @@ __pycache__/
 data/america_data.csv
 data/asia_data.csv
 data/europe_data.csv
-
+.DS_Store
+data/asia_data.parquet
+data/europe_data.parquet
+data/america_data.parquet
