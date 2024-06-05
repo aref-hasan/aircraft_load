@@ -37,12 +37,12 @@ by students at The Baden-Württemberg Cooperative State University (DHBW) Mannhe
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 
    ```bash
    git clone aref-hasan/aircraft_load
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
    ```bash
    cd aircraft_load
 
