@@ -1,11 +1,35 @@
+# Environments
 .venv/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Others
 __pycache__/
 .vscode/
-.ipynb_checkpoint/
+.DS_Store
+.cache
+
+
+# Data
 data/america_data.csv
 data/asia_data.csv
 data/europe_data.csv
-.DS_Store
 data/asia_data.parquet
 data/europe_data.parquet
 data/america_data.parquet
