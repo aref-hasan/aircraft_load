@@ -1,4 +1,94 @@
 ,id,creation_time,airline_code,flight_number,flight_date,departure_airport,user_name,action_name,header_line,entry_details
+11219,33868079,2024-05-01 02:53:40,AB,2607,1,DEL,human,AcceptTransitDataAction,"2024-05-01 02:53:40,854 INFO  [b44856d2efb347af] [AB2607 /01 DEL | human      | AcceptTransitDataAction             |                                | default task-51]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542568 ]
+Previous leg id    : 542567
+Confirmation needed: false
+Forced accept      : false"
+11220,33868151,2024-05-01 02:53:38,AB,2607,1,DEL,human,AcceptTransitDataAction,"2024-05-01 02:53:38,027 INFO  [23236d6935d7d371] [AB2607 /01 DEL | human      | AcceptTransitDataAction             |                                | default task-10]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542568 ]
+Previous leg id    : 542567
+Confirmation needed: false
+Forced accept      : false"
+11221,33868184,2024-05-01 02:53:50,AB,2607,1,DEL,human,AcceptTransitDataAction,"2024-05-01 02:53:50,997 INFO  [2e2e15ce2dd30d6b] [AB2607 /01 DEL | human      | AcceptTransitDataAction             |                                | default task-23]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542568 ]
+Previous leg id    : 542567
+Confirmation needed: false
+Forced accept      : false"
+11222,33903526,2024-05-01 09:20:07,AB,2324,1,GAU,human,AcceptTransitDataAction,"2024-05-01 09:20:07,877 INFO  [3da6410da60ec3ba] [AB2324 /01 GAU | human        | AcceptTransitDataAction             |                                | default task-53]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542585 ]
+Previous leg id    : 542584
+Confirmation needed: false
+Forced accept      : false"
+11223,33903622,2024-05-01 09:21:19,AB,2324,1,GAU,human,AcceptTransitDataAction,"2024-05-01 09:21:19,086 INFO  [857bea21a82c16b5] [AB2324 /01 GAU | human        | AcceptTransitDataAction             |                                | default task-46]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542585 ]
+Previous leg id    : 542584
+Confirmation needed: false
+Forced accept      : false"
+11224,33909928,2024-05-01 10:25:13,AB,2324,1,GAU,human,AcceptTransitDataAction,"2024-05-01 10:25:13,229 INFO  [39d03954c32ec2b4] [AB2324 /01 GAU | human        | AcceptTransitDataAction             |                                | default task-14]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542585 ]
+Previous leg id    : 542584
+Confirmation needed: false
+Forced accept      : false"
+11225,33924299,2024-05-01 13:28:00,AB,2525,1,BOM,human,AcceptTransitDataAction,"2024-05-01 13:28:00,428 INFO  [93777b2f6cdfce6e] [AB2525 /01 BOM | human     | AcceptTransitDataAction             |                                | default task-54]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542599 ]
+Previous leg id    : 542598
+Confirmation needed: false
+Forced accept      : false"
+11226,33924581,2024-05-01 13:28:58,AB,2525,1,BOM,human,AcceptTransitDataAction,"2024-05-01 13:28:58,494 INFO  [db9186fc61cb5a52] [AB2525 /01 BOM | human     | AcceptTransitDataAction             |                                | default task-58]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542599 ]
+Previous leg id    : 542598
+Confirmation needed: false
+Forced accept      : false"
+11227,33892642,2024-05-01 07:11:36,AB,2486,1,MAA,human,AcceptTransitDataAction,"2024-05-01 07:11:36,419 INFO  [7e9a1a675dffa36f] [AB2486 /01 MAA | human      | AcceptTransitDataAction             |                                | default task-41]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542608 ]
+Previous leg id    : 542607
+Confirmation needed: false
+Forced accept      : false"
+11228,33885390,2024-05-01 06:15:10,AB,2323,1,GAU,human,AcceptTransitDataAction,"2024-05-01 06:15:10,207 INFO  [733db6e9a8fd7353] [AB2323 /01 GAU | human       | AcceptTransitDataAction             |                                | default task-7]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO [ id = 542717 ]
+Previous leg id    : 542716
+Confirmation needed: false
+Forced accept      : false"
+11314,33769317,2024-04-30 04:29:22,AB,2607,30,DEL,human,AcceptTransitLoadAction,"2024-04-30 04:29:22,428 INFO  [cedfdc550c161850] [AB2607 /30 DEL | human       | AcceptTransitLoadAction             |                                | default task-16]  Received:",
+11315,33770804,2024-04-30 04:45:51,AB,2607,30,DEL,human,AcceptTransitLoadAction,"2024-04-30 04:45:51,275 INFO  [aab41a92e81abf6e] [AB2607 /30 DEL | human       | AcceptTransitLoadAction             |                                | default task-55]  Received:",
+11316,33778859,2024-04-30 06:35:57,AB,2323,30,GAU,human,AcceptTransitLoadAction,"2024-04-30 06:35:57,371 INFO  [64ce50f20c42aabe] [AB2323 /30 GAU | human       | AcceptTransitLoadAction             |                                | default task-59]  Received:",
+11317,33781111,2024-04-30 07:06:12,AB,2323,30,GAU,human,AcceptTransitLoadAction,"2024-04-30 07:06:12,205 INFO  [fd790afa8d444c9] [AB2323 /30 GAU | human       | AcceptTransitLoadAction             |                                | default task-26]  Received:",
+11318,33781400,2024-04-30 07:01:34,AB,2486,30,MAA,human,AcceptTransitLoadAction,"2024-04-30 07:01:34,116 INFO  [1bf4127ee0072763] [AB2486 /30 MAA | human      | AcceptTransitLoadAction             |                                | default task-32]  Received:",
+11319,33787527,2024-04-30 08:06:59,AB,2608,30,DEL,human,AcceptTransitLoadAction,"2024-04-30 08:06:59,490 INFO  [d021d816c7337715] [AB2608 /30 DEL | human      | AcceptTransitLoadAction             |                                | default task-2]  Received:",
+11320,33792161,2024-04-30 08:59:04,AB,2608,30,DEL,human,AcceptTransitLoadAction,"2024-04-30 08:59:04,563 INFO  [1ddb48f54250c23a] [AB2608 /30 DEL | human     | AcceptTransitLoadAction             |                                | default task-32]  Received:",
+11321,33794872,2024-04-30 09:35:40,AB,2324,30,GAU,human,AcceptTransitLoadAction,"2024-04-30 09:35:40,620 INFO  [48a52de8f22e6a92] [AB2324 /30 GAU | human     | AcceptTransitLoadAction             |                                | default task-36]  Received:",
+11322,33810254,2024-04-30 13:07:59,AB,2525,30,BOM,human,AcceptTransitLoadAction,"2024-04-30 13:07:59,742 INFO  [461653f40d64fc52] [AB2525 /30 BOM | human     | AcceptTransitLoadAction             |                                | default task-40]  Received:",
+11323,33810478,2024-04-30 13:08:11,AB,2525,30,BOM,human,AcceptTransitLoadAction,"2024-04-30 13:08:11,395 INFO  [5797fd77342dfe99] [AB2525 /30 BOM | human     | AcceptTransitLoadAction             |                                | default task-33]  Received:",
+11409,33868154,2024-05-01 02:53:38,AB,2607,1,DEL,human,AcceptTransitNotocAction,"2024-05-01 02:53:38,028 INFO  [23236d6935d7d371] [AB2607 /01 DEL | human      | AcceptTransitNotocAction            |                                | default task-10]  Received:","Previous leg id      : 542567
+Actual leg id        : 542568
+Aircraft compatible  : true
+Transit Notoc entries"
+11410,33868162,2024-05-01 02:53:40,AB,2607,1,DEL,human,AcceptTransitNotocAction,"2024-05-01 02:53:40,855 INFO  [b44856d2efb347af] [AB2607 /01 DEL | human      | AcceptTransitNotocAction            |                                | default task-51]  Received:","Previous leg id      : 542567
+Actual leg id        : 542568
+Aircraft compatible  : true
+Transit Notoc entries"
+11411,33868187,2024-05-01 02:53:50,AB,2607,1,DEL,human,AcceptTransitNotocAction,"2024-05-01 02:53:50,998 INFO  [2e2e15ce2dd30d6b] [AB2607 /01 DEL | human      | AcceptTransitNotocAction            |                                | default task-23]  Received:","Previous leg id      : 542567
+Actual leg id        : 542568
+Aircraft compatible  : true
+Transit Notoc entries"
+11412,33903529,2024-05-01 09:20:07,AB,2324,1,GAU,human,AcceptTransitNotocAction,"2024-05-01 09:20:07,879 INFO  [3da6410da60ec3ba] [AB2324 /01 GAU | human        | AcceptTransitNotocAction            |                                | default task-53]  Received:","Previous leg id      : 542584
+Actual leg id        : 542585
+Aircraft compatible  : true
+Transit Notoc entries"
+11413,33903625,2024-05-01 09:21:19,AB,2324,1,GAU,human,AcceptTransitNotocAction,"2024-05-01 09:21:19,087 INFO  [857bea21a82c16b5] [AB2324 /01 GAU | human        | AcceptTransitNotocAction            |                                | default task-46]  Received:","Previous leg id      : 542584
+Actual leg id        : 542585
+Aircraft compatible  : true
+Transit Notoc entries"
+11414,33909931,2024-05-01 10:25:13,AB,2324,1,GAU,human,AcceptTransitNotocAction,"2024-05-01 10:25:13,230 INFO  [39d03954c32ec2b4] [AB2324 /01 GAU | human        | AcceptTransitNotocAction            |                                | default task-14]  Received:","Previous leg id      : 542584
+Actual leg id        : 542585
+Aircraft compatible  : true
+Transit Notoc entries"
+11415,33924524,2024-05-01 13:28:00,AB,2525,1,BOM,human,AcceptTransitNotocAction,"2024-05-01 13:28:00,429 INFO  [93777b2f6cdfce6e] [AB2525 /01 BOM | human     | AcceptTransitNotocAction            |                                | default task-54]  Received:","Previous leg id      : 542598
+Actual leg id        : 542599
+Aircraft compatible  : true
+Transit Notoc entries"
+11416,33924586,2024-05-01 13:28:58,AB,2525,1,BOM,human,AcceptTransitNotocAction,"2024-05-01 13:28:58,495 INFO  [db9186fc61cb5a52] [AB2525 /01 BOM | human     | AcceptTransitNotocAction            |                                | default task-58]  Received:","Previous leg id      : 542598
+Actual leg id        : 542599
+Aircraft compatible  : true
+Transit Notoc entries"
+11417,33892647,2024-05-01 07:11:36,AB,2486,1,MAA,human,AcceptTransitNotocAction,"2024-05-01 07:11:36,421 INFO  [7e9a1a675dffa36f] [AB2486 /01 MAA | human      | AcceptTransitNotocAction            |                                | default task-41]  Received:","Previous leg id      : 542607
+Actual leg id        : 542608
+Aircraft compatible  : true
+Transit Notoc entries"
+11418,33885395,2024-05-01 06:15:10,AB,2323,1,GAU,human,AcceptTransitNotocAction,"2024-05-01 06:15:10,209 INFO  [733db6e9a8fd7353] [AB2323 /01 GAU | human       | AcceptTransitNotocAction            |                                | default task-7]  Received:","Previous leg id      : 542716
+Actual leg id        : 542717
+Aircraft compatible  : true
+Transit Notoc entries"
 294,137537016,2024-04-30 05:12:41,MN,1450,30,DUB,service-acco,ASMMsgProcessor,"2024-04-30 05:12:41,163 INFO  [4eb3067f0172e76e] [MN1450  /30 DUB | service-acco | ASMMsgProcessor                     |                                | Thread-11500 (ActiveMQ-client-global-threads)]  Received:","<?xml version=""1.0"" encoding=""UTF-8""?><ns2:OSSChangeMessage xmlns:ns2=""http://www.systemone.com/iocc/oss/notification/OssChangeMessage-1.3.0"">
 <changeDescriptor>
         <changeDetail>
@@ -3777,6 +3867,101 @@ Fob 8300
 433723,137540427,2024-04-30 05:25:02,MN,1592,30,DUB,service-acco,CloseLegAction,"2024-04-30 05:25:02,638 INFO  [bf4054ffe8fda2f2] [MN1592  /30 DUB | service-acco | CloseLegAction                      |                                | Thread-11498 (ActiveMQ-client-global-threads)]  Received:",
 433726,137540442,2024-04-30 05:25:02,MN,1592,30,DUB,service-acco,CloseLegAction,"2024-04-30 05:25:02,644 INFO  [bf4054ffe8fda2f2] [MN1592  /30 DUB | service-acco | CloseLegAction                      |                                | Thread-11498 (ActiveMQ-client-global-threads)]  Saved:",STATUS LOADSHEET 3 LOADING_INSTRUCTION 2 CPM 1 UCM 1 LDM 1 FUEL 58 AIRCRAFT_CONFIG 1 EZFW 56 CARGO_FINAL 1 RAMP_FINAL 1 CHECK_IN_FINAL 1 LEG_CLOSED 1 CARGO_TRANSFER 1 OFP 4 CABIN_CONFIG 1 OFFBLOCK 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 56 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 3 PDM 1
 433740,137540778,2024-04-30 05:30:03,MN,1202,30,DUB,service-acco,CloseLegAction,"2024-04-30 05:30:03,946 INFO  [96662659140602e9] [MN1202  /30 DUB | service-acco | CloseLegAction                      |                                | Thread-11499 (ActiveMQ-client-global-threads)]  Received:",
+245124,375266071,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyCargoTableAction,"2024-05-02 11:28:40,857 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyCargoTableAction                |                                | default task-168]  Received:","From legId     : 2405490
+From load data :
+com.systemone.lc2.manualloadplanning.dto.CargoDTO [ id = 9402061  flightId = 2294771 legId = 2405490  deleted = false  fragmentId = CargoFragment ]
+To legId       : 2405510
+To load data   :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9402101  flightId = 2294791 legId = 2405510  deleted = false  fragmentId = LoadFragment ]"
+262741,375540913,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyCargoTableAction,"2024-05-06 17:49:24,859 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyCargoTableAction                |                                | default task-103]  Received:","From legId     : 2414193
+From load data :
+com.systemone.lc2.manualloadplanning.dto.CargoDTO [ id = 9422164  flightId = 2303474 legId = 2414193  deleted = false  fragmentId = CargoFragment ]
+To legId       : 2414194
+To load data   :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9422165  flightId = 2303475 legId = 2414194  deleted = false  fragmentId = LoadFragment ]"
+245120,375265947,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyLoadItemsAction,"2024-05-02 11:28:40,850 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyLoadItemsAction                 |                                | default task-168]  Received:","From legId     : 2405490
+From load data :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9402063  flightId = 2294771 legId = 2405490  deleted = false  fragmentId = LoadFragment ]
+ULD
+ Item Id   ULD       Number    Airline   Special   Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 42454237  PAG       3         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P9        true      NULL 
+ 42454239  PAG       5         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P6        true      NULL 
+ 42454235  PAG       1         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P10       true      NULL 
+ 42454242  PAG       8         ZY        NULL      ESTIMATE  1000.00   KG   0         0.00      MVD       MVD       CGB       C         P8        true      NULL 
+ 42454238  PAG       4         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P5        true      NULL 
+ 42454240  PAG       6         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P4        true      NULL 
+ 42454241  PAG       7         ZY        NULL      ESTIMATE  2500.00   KG   0         0.00      MVD       MVD       CGB       C         P3        true      NULL 
+ 42454236  PAG       2         ZY        NULL      ESTIMATE  2000.00   KG   0         0.00      MVD       MVD       CGB       C         P11       true      NULL 
+To legId       : 2405510
+To load data   :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9402122  flightId = 2294791 legId = 2405510  deleted = false  fragmentId = LoadFragment ]"
+262739,375540909,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyLoadItemsAction,"2024-05-06 17:49:24,852 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyLoadItemsAction                 |                                | default task-103]  Received:","From legId     : 2414193
+From load data :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9422167  flightId = 2303474 legId = 2414193  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 42463750  NULL         ESTIMATE  270.00    KG   15        1.95      VCP       VCP       LIS       BJ        52        true      NULL 
+ 42463751  NULL         ESTIMATE  90.00     KG   5         0.65      VCP       VCP       LIS       B         52        true      NULL 
+ 42463752  NULL         ESTIMATE  0.00      KG   0         0.00      VCP       VCP       LIS       BT        52        true      NULL 
+ULD
+ Item Id   ULD       Number    Airline   Special   Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 42463741  PMC       1         ZY        NULL      ESTIMATE  5000.00   KG   0         0.00      VCP       VCP       LIS       C         21P       true      NULL 
+ 42463746  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         33L       true      NULL 
+ 42463744  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         41R       true      NULL 
+ 42463749  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         33R       true      NULL 
+ 42463745  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         41L       true      NULL 
+ 42463743  PMC       3         ZY        NULL      ESTIMATE  4000.00   KG   0         0.00      VCP       VCP       LIS       C         31P       true      NULL 
+ 42463748  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         42R       true      NULL 
+ 42463753  PMC       4         ZY        NULL      ESTIMATE  176.00    KG   0         0.00      VCP       VCP       LIS       C         13P       true      NULL 
+ 42463742  PMC       2         ZY        NULL      ESTIMATE  5000.00   KG   0         0.00      VCP       VCP       LIS       C         22P       true      NULL 
+ 42463747  AKE       NULL      ZY                  ESTIMATE  720.00    KG   40        5.20      VCP       VCP       LIS       B         42L       true      NULL 
+To legId       : 2414194
+To load data   :
+com.systemone.lc2.manualloadplanning.dto.LoadDTO [ id = 9422502  flightId = 2303475 legId = 2414194  deleted = false  fragmentId = LoadFragment ]"
+245123,375266070,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyPaxDataAction,"2024-05-02 11:28:40,855 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyPaxDataAction                   |                                | default task-168]  Received:","From legId        : 2405490
+From pax data
+CGB            
+                Jump           Standby        Male           Female         Child          Infant         Bags           BWgt           Average        
+Loadsheet       NULL           NULL           NULL           NULL           NULL           NULL           0              0.00  KG       0.00  KG       
+Distribution type : STANDARD_DISTRIBUTION
+
+To legId          : 2405510
+To pax data 
+MAO            
+                Jump           Standby        Male           Female         Child          Infant         Bags           BWgt           Average        
+Loadsheet       NULL           NULL           NULL           NULL           NULL           NULL           0              0.00  KG       0.00  KG       
+Distribution type : STANDARD_DISTRIBUTION"
+245125,375266088,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyPaxDataAction,"2024-05-02 11:28:40,883 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyPaxDataAction                   |                                | default task-168]  Saved:",TOTAL Pax: NULL    Jump: NULL    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: HISTORIC
+262740,375540912,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyPaxDataAction,"2024-05-06 17:49:24,857 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyPaxDataAction                   |                                | default task-103]  Received:","From legId        : 2414193
+From pax data
+LIS            
+                C              Y              Jump           Standby        Male           Female         Child          Infant         Bags           BWgt           Average        
+Loadsheet       15             245            NULL           0              260            0              0              0              260            4680.00 KG     18.00 KG       
+Distribution type : MANUAL_DISTRIBUTION
+
+To legId          : 2414194
+To pax data 
+REC            
+                Y              Jump           Standby        Male           Female         Child          Infant         Bags           BWgt           Average        
+Loadsheet       NULL           NULL           NULL           NULL           NULL           NULL           NULL           260            3120.00 KG     12.00 KG       
+Distribution type : STANDARD_DISTRIBUTION"
+262742,375540930,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyPaxDataAction,"2024-05-06 17:49:24,885 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyPaxDataAction                   |                                | default task-103]  Saved:","TOTAL Pax: NULL    Y: 0  Jump: NULL    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 260  Total bag weight: 3120.0 KG  Baggage weight type: HISTORIC
+ Distribution        : STANDARD_DISTRIBUTION    
+ Section             : 0A                       0B                       0C                       
+ Capacity            : Y20                      Y140                     Y109                     
+ Distribution        : Y0                       Y0                       Y0"
+245119,375265946,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyPaxLoadDataAction,"2024-05-02 11:28:40,849 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyPaxLoadDataAction               |                                | default task-168]  Received:","com.systemone.lc2.flightmanagement.dto.CopyPaxLoadDataDTO@2c612a8d[
+  legIdFrom=2405490
+  inclAcData=true
+  inclCargoData=true
+]"
+245126,375266091,2024-05-02 11:28:40,ZY,8777,2,CGB,human,CopyPaxLoadDataAction,"2024-05-02 11:28:40,888 INFO  [c60e1d435d67fa9d] [ZY8777A/02 CGB | human  | CopyPaxLoadDataAction               |                                | default task-168]  Saved:",STATUS AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+262738,375540908,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyPaxLoadDataAction,"2024-05-06 17:49:24,851 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyPaxLoadDataAction               |                                | default task-103]  Received:","com.systemone.lc2.flightmanagement.dto.CopyPaxLoadDataDTO@2898ab6c[
+  legIdFrom=2414193
+  inclAcData=true
+  inclCargoData=true
+]"
+262743,375540933,2024-05-06 17:49:24,ZY,9902,6,VCP,human,CopyPaxLoadDataAction,"2024-05-06 17:49:24,889 INFO  [23f77192b68ce22d] [ZY9902 /06 VCP | human | CopyPaxLoadDataAction               |                                | default task-103]  Saved:",STATUS AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 REGISTRATION 1 REGISTRATION_CHANGE 1
 433350,137526984,2024-04-30 04:32:12,MN,1698,30,DUB,service-acco,CreateAndSendFuelOrderAction,"2024-04-30 04:32:12,877 INFO  [26e0dfa32f2e414c] [MN1698  /30 DUB | service-acco | CreateAndSendFuelOrderAction        |                                | Thread-11479 (ActiveMQ-client-global-threads)]  Received:",VOID - no input expected
 433370,137528027,2024-04-30 04:31:32,MN,1177,30,LHR,service-acco,CreateAndSendFuelOrderAction,"2024-04-30 04:31:32,425 INFO  [59c777a97da38540] [MN1177  /30 LHR | service-acco | CreateAndSendFuelOrderAction        |                                | Thread-18046 (ActiveMQ-client-global-threads)]  Received:",VOID - no input expected
 433371,137528066,2024-04-30 04:31:57,MN,1176,30,DUB,service-acco,CreateAndSendFuelOrderAction,"2024-04-30 04:31:57,724 INFO  [cbdc4020bd285a13] [MN1176  /30 DUB | service-acco | CreateAndSendFuelOrderAction        |                                | Thread-11470 (ActiveMQ-client-global-threads)]  Received:",VOID - no input expected
@@ -5093,6 +5278,11 @@ FUEL  trip=null taxi=null takeoff=null ballast=null edno=4"
 573298,138490648,2024-05-06 07:35:35,MN,1990,6,DUB,service-acco,FuelDataInitializer,"2024-05-06 07:35:35,305 INFO  [8dfe09c38cca4c19] [MN1990  /06 DUB | service-acco | FuelDataInitializer                 |                                | Thread-16852 (ActiveMQ-client-global-threads)]  Received:","{ROUTING=com.systemone.lc2.common.server.init.RoutingChangeEvent[source=FlightLeg(=, cabinBag: null, cabinCrew: 0, cancelFlag: false, captainsName: DOE JOE  46248, cockpitBag: null, cockpitCrew: 4, diverted: false, etd: Mon May 06 13:45:00 UTC 2024, gateNumber: null, historical: false, histValidTo: null, id: 690013, legNumber: 0, paxDistributionType: STANDARD_DISTRIBUTION, sendLoadsheetViaAcarsCurrentLeg: false, serviceType: K, std: Mon May 06 13:45:00 UTC 2024, transitIndicator: false, water: 100.0, remoteFlightStatus: null, lastEzfwCalculatedBy: SYSTEM, legType: null, version: 50, hasNextLegInFlight: false, seasonName: null, emergencyLock: false, nonStdCgwiLimitLabel: null)]}"
 573299,138490650,2024-05-06 07:35:35,MN,1990,6,DUB,service-acco,FuelDataInitializer,"2024-05-06 07:35:35,307 INFO  [8dfe09c38cca4c19] [MN1990  /06 DUB | service-acco | FuelDataInitializer                 |                                | Thread-16852 (ActiveMQ-client-global-threads)]  Saved:","STATUS AC 1 EZ 2 CT 1 CC 1 Am 1 As 0 Ec 2 R 1 RC 1 
 FUEL  trip=null taxi=null takeoff=null ballast=null edno=3"
+450413,33811986,2024-04-30 13:30:41,AB,2608,14,AYJ,service-acco,FuelDataInitializer,"2024-04-30 13:30:41,520 INFO  [fae118dd48ba0eab] [AB2608 /14 AYJ | service-acco | FuelDataInitializer                 |                                | Thread-60488 (ActiveMQ-client-global-threads)]  Received:","{INSERT=com.onesystem.lc2.common.server.init.RoutingChangeEvent[source=FlightLeg(=, cabinBag: null, cabinCrew: null, cancelFlag: false, captainsName: null, cockpitBag: null, cockpitCrew: null, diverted: false, etd: Tue May 14 07:20:00 UTC 2024, gateNumber: null, historical: false, histValidTo: null, id: 547553, legNumber: 0, paxDistributionType: STANDARD_DISTRIBUTION, sendLoadsheetViaAcarsCurrentLeg: true, serviceType: J, std: Tue May 14 07:20:00 UTC 2024, transitIndicator: false, water: null, remoteFlightStatus: null, lastEzfwCalculatedBy: NOT_YET_CALCULATED, legType: null, version: 1, hasNextLegInFlight: true, seasonName: null, emergencyLock: false)]}"
+450414,33812019,2024-04-30 13:30:42,AB,2324,14,IXA,service-acco,FuelDataInitializer,"2024-04-30 13:30:42,140 INFO  [ef385a570eeec309] [AB2324 /14 IXA | service-acco | FuelDataInitializer                 |                                | Thread-49227 (ActiveMQ-client-global-threads)]  Received:","{INSERT=com.onesystem.lc2.common.server.init.RoutingChangeEvent[source=FlightLeg(=, cabinBag: null, cabinCrew: null, cancelFlag: false, captainsName: null, cockpitBag: null, cockpitCrew: null, diverted: false, etd: Tue May 14 09:30:00 UTC 2024, gateNumber: null, historical: false, histValidTo: null, id: 547595, legNumber: 0, paxDistributionType: STANDARD_DISTRIBUTION, sendLoadsheetViaAcarsCurrentLeg: true, serviceType: J, std: Tue May 14 09:30:00 UTC 2024, transitIndicator: false, water: null, remoteFlightStatus: null, lastEzfwCalculatedBy: NOT_YET_CALCULATED, legType: null, version: 1, hasNextLegInFlight: true, seasonName: null, emergencyLock: false)]}"
+450415,33812105,2024-04-30 13:30:42,AB,2485,14,BLR,service-acco,FuelDataInitializer,"2024-04-30 13:30:42,662 INFO  [13acb5ced9729b07] [AB2485 /14 BLR | service-acco | FuelDataInitializer                 |                                | Thread-60482 (ActiveMQ-client-global-threads)]  Received:","{INSERT=com.onesystem.lc2.common.server.init.RoutingChangeEvent[source=FlightLeg(=, cabinBag: null, cabinCrew: null, cancelFlag: false, captainsName: null, cockpitBag: null, cockpitCrew: null, diverted: false, etd: Tue May 14 00:25:00 UTC 2024, gateNumber: null, historical: false, histValidTo: null, id: 547517, legNumber: 0, paxDistributionType: STANDARD_DISTRIBUTION, sendLoadsheetViaAcarsCurrentLeg: true, serviceType: J, std: Tue May 14 00:25:00 UTC 2024, transitIndicator: false, water: null, remoteFlightStatus: null, lastEzfwCalculatedBy: NOT_YET_CALCULATED, legType: null, version: 1, hasNextLegInFlight: true, seasonName: null, emergencyLock: false)]}"
+450416,33812106,2024-04-30 13:30:42,AB,2485,14,BLR,service-acco,FuelDataInitializer,"2024-04-30 13:30:42,663 INFO  [13acb5ced9729b07] [AB2485 /14 BLR | service-acco | FuelDataInitializer                 |                                | Thread-60482 (ActiveMQ-client-global-threads)]  Saved:","STATUS AC 1 CT 1 CC 1 Am 1 BI 1 R 1 RC 1 
+FUEL  trip=null taxi=null takeoff=null ballast=null edno=3"
 551456,137618893,2024-04-30 16:34:49,MN,1656,30,DUB,human,GetCabinConfigurationsAction,"2024-04-30 16:34:49,386 INFO  [1ebce2671541e3e4] [MN1656  /30 DUB | human      | GetCabinConfigurationsAction        |                                | default task-2977]  Received:","com.systemone.lc2.common.dto.SingleAttributeDTO@140193d8[
   id=<null>
   deleted=false
@@ -5137,6 +5327,11 @@ FUEL  trip=null taxi=null takeoff=null ballast=null edno=3"
   id=<null>
   deleted=false
   attribute=MNDVK
+]"
+449416,33788639,2024-04-30 08:22:40,AB,2377,30,BLR,human,GetCabinConfigurationsAction,"2024-04-30 08:22:40,647 INFO  [602061a6241d3b69] [AB2377 /30 BLR | human      | GetCabinConfigurationsAction        |                                | default task-43]  Received:","com.onesystem.lc2.common.dto.SingleAttributeDTO@32a16f2e[
+  id=<null>
+  deleted=false
+  attribute=ABCAD
 ]"
 549162,137538339,2024-04-30 05:15:03,MN,1450,30,DUB,service-acco,InternalCreateLoadingInstructionAct,"2024-04-30 05:15:03,870 INFO  [a7d5153966e6de09] [MN1450  /30 DUB | service-acco | InternalCreateLoadingInstructionAct |                                | Thread-11497 (ActiveMQ-client-global-threads)]  Received:",com.systemone.lc2.common.dto.SingleAttributeDTO[ id = NULL  deleted = false  preliminary = false ]
 549163,137538340,2024-04-30 05:15:03,MN,1450,30,DUB,service-acco,InternalCreateLoadingInstructionAct,"2024-04-30 05:15:03,870 INFO  [a7d5153966e6de09] [MN1450  /30 DUB | service-acco | InternalCreateLoadingInstructionAct |                                | Thread-11497 (ActiveMQ-client-global-threads)]  Sent:","
@@ -7041,6 +7236,62 @@ MN11680/30.MNDEE.J4Y168.2/5
 -GVA.54/40/3/0.T1148.1/1070.5/78.PAX/0/97
 SI GVA B/884.C/0.M/0.E/0"
 577312,137538987,2024-04-30 05:17:03,MN,1680,30,DUB,service-acco,SendPostDepartureMessagesAction,"2024-04-30 05:17:03,600 INFO  [f605c4c448bd7290] [MN1680  /30 DUB | service-acco | SendPostDepartureMessagesAction     |                                | Thread-18097 (ActiveMQ-client-global-threads)]  Saved:",STATUS LOADSHEET 2 LOADING_INSTRUCTION 2 CPM 2 UCM 2 LDM 2 FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CHECK_IN_FINAL 1 LEG_CLOSED 1 CARGO_TRANSFER 1 OFP 6 CABIN_CONFIG 1 OFFBLOCK 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 2 PDM 2
+476122,33767332,2024-04-30 04:03:00,AB,2385,30,BOM,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:03:00,841 INFO  [a30b0294decb1434] [AB2385 /30 BOM | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48914 (ActiveMQ-client-global-threads)]  Received:",
+476123,33767335,2024-04-30 04:03:00,AB,2385,30,BOM,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:03:00,843 INFO  [a30b0294decb1434] [AB2385 /30 BOM | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48914 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 188    Y: 188  Jump: 0    StandBy: NULL  Male: 96  Female: 71  Child: 21  Infant: 4  Total bag: 182  Total bag weight: 2158.0 KG  Baggage weight type: ACTUAL
+ Distribution        : STANDARD_DISTRIBUTION    
+ Section             : 0A                       0B                       0C                       0D                       0E                       0F                       
+ Capacity            : Y33                      Y30                      Y30                      Y30                      Y30                      Y36                      
+ Distribution        : Y33                      Y30                      Y30                      Y30                      Y30                      Y35"
+476124,33766827,2024-04-30 04:08:00,AB,2526,30,LKO,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:08:00,506 INFO  [212967c59d799c18] [AB2526 /30 LKO | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48938 (ActiveMQ-client-global-threads)]  Received:",
+476125,33766830,2024-04-30 04:08:00,AB,2526,30,LKO,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:08:00,507 INFO  [212967c59d799c18] [AB2526 /30 LKO | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48938 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 186    Y: 186  Jump: 0    StandBy: NULL  Male: 128  Female: 50  Child: 8  Infant: 7  Total bag: 153  Total bag weight: 1797.0 KG  Baggage weight type: ACTUAL
+ Distribution        : STANDARD_DISTRIBUTION    
+ Section             : 0A                       0B                       0C                       0D                       0E                       0F                       
+ Capacity            : Y33                      Y30                      Y30                      Y30                      Y30                      Y36                      
+ Distribution        : Y32                      Y30                      Y30                      Y30                      Y30                      Y34"
+476141,33766975,2024-04-30 04:13:00,AB,2378,30,DEL,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:13:00,551 INFO  [dfdcc90ee7684c0] [AB2378 /30 DEL | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-60319 (ActiveMQ-client-global-threads)]  Received:",
+476142,33766978,2024-04-30 04:13:00,AB,2378,30,DEL,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:13:00,553 INFO  [dfdcc90ee7684c0] [AB2378 /30 DEL | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-60319 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 53    Y: 53  Jump: 0    StandBy: NULL  Male: 35  Female: 18  Child: 0  Infant: 0  Total bag: 56  Total bag weight: 545.0 KG  Baggage weight type: ACTUAL
+ Distribution        : CKI_DISTRIBUTION         
+ Section             : 0A                       0B                       0C                       0D                       0E                       0F                       
+ Capacity            : Y33                      Y30                      Y30                      Y30                      Y30                      Y36                      
+ Distribution        : Y4                       Y5                       Y8                       Y3                       Y10                      Y23"
+476173,33769204,2024-04-30 04:33:00,AB,2463,30,GOX,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:33:00,580 INFO  [2b2797daaaac5386] [AB2463 /30 GOX | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48971 (ActiveMQ-client-global-threads)]  Received:",
+476174,33769207,2024-04-30 04:33:00,AB,2463,30,GOX,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:33:00,581 INFO  [2b2797daaaac5386] [AB2463 /30 GOX | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-48971 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 139    Y: 139  Jump: 0    StandBy: NULL  Male: 74  Female: 63  Child: 2  Infant: 3  Total bag: 100  Total bag weight: 1085.0 KG  Baggage weight type: ACTUAL
+ Distribution        : STANDARD_DISTRIBUTION    
+ Section             : 0A                       0B                       0C                       0D                       0E                       0F                       
+ Capacity            : Y12                      Y36                      Y30                      Y30                      Y30                      Y36                      
+ Distribution        : Y10                      Y29                      Y24                      Y24                      Y24                      Y28"
+476186,33770494,2024-04-30 04:43:00,AB,2519,30,COK,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:43:00,592 INFO  [bce1e1771978ccf8] [AB2519 /30 COK | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-60340 (ActiveMQ-client-global-threads)]  Received:",
+476187,33770497,2024-04-30 04:43:00,AB,2519,30,COK,service-acco,SetActualBagWeightIndicatorAction,"2024-04-30 04:43:00,593 INFO  [bce1e1771978ccf8] [AB2519 /30 COK | service-acco | SetActualBagWeightIndicatorAction   |                                | Thread-60340 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 160    Y: 160  Jump: 0    StandBy: NULL  Male: 90  Female: 66  Child: 4  Infant: 1  Total bag: 145  Total bag weight: 1521.0 KG  Baggage weight type: ACTUAL
+ Distribution        : STANDARD_DISTRIBUTION    
+ Section             : 0A                       0B                       0C                       0D                       0E                       0F                       
+ Capacity            : Y36                      Y30                      Y27                      Y30                      Y30                      Y36                      
+ Distribution        : Y31                      Y25                      Y23                      Y25                      Y25                      Y31"
+316661,375120693,2024-04-30 04:17:41,ZY,5027,30,SSA,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:17:41,978 INFO  [e4476388a959da95] [ZY5027 /30 SSA | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24703 (ActiveMQ-client-global-threads)]  Received:",
+316662,375120696,2024-04-30 04:17:41,ZY,5027,30,SSA,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:17:41,984 INFO  [e4476388a959da95] [ZY5027 /30 SSA | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24703 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: 6    Y: 6  Jump: 0    StandBy: NULL  Male: 2  Female: 2  Child: 2  Infant: 0  Total bag: 6  Total bag weight: 72.0 KG  Baggage weight type: HISTORIC
+ Distribution        : CKI_DISTRIBUTION         
+ Section             : 0A                       0C                       
+ Capacity            : Y72                      Y102                     
+ Distribution        : Y0                       Y0"
+316663,375120712,2024-04-30 04:42:42,ZY,3844,30,REC,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:42:42,964 INFO  [defd6858baa6c205] [ZY3844 /30 REC | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24771 (ActiveMQ-client-global-threads)]  Received:",
+316664,375120715,2024-04-30 04:42:42,ZY,3844,30,REC,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:42:42,969 INFO  [defd6858baa6c205] [ZY3844 /30 REC | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24771 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: NULL    Y: 0  Jump: NULL    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: HISTORIC
+ Distribution        : CKI_DISTRIBUTION         
+ Section             : 0A                       0C                       
+ Capacity            : Y58                      Y60                      
+ Distribution        : Y0                       Y0"
+316665,375120745,2024-04-30 04:32:41,ZY,119,30,NAT,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:32:41,923 INFO  [b79893a080285ea3] [ZY119 /30 NAT | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24740 (ActiveMQ-client-global-threads)]  Received:",
+316670,375120840,2024-04-30 04:47:43,ZY,5598,30,PVH,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:47:43,334 INFO  [ca259b8d69b30179] [ZY5598 /30 PVH | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24792 (ActiveMQ-client-global-threads)]  Received:",
+316671,375120843,2024-04-30 04:47:43,ZY,5598,30,PVH,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:47:43,339 INFO  [ca259b8d69b30179] [ZY5598 /30 PVH | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24792 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: NULL    Y: 0  Jump: NULL    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: HISTORIC
+ Distribution        : CKI_DISTRIBUTION         
+ Section             : 0A                       0C                       
+ Capacity            : Y72                      Y93                      
+ Distribution        : Y0                       Y0"
+316674,375122389,2024-04-30 04:17:40,ZY,5414,30,SLZ,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:17:40,674 INFO  [7b76f39b98d4d3e9] [ZY5414 /30 SLZ | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24694 (ActiveMQ-client-global-threads)]  Received:",
+316675,375122392,2024-04-30 04:17:40,ZY,5414,30,SLZ,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:17:40,680 INFO  [7b76f39b98d4d3e9] [ZY5414 /30 SLZ | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24694 (ActiveMQ-client-global-threads)]  Saved:","TOTAL Pax: NULL    Y: 0  Jump: NULL    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: HISTORIC
+ Distribution        : CKI_DISTRIBUTION         
+ Section             : 0A                       0C                       
+ Capacity            : Y72                      Y102                     
+ Distribution        : Y0                       Y0"
+316678,375122770,2024-04-30 04:27:42,ZY,5290,30,MCZ,service-acco,SetCKIPaxDistributionAction,"2024-04-30 04:27:42,486 INFO  [2e292885fc49f08d] [ZY5290 /30 MCZ | service-acco | SetCKIPaxDistributionAction         |                                | Thread-24732 (ActiveMQ-client-global-threads)]  Received:",
 577188,137526681,2024-04-30 04:29:43,MN,1115,30,DUB,human,SpecialPaxWeightAction,"2024-04-30 04:29:43,866 INFO  [c526c18dbc6d321d] [MN1115  /30 DUB | human      | SpecialPaxWeightAction              |                                | default task-1890]  Received:","com.systemone.lc2.legaircraftconfiguration.dto.AircraftDataDTO [ id = NULL ]
 Special Pax Weight   | NULL"
 577193,137527074,2024-04-30 04:17:05,MN,1117,30,DUB,human,SpecialPaxWeightAction,"2024-04-30 04:17:05,518 INFO  [2507fd7485778b8c] [MN1117  /30 DUB | human      | SpecialPaxWeightAction              |                                | default task-2829]  Received:","com.systemone.lc2.legaircraftconfiguration.dto.AircraftDataDTO [ id = NULL ]
@@ -7211,6 +7462,26 @@ T           | 445.00   KG     | -7.31
 T           | 750.00   KG     | 11.99   
 Total Weight: 54126.00 KG     Index: 36.97   
 STATUS FUEL 7 AIRCRAFT_CONFIG 1 EZFW 7 CARGO_TRANSFER 1 OFP 11 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 7 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+476180,33769892,2024-04-30 04:37:23,AB,2627,30,GOX,human,StoreCKIAverageWeightAction,"2024-04-30 04:37:23,248 INFO  [6ab767151a034485] [AB2627 /30 GOX | human      | StoreCKIAverageWeightAction         |                                | default task-47]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2278755 ]
+BLR                      : NULL"
+476221,33771944,2024-04-30 05:00:27,AB,2463,30,GOX,human,StoreCKIAverageWeightAction,"2024-04-30 05:00:27,117 INFO  [26cd045ecbf5c435] [AB2463 /30 GOX | human      | StoreCKIAverageWeightAction         |                                | default task-59]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272952 ]
+BOM                      : 10.60 KG"
+476230,33772521,2024-04-30 05:08:07,AB,2533,30,AMD,human,StoreCKIAverageWeightAction,"2024-04-30 05:08:07,478 INFO  [6cf2f724fb6a64c8] [AB2533 /30 AMD | human      | StoreCKIAverageWeightAction         |                                | default task-2]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2273923 ]
+GOX                      : 10.00 KG"
+476283,33773756,2024-04-30 05:24:46,AB,2498,30,BOM,human,StoreCKIAverageWeightAction,"2024-04-30 05:24:46,800 INFO  [104f096d8447dbfb] [AB2498 /30 BOM | human      | StoreCKIAverageWeightAction         |                                | default task-11]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2280542 ]
+VNS                      : NULL"
+476313,33774722,2024-04-30 05:31:36,AB,2463,30,GOX,human,StoreCKIAverageWeightAction,"2024-04-30 05:31:36,011 INFO  [78c786aebdd9ff17] [AB2463 /30 GOX | human      | StoreCKIAverageWeightAction         |                                | default task-18]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272952 ]
+BOM                      : 10.90 KG"
+476487,33781387,2024-04-30 07:01:39,AB,2486,30,MAA,human,StoreCKIAverageWeightAction,"2024-04-30 07:01:39,715 INFO  [4eedf1afe747ceed] [AB2486 /30 MAA | human      | StoreCKIAverageWeightAction         |                                | default task-17]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272260 ]
+BLR                      : 10.00 KG"
+476511,33781967,2024-04-30 07:08:08,AB,2451,30,BOM,human,StoreCKIAverageWeightAction,"2024-04-30 07:08:08,036 INFO  [e39b7077b45891b3] [AB2451 /30 BOM | human      | StoreCKIAverageWeightAction         |                                | default task-46]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2289026 ]
+LKO                      : 12.10 KG"
+476522,33782434,2024-04-30 07:16:28,AB,2384,30,BBI,human,StoreCKIAverageWeightAction,"2024-04-30 07:16:28,176 INFO  [4f2f8fe392423ed5] [AB2384 /30 BBI | human      | StoreCKIAverageWeightAction         |                                | default task-56]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272489 ]
+BLR                      : NULL"
+476572,33784217,2024-04-30 07:34:16,AB,2486,30,MAA,human,StoreCKIAverageWeightAction,"2024-04-30 07:34:16,066 INFO  [fa335ee4e82af6c] [AB2486 /30 MAA | human      | StoreCKIAverageWeightAction         |                                | default task-38]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272260 ]
+BLR                      : 10.00 KG"
+476601,33784992,2024-04-30 07:42:29,AB,2486,30,MAA,human,StoreCKIAverageWeightAction,"2024-04-30 07:42:29,604 INFO  [929902c01b514cf0] [AB2486 /30 MAA | human      | StoreCKIAverageWeightAction         |                                | default task-36]  Received:","com.onesystem.lc2.paxactuals.dto.PaxDataDTO [ id = 2272260 ]
+BLR                      : 10.00 KG"
 808731,137526442,2024-04-30 04:30:40,MN,1068,1,LAX,service-acco,StorePaxDataAction,"2024-04-30 04:30:40,592 INFO  [44d2b1f782522eed] [MN1068   /01 LAX | service-acco | StorePaxDataAction                  |                                | Thread-18047 (ActiveMQ-client-global-threads)]  Received:","com.systemone.lc2.paxactuals.dto.PaxDataDTO [ id = 2874766 ]
  Baggage weight type: STANDARD       
 DUB            
@@ -8453,3 +8724,98 @@ STATUS AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_
 668897,138418945,2024-05-05 18:49:30,MN,1122,5,ORD,human,UpdateSupplementaryInfoAction,"2024-05-05 18:49:30,237 INFO  [81d6946778910f0b] [MN1122  /05 ORD | human      | UpdateSupplementaryInfoAction       |                                | default task-2836]  Saved:",STATUS FUEL 41 AIRCRAFT_CONFIG 1 EZFW 37 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 19 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 37 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 4 DGR_ITEMS 0
 676211,138605157,2024-05-07 04:18:03,MN,1440,7,DUB,human,UpdateSupplementaryInfoAction,"2024-05-07 04:18:03,039 INFO  [cd314ce02ba3a226] [MN1440  /07 DUB | human      | UpdateSupplementaryInfoAction       |                                | default task-3010]  Received:",Updated fragment:LoadsheetFragment    Text: HOLD 3 AND 4 ARE DEEMED U/S BY ENGINEERING AND ARE NOT TO BE USE
 676212,138605158,2024-05-07 04:18:03,MN,1440,7,DUB,human,UpdateSupplementaryInfoAction,"2024-05-07 04:18:03,040 INFO  [cd314ce02ba3a226] [MN1440  /07 DUB | human      | UpdateSupplementaryInfoAction       |                                | default task-3010]  Saved:",STATUS LOADING_INSTRUCTION 1 FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CHECK_IN_FINAL 1 CARGO_TRANSFER 1 OFP 3 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 2 FUEL_ORDER 2
+550674,33767368,2024-04-30 04:02:50,AB,2607,30,DEL,human,UpdateSupplementaryInfoAction,"2024-04-30 04:02:50,276 INFO  [78d28403a58eeba1] [AB2607 /30 DEL | human       | UpdateSupplementaryInfoAction       |                                | default task-45]  Received:",Updated fragment:LoadingInstructionFragment    Text: BAGS IN C3/4(BAL IN C3) Updated fragment:LoadingInstructionFragment    Text: COMAT IN C3 Updated fragment:LoadingInstructionFragment    Text: LANDLINE: 022-69397881 MOBILE- 9702737800
+550675,33767369,2024-04-30 04:02:50,AB,2607,30,DEL,human,UpdateSupplementaryInfoAction,"2024-04-30 04:02:50,277 INFO  [78d28403a58eeba1] [AB2607 /30 DEL | human       | UpdateSupplementaryInfoAction       |                                | default task-45]  Saved:",STATUS LOADING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 5
+550676,33767462,2024-04-30 04:02:50,AB,2607,30,DEL,human,UpdateSupplementaryInfoAction,"2024-04-30 04:02:50,660 INFO  [fa6d31d92210148c] [AB2607 /30 DEL | human       | UpdateSupplementaryInfoAction       |                                | default task-24]  Received:",Updated fragment:LoadsheetFragment    Text: PREPARED BY HUMAN CLC013 AT CLC Updated fragment:LoadsheetFragment    Text: BAGS IN C3/4 Updated fragment:LoadsheetFragment    Text: COMAT IN C3
+550677,33767463,2024-04-30 04:02:50,AB,2607,30,DEL,human,UpdateSupplementaryInfoAction,"2024-04-30 04:02:50,660 INFO  [fa6d31d92210148c] [AB2607 /30 DEL | human       | UpdateSupplementaryInfoAction       |                                | default task-24]  Saved:",STATUS LOADING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 5
+550826,33779720,2024-04-30 06:35:57,AB,2323,30,GAU,human,UpdateTransitLoadTableAction,"2024-04-30 06:35:57,371 INFO  [64ce50f20c42aabe] [AB2323 /30 GAU | human       | UpdateTransitLoadTableAction        |                                | default task-59]  Received:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260162  flightId = 517852 legId = 543264  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ NULL      NULL         ESTIMATE  53.00     KG   0         0.00      BLR       BLR       IXA       C         4         true      NULL 
+ NULL      NULL         ESTIMATE  64.00     KG   0         0.00      BLR       BLR       IXA       C         1         true      AVI"
+550827,33779727,2024-04-30 06:35:57,AB,2323,30,GAU,human,UpdateTransitLoadTableAction,"2024-04-30 06:35:57,374 INFO  [64ce50f20c42aabe] [AB2323 /30 GAU | human       | UpdateTransitLoadTableAction        |                                | default task-59]  Saved:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260162  flightId = 517852 legId = 543264  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 7375805   NULL         ESTIMATE  253.00    KG   26        0.00      GAU       GAU       IXA       B         4         false     NULL 
+ 7375804   NULL         ESTIMATE  1011.00   KG   104       0.00      GAU       GAU       IXA       B         3         false     NULL 
+ 7375803   NULL         ESTIMATE  117.00    KG   0         0.00      GAU       GAU       IXA       C         1         false     NULL 
+ 7375802   NULL         ESTIMATE  1109.00   KG   0         0.00      GAU       GAU       IXA       C         2         false     NULL 
+ 7375266   NULL         ESTIMATE  64.00     KG   0         0.00      BLR       BLR       IXA       C         1         true      AVI 
+ 7375265   NULL         ESTIMATE  53.00     KG   0         0.00      BLR       BLR       IXA       C         4         true      NULL 
+
+Total baggage      : 1264.00  KG               
+Total cargo        : 1343.00  KG               
+Total EIC          : 0.00     KG               
+Total mail         : 0.00     KG               
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+550840,33781401,2024-04-30 07:01:34,AB,2486,30,MAA,human,UpdateTransitLoadTableAction,"2024-04-30 07:01:34,116 INFO  [1bf4127ee0072763] [AB2486 /30 MAA | human      | UpdateTransitLoadTableAction        |                                | default task-32]  Received:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260391  flightId = 517486 legId = 543172  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ NULL      NULL         ESTIMATE  205.00    KG   15        0.00      IXZ       IXZ       BLR       B         1         true      NULL"
+550841,33781408,2024-04-30 07:01:34,AB,2486,30,MAA,human,UpdateTransitLoadTableAction,"2024-04-30 07:01:34,118 INFO  [1bf4127ee0072763] [AB2486 /30 MAA | human      | UpdateTransitLoadTableAction        |                                | default task-32]  Saved:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260391  flightId = 517486 legId = 543172  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 7374537   NULL         ESTIMATE  1002.00   KG   100       0.00      MAA       MAA       BLR       B         2         false     NULL 
+ 7374538   NULL         ESTIMATE  100.00    KG   10        0.00      MAA       MAA       BLR       B         3         false     NULL 
+ 7374539   NULL         ESTIMATE  1000.00   KG   0         0.00      MAA       MAA       BLR       C         3         false     NULL 
+ 7375882   NULL         ESTIMATE  205.00    KG   15        0.00      IXZ       IXZ       BLR       B         1         true      NULL 
+
+Total baggage      : 1307.00  KG               
+Total cargo        : 1000.00  KG               
+Total EIC          : 0.00     KG               
+Total mail         : 0.00     KG               
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 6"
+550848,33781112,2024-04-30 07:06:12,AB,2323,30,GAU,human,UpdateTransitLoadTableAction,"2024-04-30 07:06:12,205 INFO  [fd790afa8d444c9] [AB2323 /30 GAU | human       | UpdateTransitLoadTableAction        |                                | default task-26]  Received:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260162  flightId = 517852 legId = 543264  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ NULL      NULL         ESTIMATE  53.00     KG   0         0.00      BLR       BLR       IXA       C         4         true      NULL 
+ NULL      NULL         ESTIMATE  64.00     KG   0         0.00      BLR       BLR       IXA       C         1         true      AVI"
+550849,33781119,2024-04-30 07:06:12,AB,2323,30,GAU,human,UpdateTransitLoadTableAction,"2024-04-30 07:06:12,208 INFO  [fd790afa8d444c9] [AB2323 /30 GAU | human       | UpdateTransitLoadTableAction        |                                | default task-26]  Saved:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260162  flightId = 517852 legId = 543264  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 7375488   NULL         ESTIMATE  64.00     KG   0         0.00      BLR       BLR       IXA       C         1         true      AVI 
+ 7375487   NULL         ESTIMATE  53.00     KG   0         0.00      BLR       BLR       IXA       C         4         true      NULL 
+ 7375676   NULL         ESTIMATE  1109.00   KG   0         0.00      GAU       GAU       IXA       C         2         false     NULL 
+ 7375675   NULL         ESTIMATE  983.00    KG   104       0.00      GAU       GAU       IXA       B         3         false     NULL 
+
+Total baggage      : 983.00   KG               
+Total cargo        : 1226.00  KG               
+Total EIC          : 0.00     KG               
+Total mail         : 0.00     KG               
+STATUS LOADING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+550916,33787528,2024-04-30 08:06:59,AB,2608,30,DEL,human,UpdateTransitLoadTableAction,"2024-04-30 08:06:59,490 INFO  [d021d816c7337715] [AB2608 /30 DEL | human      | UpdateTransitLoadTableAction        |                                | default task-2]  Received:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260144  flightId = 517406 legId = 542932  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ NULL      NULL         ESTIMATE  12.00     KG   1         0.00      AYJ       AYJ       PNQ       B         1         true      NULL"
+550917,33787535,2024-04-30 08:06:59,AB,2608,30,DEL,human,UpdateTransitLoadTableAction,"2024-04-30 08:06:59,492 INFO  [d021d816c7337715] [AB2608 /30 DEL | human      | UpdateTransitLoadTableAction        |                                | default task-2]  Saved:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260144  flightId = 517406 legId = 542932  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 7375478   NULL         ESTIMATE  1306.00   KG   110       0.00      DEL       DEL       PNQ       B         3         false     NULL 
+ 7375477   NULL         ESTIMATE  309.00    KG   26        0.00      DEL       DEL       PNQ       B         4         false     NULL 
+ 7375476   NULL         ESTIMATE  781.00    KG   0         0.00      DEL       DEL       PNQ       C         3         false     NULL 
+ 7375475   NULL         ESTIMATE  1422.00   KG   0         0.00      DEL       DEL       PNQ       C         2         false     NULL 
+ 7376401   NULL         ESTIMATE  12.00     KG   1         0.00      AYJ       AYJ       PNQ       B         1         true      NULL 
+
+Total baggage      : 1627.00  KG               
+Total cargo        : 2203.00  KG               
+Total EIC          : 0.00     KG               
+Total mail         : 0.00     KG               
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 5"
+550976,33792162,2024-04-30 08:59:04,AB,2608,30,DEL,human,UpdateTransitLoadTableAction,"2024-04-30 08:59:04,564 INFO  [1ddb48f54250c23a] [AB2608 /30 DEL | human     | UpdateTransitLoadTableAction        |                                | default task-32]  Received:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260144  flightId = 517406 legId = 542932  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ NULL      NULL         ESTIMATE  12.00     KG   1         0.00      AYJ       AYJ       PNQ       B         1         true      NULL"
+550977,33792169,2024-04-30 08:59:04,AB,2608,30,DEL,human,UpdateTransitLoadTableAction,"2024-04-30 08:59:04,566 INFO  [1ddb48f54250c23a] [AB2608 /30 DEL | human     | UpdateTransitLoadTableAction        |                                | default task-32]  Saved:","com.onesystem.lc2.manualloadplanning.dto.LoadDTO [ id = 2260144  flightId = 517406 legId = 542932  deleted = false  fragmentId = LoadFragment ]
+BULK
+ Item Id   Number       Status    Weight         Pieces    Volume    Origin    Onl.Sta.  Dest.     Category  Position  Confirmed  Remarks  
+ 7376176   NULL         ESTIMATE  1422.00   KG   0         0.00      DEL       DEL       PNQ       C         2         false     NULL 
+ 7376180   NULL         ESTIMATE  1167.00   KG   101       0.00      DEL       DEL       PNQ       B         3         false     NULL 
+ 7376178   NULL         ESTIMATE  301.00    KG   26        0.00      DEL       DEL       PNQ       B         4         false     NULL 
+ 7376642   NULL         ESTIMATE  12.00     KG   1         0.00      AYJ       AYJ       PNQ       B         1         true      NULL 
+ 7376177   NULL         ESTIMATE  781.00    KG   0         0.00      DEL       DEL       PNQ       C         3         false     NULL 
+
+Total baggage      : 1480.00  KG               
+Total cargo        : 2203.00  KG               
+Total EIC          : 0.00     KG               
+Total mail         : 0.00     KG               
+STATUS LOADING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 CALC_HIST_DATA 1 CHECK_IN_OPEN 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 5"
