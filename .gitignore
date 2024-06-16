@@ -30,6 +30,7 @@ __pycache__/
 data/america_data.csv
 data/asia_data.csv
 data/europe_data.csv
-data/asia_data.parquet
-data/europe_data.parquet
-data/america_data.parquet
+data/data_parquet/asia_data.parquet
+data/data_parquet/europe_data.parquet
+data/data_parquet/america_data.parquet
+data/data_parquet/processed_data_combined.parquet
