@@ -3,3 +3,8 @@ pyarrow
 ipython
 openpyxl
 airportsdata
+shapely
+seaborn
+cartopy
+matplotlib
+geopandas
