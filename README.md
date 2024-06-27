@@ -51,4 +51,9 @@ by students at The Baden-Württemberg Cooperative State University (DHBW) Mannhe
    pip install -r requirements.txt
 
 
-   
+## Contributing
+We welcome contributions to enhance the Coin Counter App! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
