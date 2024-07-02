@@ -20,7 +20,7 @@ profile_default/
 ipython_config.py
 
 # Others
-__pycache__/
+__pycache__
 .vscode/
 .DS_Store
 .cache
