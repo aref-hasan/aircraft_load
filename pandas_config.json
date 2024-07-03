@@ -1,0 +1,6 @@
+{
+    "parquet": {
+        "engine": "pyarrow",
+        "compression": "snappy"
+    }
+}
