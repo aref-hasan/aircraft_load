@@ -1,0 +1,1019 @@
+id,creation_time,airline_code,flight_number,flight_date,departure_airport,user_name,action_name,header_line,entry_details
+375134361,2024-04-30 10:41:44,ZY,999.0,30.0,GRU,human,UpdateFuelDataAction,"2024-04-30 10:41:44,277 INFO  [87a844a4ed49118] [ZY999 /30 GRU | human  | UpdateFuelDataAction                |                                | default task-127]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293451 legId = 2404130  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 6                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.785 KGPERCUBICMETER     Trip Fuel           : 6387.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 18623.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 8787.0 KG                
+                                                 Taxi Fuel           : 138.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375134362,2024-04-30 10:41:44,ZY,999.0,30.0,GRU,human,UpdateFuelDataAction,"2024-04-30 10:41:44,279 INFO  [87a844a4ed49118] [ZY999 /30 GRU | human  | UpdateFuelDataAction                |                                | default task-127]  Saved:","FUEL  trip=6387.0 KG taxi=138.0 KG takeoff=8787.0 KG ballast=null edno=7 RO=678.0 KG RI=3784.5 KG LO=678.0 KG LI=3784.5 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0"
+375134458,2024-04-30 10:52:34,ZY,999.0,30.0,GRU,human,UpdateFuelDataAction,"2024-04-30 10:52:34,068 INFO  [9da18286b467c225] [ZY999 /30 GRU | human  | UpdateFuelDataAction                |                                | default task-127]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293451 legId = 2404130  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 7                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.785 KGPERCUBICMETER     Trip Fuel           : 6389.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 18623.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 8809.0 KG                
+                                                 Taxi Fuel           : 138.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375134459,2024-04-30 10:52:34,ZY,999.0,30.0,GRU,human,UpdateFuelDataAction,"2024-04-30 10:52:34,070 INFO  [9da18286b467c225] [ZY999 /30 GRU | human  | UpdateFuelDataAction                |                                | default task-127]  Saved:","FUEL  trip=6389.0 KG taxi=138.0 KG takeoff=8809.0 KG ballast=null edno=8 RO=678.0 KG RI=3795.5 KG LO=678.0 KG LI=3795.5 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0"
+375138221,2024-04-30 12:40:18,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:40:18,290 INFO  [9884135954a293ac] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293491 legId = 2404170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 10630.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14407.0 KG               
+                                                 Taxi Fuel           : 121.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375138222,2024-04-30 12:40:18,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:40:18,292 INFO  [9884135954a293ac] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Saved:","FUEL  trip=10630.0 KG taxi=121.0 KG takeoff=14407.0 KG ballast=null edno=2 CT=5324.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375138386,2024-04-30 12:48:38,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:48:38,013 INFO  [b15d8f1ee65fd2cb] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-127]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293491 legId = 2404170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 5                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 10630.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14479.0 KG               
+                                                 Taxi Fuel           : 121.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375138387,2024-04-30 12:48:38,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:48:38,015 INFO  [b15d8f1ee65fd2cb] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-127]  Saved:","FUEL  trip=10630.0 KG taxi=121.0 KG takeoff=14479.0 KG ballast=null edno=6 CT=5396.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS LOZYSHEET 1 LOZYING_INSTRUCTION 1 FUEL 4 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0"
+375138436,2024-04-30 13:02:14,ZY,9888.0,30.0,LIS,human,UpdateFuelDataAction,"2024-04-30 13:02:14,462 INFO  [8c170c380f05ae52] [ZY9888 /30 LIS | human  | UpdateFuelDataAction                |                                | default task-128]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293471 legId = 2404150  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 11                        Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.795 KGPERCUBICMETER     Trip Fuel           : 55712.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 110577.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 63856.0 KG               
+                                                 Taxi Fuel           : 336.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375138437,2024-04-30 13:02:14,ZY,9888.0,30.0,LIS,human,UpdateFuelDataAction,"2024-04-30 13:02:14,463 INFO  [8c170c380f05ae52] [ZY9888 /30 LIS | human  | UpdateFuelDataAction                |                                | default task-128]  Saved:","FUEL  trip=55712.0 KG taxi=336.0 KG takeoff=63856.0 KG ballast=null edno=12 RO=2902.0 KG RI=27394.0 KG TRIM=3600.0 KG LO=2902.0 KG LI=27394.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 9 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 9 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0"
+375138608,2024-04-30 12:50:44,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:50:44,890 INFO  [d6b1092108684e05] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293491 legId = 2404170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 7                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 10621.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14479.0 KG               
+                                                 Taxi Fuel           : 121.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375138609,2024-04-30 12:50:44,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:50:44,891 INFO  [d6b1092108684e05] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Saved:","FUEL  trip=10621.0 KG taxi=121.0 KG takeoff=14479.0 KG ballast=null edno=8 CT=5396.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS LOZYSHEET 1 LOZYING_INSTRUCTION 1 FUEL 5 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 ALLOWANCE_CHECK_PERFORMED 0 DGR_ITEMS 0"
+375138612,2024-04-30 12:51:38,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:51:38,083 INFO  [f7040a6fac26023c] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293491 legId = 2404170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 8                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 10621.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14393.0 KG               
+                                                 Taxi Fuel           : 121.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375138613,2024-04-30 12:51:38,ZY,4483.0,30.0,BEL,human,UpdateFuelDataAction,"2024-04-30 12:51:38,085 INFO  [f7040a6fac26023c] [ZY4483 /30 BEL | human | UpdateFuelDataAction                |                                | default task-128]  Saved:","FUEL  trip=10621.0 KG taxi=121.0 KG takeoff=14393.0 KG ballast=null edno=9 CT=5310.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS LOZYSHEET 2 LOZYING_INSTRUCTION 1 FUEL 6 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0"
+375144328,2024-04-30 15:52:04,ZY,9700.0,30.0,ORY,human,UpdateFuelDataAction,"2024-04-30 15:52:04,104 INFO  [93727dd2eb0d3adc] [ZY9700 /30 ORY | human | UpdateFuelDataAction                |                                | default task-132]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293511 legId = 2404190  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 7                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.795 KGPERCUBICMETER     Trip Fuel           : 51486.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 110577.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 61055.0 KG               
+                                                 Taxi Fuel           : 252.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375144329,2024-04-30 15:52:04,ZY,9700.0,30.0,ORY,human,UpdateFuelDataAction,"2024-04-30 15:52:04,106 INFO  [93727dd2eb0d3adc] [ZY9700 /30 ORY | human | UpdateFuelDataAction                |                                | default task-132]  Saved:","FUEL  trip=51486.0 KG taxi=252.0 KG takeoff=61055.0 KG ballast=null edno=8 RO=2902.0 KG RI=25951.5 KG TRIM=3600.0 KG LO=2902.0 KG LI=25951.5 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375144527,2024-04-30 15:58:36,ZY,9700.0,30.0,REC,human,UpdateFuelDataAction,"2024-04-30 15:58:36,570 INFO  [956da6bd9903886] [ZY9700 /30 REC | human | UpdateFuelDataAction                |                                | default task-131]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293511 legId = 2404210  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.795 KGPERCUBICMETER     Trip Fuel           : 15437.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 110577.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 24078.0 KG               
+                                                 Taxi Fuel           : 252.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375144528,2024-04-30 15:58:36,ZY,9700.0,30.0,REC,human,UpdateFuelDataAction,"2024-04-30 15:58:36,571 INFO  [956da6bd9903886] [ZY9700 /30 REC | human | UpdateFuelDataAction                |                                | default task-131]  Saved:","FUEL  trip=15437.0 KG taxi=252.0 KG takeoff=24078.0 KG ballast=null edno=3 RO=2902.0 KG RI=9048.0 KG TRIM=430.0 KG LO=2902.0 KG LI=9048.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 AUTO_MODE_ACTIVE 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375243827,2024-05-01 18:05:57,ZY,2111.0,1.0,SDU,human,UpdateFuelDataAction,"2024-05-01 18:05:57,830 INFO  [6457286c0ebdb603] [ZY2111 /01 SDU | human  | UpdateFuelDataAction                |                                | default task-163]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2293619 legId = 2404358  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1910.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 4063.0 KG                
+                                                 Taxi Fuel           : 108.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375243848,2024-05-01 18:05:57,ZY,2111.0,1.0,SDU,human,UpdateFuelDataAction,"2024-05-01 18:05:57,832 INFO  [6457286c0ebdb603] [ZY2111 /01 SDU | human  | UpdateFuelDataAction                |                                | default task-163]  Saved:","FUEL  trip=1910.0 KG taxi=108.0 KG takeoff=4063.0 KG ballast=null edno=4
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375244876,2024-05-01 18:48:43,ZY,3222.0,1.0,POA,human,UpdateFuelDataAction,"2024-05-01 18:48:43,816 INFO  [cfd054f1f9411aab] [ZY3222 /01 POA | human  | UpdateFuelDataAction                |                                | default task-163]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294731 legId = 2405450  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.795 KGPERCUBICMETER     Trip Fuel           : 3527.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13563.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 6213.0 KG                
+                                                 Taxi Fuel           : 99.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375244877,2024-05-01 18:48:43,ZY,3222.0,1.0,POA,human,UpdateFuelDataAction,"2024-05-01 18:48:43,818 INFO  [cfd054f1f9411aab] [ZY3222 /01 POA | human  | UpdateFuelDataAction                |                                | default task-163]  Saved:","FUEL  trip=3527.0 KG taxi=99.0 KG takeoff=6213.0 KG ballast=null edno=3 CT=1972.0 KG LM=2170.0 KG RM=2170.0 KG
+STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375244978,2024-05-01 18:56:10,ZY,3222.0,1.0,POA,human,UpdateFuelDataAction,"2024-05-01 18:56:10,662 INFO  [31f8e6ac2bd49db0] [ZY3222 /01 POA | human  | UpdateFuelDataAction                |                                | default task-163]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294731 legId = 2405450  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.795 KGPERCUBICMETER     Trip Fuel           : 3536.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13563.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 6477.0 KG                
+                                                 Taxi Fuel           : 99.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375244979,2024-05-01 18:56:10,ZY,3222.0,1.0,POA,human,UpdateFuelDataAction,"2024-05-01 18:56:10,664 INFO  [31f8e6ac2bd49db0] [ZY3222 /01 POA | human  | UpdateFuelDataAction                |                                | default task-163]  Saved:","FUEL  trip=3536.0 KG taxi=99.0 KG takeoff=6477.0 KG ballast=null edno=4 CT=2236.0 KG LM=2170.0 KG RM=2170.0 KG
+STATUS LOZYSHEET 1 LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375247375,2024-05-01 20:12:00,ZY,4333.0,1.0,NAT,human,UpdateFuelDataAction,"2024-05-01 20:12:00,109 INFO  [c9bc1b3302cb4860] [ZY4333 /01 NAT | human  | UpdateFuelDataAction                |                                | default task-166]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294751 legId = 2405470  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 8332.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 11653.0 KG               
+                                                 Taxi Fuel           : 81.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375247376,2024-05-01 20:12:00,ZY,4333.0,1.0,NAT,human,UpdateFuelDataAction,"2024-05-01 20:12:00,110 INFO  [c9bc1b3302cb4860] [ZY4333 /01 NAT | human  | UpdateFuelDataAction                |                                | default task-166]  Saved:","FUEL  trip=8332.0 KG taxi=81.0 KG takeoff=11653.0 KG ballast=null edno=3
+STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375264995,2024-05-02 10:49:57,ZY,8777.0,2.0,MVD,human,UpdateFuelDataAction,"2024-05-02 10:49:57,105 INFO  [f7295596f5aa87cd] [ZY8777 /02 MVD | human  | UpdateFuelDataAction                |                                | default task-168]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294771 legId = 2405490  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 8799.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14096.0 KG               
+                                                 Taxi Fuel           : 99.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375264996,2024-05-02 10:49:57,ZY,8777.0,2.0,MVD,human,UpdateFuelDataAction,"2024-05-02 10:49:57,107 INFO  [f7295596f5aa87cd] [ZY8777 /02 MVD | human  | UpdateFuelDataAction                |                                | default task-168]  Saved:","FUEL  trip=8799.0 KG taxi=99.0 KG takeoff=14096.0 KG ballast=null edno=2 CT=4991.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375265239,2024-05-02 10:56:18,ZY,8777.0,2.0,MVD,human,UpdateFuelDataAction,"2024-05-02 10:56:18,066 INFO  [3f3a067115623df1] [ZY8777 /02 MVD | human  | UpdateFuelDataAction                |                                | default task-168]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294771 legId = 2405490  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 8732.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 14132.0 KG               
+                                                 Taxi Fuel           : 99.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375265240,2024-05-02 10:56:18,ZY,8777.0,2.0,MVD,human,UpdateFuelDataAction,"2024-05-02 10:56:18,068 INFO  [3f3a067115623df1] [ZY8777 /02 MVD | human  | UpdateFuelDataAction                |                                | default task-168]  Saved:","FUEL  trip=8732.0 KG taxi=99.0 KG takeoff=14132.0 KG ballast=null edno=4 CT=5027.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375266253,2024-05-02 11:37:24,ZY,8777.0,2.0,CGB,human,UpdateFuelDataAction,"2024-05-02 11:37:24,918 INFO  [8c36465eeabe0711] [ZY8777A/02 CGB | human  | UpdateFuelDataAction                |                                | default task-168]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294791 legId = 2405510  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 5967.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 16304.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 11170.0 KG               
+                                                 Taxi Fuel           : 121.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375266254,2024-05-02 11:37:24,ZY,8777.0,2.0,CGB,human,UpdateFuelDataAction,"2024-05-02 11:37:24,920 INFO  [8c36465eeabe0711] [ZY8777A/02 CGB | human  | UpdateFuelDataAction                |                                | default task-168]  Saved:","FUEL  trip=5967.0 KG taxi=121.0 KG takeoff=11170.0 KG ballast=null edno=3 CT=2087.0 KG LM=4602.0 KG RM=4602.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375292727,2024-05-03 09:29:53,ZY,2022.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:29:53,131 INFO  [c5197f86bbba6ba4] [ZY2022 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294894 legId = 2405613  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375293005,2024-05-03 09:30:28,ZY,2023.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:30:28,376 INFO  [646a99f6be39e00f] [ZY2023 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294915 legId = 2405634  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375293006,2024-05-03 09:30:28,ZY,2023.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:30:28,378 INFO  [646a99f6be39e00f] [ZY2023 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294564,2024-05-03 09:17:07,ZY,2000.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:17:07,807 INFO  [463977015f969727] [ZY2000 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294811 legId = 2405530  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294565,2024-05-03 09:17:07,ZY,2000.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:17:07,809 INFO  [463977015f969727] [ZY2000 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294673,2024-05-03 09:17:48,ZY,2001.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:17:48,722 INFO  [3bd8cc1978693f12] [ZY2001 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294812 legId = 2405531  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294674,2024-05-03 09:17:48,ZY,2001.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:17:48,724 INFO  [3bd8cc1978693f12] [ZY2001 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294725,2024-05-03 09:18:56,ZY,2003.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:18:56,237 INFO  [d3d866fd0672a98b] [ZY2003 /03 VCP | human | UpdateFuelDataAction                |                                | default task-36]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294813 legId = 2405532  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294726,2024-05-03 09:18:56,ZY,2003.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:18:56,239 INFO  [d3d866fd0672a98b] [ZY2003 /03 VCP | human | UpdateFuelDataAction                |                                | default task-36]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294730,2024-05-03 09:18:20,ZY,2002.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:18:20,946 INFO  [835b93998411e75c] [ZY2002 /03 VCP | human | UpdateFuelDataAction                |                                | default task-36]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294831 legId = 2405550  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294731,2024-05-03 09:18:20,ZY,2002.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:18:20,948 INFO  [835b93998411e75c] [ZY2002 /03 VCP | human | UpdateFuelDataAction                |                                | default task-36]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294803,2024-05-03 09:19:28,ZY,2004.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:19:28,432 INFO  [239aeab96032744b] [ZY2004 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294851 legId = 2405570  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294804,2024-05-03 09:19:28,ZY,2004.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:19:28,433 INFO  [239aeab96032744b] [ZY2004 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294841,2024-05-03 09:24:22,ZY,2012.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:24:22,758 INFO  [dce41d170dd62b2f] [ZY2012 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294837 legId = 2405556  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294842,2024-05-03 09:24:22,ZY,2012.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:24:22,760 INFO  [dce41d170dd62b2f] [ZY2012 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375294932,2024-05-03 09:20:09,ZY,2005.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:20:09,101 INFO  [14c8b4a11a8da30b] [ZY2005 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294871 legId = 2405590  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375294933,2024-05-03 09:20:09,ZY,2005.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:20:09,103 INFO  [14c8b4a11a8da30b] [ZY2005 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295067,2024-05-03 09:20:48,ZY,2006.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:20:48,853 INFO  [71093b04d37c1e01] [ZY2006 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294832 legId = 2405551  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295068,2024-05-03 09:20:48,ZY,2006.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:20:48,855 INFO  [71093b04d37c1e01] [ZY2006 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=4
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295102,2024-05-03 09:21:22,ZY,2007.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:21:22,730 INFO  [3d6eba6ff24e9ab] [ZY2007 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294833 legId = 2405552  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295103,2024-05-03 09:21:22,ZY,2007.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:21:22,732 INFO  [3d6eba6ff24e9ab] [ZY2007 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295141,2024-05-03 09:22:02,ZY,2008.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:22:02,070 INFO  [12bd3ebcdc52670c] [ZY2008 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294872 legId = 2405591  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295142,2024-05-03 09:22:02,ZY,2008.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:22:02,072 INFO  [12bd3ebcdc52670c] [ZY2008 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295193,2024-05-03 09:22:34,ZY,2009.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:22:34,335 INFO  [15f56527f2c55e49] [ZY2009 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294834 legId = 2405553  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295194,2024-05-03 09:22:34,ZY,2009.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:22:34,336 INFO  [15f56527f2c55e49] [ZY2009 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295249,2024-05-03 09:23:09,ZY,2010.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:23:09,782 INFO  [f1bd09525706e13c] [ZY2010 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294835 legId = 2405554  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295250,2024-05-03 09:23:09,ZY,2010.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:23:09,784 INFO  [f1bd09525706e13c] [ZY2010 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295285,2024-05-03 09:23:42,ZY,2011.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:23:42,256 INFO  [5cd4cd7f5ec4a4df] [ZY2011 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294836 legId = 2405555  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295286,2024-05-03 09:23:42,ZY,2011.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:23:42,257 INFO  [5cd4cd7f5ec4a4df] [ZY2011 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295354,2024-05-03 09:25:01,ZY,2013.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:25:01,958 INFO  [e994dc1122303b2] [ZY2013 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294873 legId = 2405592  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295355,2024-05-03 09:25:01,ZY,2013.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:25:01,959 INFO  [e994dc1122303b2] [ZY2013 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295487,2024-05-03 09:25:33,ZY,2014.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:25:33,732 INFO  [a6e6158c325a0e3c] [ZY2014 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294874 legId = 2405593  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295488,2024-05-03 09:25:33,ZY,2014.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:25:33,734 INFO  [a6e6158c325a0e3c] [ZY2014 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295529,2024-05-03 09:26:04,ZY,2015.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:26:04,260 INFO  [7a0280914dfe8236] [ZY2015 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294891 legId = 2405610  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295530,2024-05-03 09:26:04,ZY,2015.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:26:04,262 INFO  [7a0280914dfe8236] [ZY2015 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295570,2024-05-03 09:26:35,ZY,2016.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:26:35,141 INFO  [d6c6b19670123f52] [ZY2016 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294911 legId = 2405630  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295571,2024-05-03 09:26:35,ZY,2016.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:26:35,143 INFO  [d6c6b19670123f52] [ZY2016 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295608,2024-05-03 09:27:10,ZY,2017.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:27:10,227 INFO  [a2a315f683d8de1e] [ZY2017 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294912 legId = 2405631  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295609,2024-05-03 09:27:10,ZY,2017.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:27:10,229 INFO  [a2a315f683d8de1e] [ZY2017 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295627,2024-05-03 09:27:41,ZY,2018.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:27:41,989 INFO  [f77bd997d1cea86] [ZY2018 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294892 legId = 2405611  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295668,2024-05-03 09:27:41,ZY,2018.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:27:41,991 INFO  [f77bd997d1cea86] [ZY2018 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295678,2024-05-03 09:28:13,ZY,2019.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:28:13,097 INFO  [89a9049c8f0ddf57] [ZY2019 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294913 legId = 2405632  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295679,2024-05-03 09:28:13,ZY,2019.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:28:13,099 INFO  [89a9049c8f0ddf57] [ZY2019 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295736,2024-05-03 09:28:51,ZY,2020.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:28:51,207 INFO  [139c4fd6781098ce] [ZY2020 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294914 legId = 2405633  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295737,2024-05-03 09:28:51,ZY,2020.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:28:51,209 INFO  [139c4fd6781098ce] [ZY2020 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295777,2024-05-03 09:29:22,ZY,2021.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:29:22,618 INFO  [3eabec3285d0da3b] [ZY2021 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294893 legId = 2405612  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295778,2024-05-03 09:29:22,ZY,2021.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:29:22,620 INFO  [3eabec3285d0da3b] [ZY2021 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295908,2024-05-03 09:29:53,ZY,2022.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:29:53,133 INFO  [c5197f86bbba6ba4] [ZY2022 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375295984,2024-05-03 09:31:42,ZY,2025.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:31:42,832 INFO  [bc99d2266b8ba7a5] [ZY2025 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294792 legId = 2405511  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375295985,2024-05-03 09:31:42,ZY,2025.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:31:42,834 INFO  [bc99d2266b8ba7a5] [ZY2025 /03 VCP | human | UpdateFuelDataAction                |                                | default task-55]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375296005,2024-05-03 09:31:04,ZY,2024.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:31:04,520 INFO  [51a1b5063d7b9aac] [ZY2024 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2294916 legId = 2405635  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 800.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375296006,2024-05-03 09:31:04,ZY,2024.0,3.0,VCP,human,UpdateFuelDataAction,"2024-05-03 09:31:04,522 INFO  [51a1b5063d7b9aac] [ZY2024 /03 VCP | human | UpdateFuelDataAction                |                                | default task-53]  Saved:","FUEL  trip=800.0 KG taxi=70.0 KG takeoff=2000.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375373154,2024-05-03 16:59:06,ZY,2111.0,3.0,BVH,human,UpdateFuelDataAction,"2024-05-03 16:59:06,555 INFO  [55addfc5954d557b] [ZY2111 /03 BVH | human  | UpdateFuelDataAction                |                                | default task-58]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2297048 legId = 2407768  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 7292.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 9562.0 KG                
+                                                 Taxi Fuel           : 45.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375373155,2024-05-03 16:59:06,ZY,2111.0,3.0,BVH,human,UpdateFuelDataAction,"2024-05-03 16:59:06,557 INFO  [55addfc5954d557b] [ZY2111 /03 BVH | human  | UpdateFuelDataAction                |                                | default task-58]  Saved:","FUEL  trip=7292.0 KG taxi=45.0 KG takeoff=9562.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375448822,2024-05-05 12:37:09,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:09,464 INFO  [2ee2b38359ce5d3b] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2298431 legId = 2409170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 4646.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 9015.0 KG                
+                                                 Taxi Fuel           : 135.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375448823,2024-05-05 12:37:09,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:09,466 INFO  [2ee2b38359ce5d3b] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=4646.0 KG taxi=135.0 KG takeoff=9015.0 KG ballast=1000.0 KG edno=4
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375448826,2024-05-05 12:37:14,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:14,378 INFO  [63f2b2b210c976ec] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2298431 legId = 2409170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 4                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 4646.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 9015.0 KG                
+                                                 Taxi Fuel           : 135.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375448827,2024-05-05 12:37:14,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:14,380 INFO  [63f2b2b210c976ec] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=4646.0 KG taxi=135.0 KG takeoff=9015.0 KG ballast=1400.0 KG edno=5
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375448861,2024-05-05 12:37:03,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:03,011 INFO  [32a8530a1bec4950] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2298431 legId = 2409170  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 4646.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 9015.0 KG                
+                                                 Taxi Fuel           : 135.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375448862,2024-05-05 12:37:03,ZY,2121.0,5.0,VCP,human,UpdateFuelDataAction,"2024-05-05 12:37:03,013 INFO  [32a8530a1bec4950] [ZY2121 /05 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=4646.0 KG taxi=135.0 KG takeoff=9015.0 KG ballast=null edno=3
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375534301,2024-05-06 14:08:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:57,309 INFO  [82672483c95c9447] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 12                        Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375534302,2024-05-06 14:08:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:57,311 INFO  [82672483c95c9447] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=null edno=13
+STATUS FUEL 10 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375534604,2024-05-06 14:04:48,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:48,427 INFO  [258ef3fca0887a7e] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 980.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2800.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375534605,2024-05-06 14:04:48,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:48,429 INFO  [258ef3fca0887a7e] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=980.0 KG taxi=70.0 KG takeoff=2800.0 KG ballast=900.0 KG edno=3
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535043,2024-05-06 14:05:44,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:05:44,610 INFO  [439c09edc0397dfd] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 4                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535044,2024-05-06 14:05:44,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:05:44,612 INFO  [439c09edc0397dfd] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=null edno=5
+STATUS FUEL 4 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535047,2024-05-06 14:05:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:05:57,323 INFO  [2d648306d4c1e6a7] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 5                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535072,2024-05-06 14:04:40,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:40,753 INFO  [ef6d42a0698389e2] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 980.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2800.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535073,2024-05-06 14:04:40,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:40,755 INFO  [ef6d42a0698389e2] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=980.0 KG taxi=70.0 KG takeoff=2800.0 KG ballast=null edno=2
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535088,2024-05-06 14:04:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:57,159 INFO  [142ab28d0e866758] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 980.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 2800.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535089,2024-05-06 14:04:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:04:57,160 INFO  [142ab28d0e866758] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Saved:","FUEL  trip=980.0 KG taxi=70.0 KG takeoff=2800.0 KG ballast=null edno=4
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535128,2024-05-06 14:05:57,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:05:57,325 INFO  [2d648306d4c1e6a7] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=1200.0 KG edno=6
+STATUS FUEL 5 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535131,2024-05-06 14:06:04,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:06:04,101 INFO  [df85085bf2f2dc0a] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 6                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535132,2024-05-06 14:06:04,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:06:04,102 INFO  [df85085bf2f2dc0a] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=450.0 KG edno=7
+STATUS FUEL 6 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535149,2024-05-06 14:06:09,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:06:09,808 INFO  [50d57fc1dcf3e4cb] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 7                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535150,2024-05-06 14:06:09,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:06:09,810 INFO  [50d57fc1dcf3e4cb] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-101]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=null edno=8
+STATUS FUEL 7 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535159,2024-05-06 14:08:43,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:43,376 INFO  [6c8efe3e609877ab] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 10                        Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 4000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535160,2024-05-06 14:08:43,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:43,378 INFO  [6c8efe3e609877ab] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=4000.0 KG ballast=null edno=11
+STATUS FUEL 8 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535163,2024-05-06 14:08:51,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:51,470 INFO  [397378996ef6d182] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 11                        Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1200.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3800.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535164,2024-05-06 14:08:51,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:08:51,471 INFO  [397378996ef6d182] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=1200.0 KG taxi=70.0 KG takeoff=3800.0 KG ballast=null edno=12
+STATUS FUEL 9 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375535171,2024-05-06 14:09:06,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:09:06,110 INFO  [5933c5fd4a6343ad] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303367 legId = 2414220  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 13                        Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 900.0 KG                 
+ FZFW                : NULL                      Max Fuel Cap        : 5000.0 KG                
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 3000.0 KG                
+                                                 Taxi Fuel           : 70.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375535172,2024-05-06 14:09:06,ZY,1222.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 14:09:06,112 INFO  [5933c5fd4a6343ad] [ZY1222  /06 VCP | human | UpdateFuelDataAction                |                                | default task-89]  Saved:","FUEL  trip=900.0 KG taxi=70.0 KG takeoff=3000.0 KG ballast=null edno=14
+STATUS FUEL 11 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375539943,2024-05-06 17:06:06,ZY,270.0,5.0,GIG,service-acco,UpdateFuelDataAction,"2024-05-06 17:06:06,322 INFO  [43392184daa156a4] [ZY270 /05 GIG | service-acco | UpdateFuelDataAction                |                                | Thread-21111 (ActiveMQ-client-global-threads)]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = NULL  flightId = 2293240 legId = 2403900  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : 3                         Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1959.0 KG                
+ FZFW                : 30131.0 KG                Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : 4272.0 KG                
+ Triggerd by         : FLIGHT_PLANNING                                                           Take Off Fuel       : 4272.0 KG                
+                                                 Taxi Fuel           : 108.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : 0100                      Remarks             : NULL"
+375540414,2024-05-06 17:50:18,ZY,9902.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 17:50:18,760 INFO  [90a20de2c5612a0d] [ZY9902 /06 VCP | human | UpdateFuelDataAction                |                                | default task-103]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303475 legId = 2414194  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 14811.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 109186.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 24540.0 KG               
+                                                 Taxi Fuel           : 300.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375540415,2024-05-06 17:50:18,ZY,9902.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 17:50:18,762 INFO  [90a20de2c5612a0d] [ZY9902 /06 VCP | human | UpdateFuelDataAction                |                                | default task-103]  Saved:","FUEL  trip=14811.0 KG taxi=300.0 KG takeoff=24540.0 KG ballast=null edno=2 LO=2865.0 KG RO=2865.0 KG LI=9555.0 KG RI=9555.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375540548,2024-05-06 17:39:56,ZY,5258.0,6.0,SDU,human,UpdateFuelDataAction,"2024-05-06 17:39:56,744 INFO  [ebafa8e5ecf717b1] [ZY5258 /06 SDU | human | UpdateFuelDataAction                |                                | default task-103]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2300620 legId = 2411359  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 3                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 2000.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 5000.0 KG                
+                                                 Taxi Fuel           : 120.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375540549,2024-05-06 17:39:56,ZY,5258.0,6.0,SDU,human,UpdateFuelDataAction,"2024-05-06 17:39:56,746 INFO  [ebafa8e5ecf717b1] [ZY5258 /06 SDU | human | UpdateFuelDataAction                |                                | default task-103]  Saved:","FUEL  trip=2000.0 KG taxi=120.0 KG takeoff=5000.0 KG ballast=null edno=4
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375540844,2024-05-06 17:46:20,ZY,9900.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 17:46:20,889 INFO  [b36ff457c60b6e91] [ZY9900 /06 VCP | human | UpdateFuelDataAction                |                                | default task-103]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2303474 legId = 2414193  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 4                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 58259.0 KG               
+ FZFW                : NULL                      Max Fuel Cap        : 109186.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 67487.0 KG               
+                                                 Taxi Fuel           : 300.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375540845,2024-05-06 17:46:20,ZY,9900.0,6.0,VCP,human,UpdateFuelDataAction,"2024-05-06 17:46:20,891 INFO  [b36ff457c60b6e91] [ZY9900 /06 VCP | human | UpdateFuelDataAction                |                                | default task-103]  Saved:","FUEL  trip=58259.0 KG taxi=300.0 KG takeoff=67487.0 KG ballast=null edno=5 LO=2865.0 KG RO=2865.0 KG TRIM=2400.0 KG LI=29828.5 KG RI=29828.5 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
+375551214,2024-05-06 20:13:37,ZY,7058.0,6.0,CGH,service-acco,UpdateFuelDataAction,"2024-05-06 20:13:37,856 INFO  [81142cf288107b55] [ZY7058 /06 CGH | service-acco | UpdateFuelDataAction                |                                | Thread-22083 (ActiveMQ-client-global-threads)]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = NULL  flightId = 2300207 legId = 2410946  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 4                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : 7                         Density             : 0.811 KGPERCUBICMETER     Trip Fuel           : 1514.0 KG                
+ FZFW                : 39218.0 KG                Max Fuel Cap        : 13100.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : 4189.0 KG                
+ Triggerd by         : FLIGHT_PLANNING                                                           Take Off Fuel       : 4189.0 KG                
+                                                 Taxi Fuel           : 81.0 KG                  
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : 0041                      Remarks             : NULL"
+375551937,2024-05-06 20:14:40,ZY,9752.0,7.0,VCP,service-acco,UpdateFuelDataAction,"2024-05-06 20:14:40,207 INFO  [266bdfe3876a9bed] [ZY9752 /07 VCP | service-acco | UpdateFuelDataAction                |                                | Thread-22083 (ActiveMQ-client-global-threads)]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = NULL  flightId = 2294186 legId = 2404924  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 1                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : 1                         Density             : 0.801 KGPERCUBICMETER     Trip Fuel           : 56236.0 KG               
+ FZFW                : 159042.0 KG               Max Fuel Cap        : 109186.0 KG              
+ EZFW sent           : NULL                      Minimum TOF         : 65235.0 KG               
+ Triggerd by         : FLIGHT_PLANNING                                                           Take Off Fuel       : 65235.0 KG               
+                                                 Taxi Fuel           : 325.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : 0934                      Remarks             : NULL"
+375554530,2024-05-06 21:56:49,ZY,3626.0,6.0,BPS,human,UpdateFuelDataAction,"2024-05-06 21:56:49,988 INFO  [115a0957d5648610] [ZY3626 /06 BPS | human | UpdateFuelDataAction                |                                | default task-103]  Received:","
+com.systemone.lc2.fuelhandling.dto.FuelDTO [ id = 0  flightId = 2302696 legId = 2413435  deleted = false  fragmentId = FuelDataFragment ]
+ StandardFuel        : Yes                       Non standard fuel   : No                       
+ EditionNumber       : 2                         Fueling Indicator   : false                     TruckOnSbyIndicator : false                    
+                                           Manual Non Standard Index : NULL                     
+ Actual OFP No       : NULL                      Density             : 0.785 KGPERCUBICMETER     Trip Fuel           : 2500.0 KG                
+ FZFW                : NULL                      Max Fuel Cap        : 18623.0 KG               
+ EZFW sent           : NULL                      Minimum TOF         : NULL                     
+ Triggerd by         : MANUAL_INPUT                                                              Take Off Fuel       : 6000.0 KG                
+                                                 Taxi Fuel           : 200.0 KG                 
+
+                                                                                                 Planning Fuel       : NULL                     
+
+ Flight Time         : NULL                      Remarks             :"
+375554531,2024-05-06 21:56:49,ZY,3626.0,6.0,BPS,human,UpdateFuelDataAction,"2024-05-06 21:56:49,990 INFO  [115a0957d5648610] [ZY3626 /06 BPS | human | UpdateFuelDataAction                |                                | default task-103]  Saved:","FUEL  trip=2500.0 KG taxi=200.0 KG takeoff=6000.0 KG ballast=null edno=3 LO=678.0 KG RO=678.0 KG LI=2422.0 KG RI=2422.0 KG
+STATUS FUEL 1 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1"
