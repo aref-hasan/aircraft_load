@@ -9,7 +9,7 @@ processed_data_path_aref = '/Users/arefhasan/Documents/uni_proejcts/aircraft_loa
 data = pd.read_parquet(processed_data_path_aref)
 
 # define the directory to save the action files
-actions_dir = '../aircraft_load/data_engineering/actions'
+actions_dir = '../aircraft_load/data_engineering/actions/todo'
 
 # create the directory if it doesn't exist
 if not os.path.exists(actions_dir):
