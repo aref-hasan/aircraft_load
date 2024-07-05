@@ -55,6 +55,8 @@ PySocks
 python-dateutil
 pytz
 pyzmq
+pycelonis
+pycelonis_core
 requests
 seaborn
 selenium
