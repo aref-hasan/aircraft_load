@@ -1,12 +1,13 @@
 import pandas as pd
 import os
 
-datei = '../process/data/data_csv/combined_data.csv'
+datei = 'aircraft_load/data/data_process/data_process_csv/combined_data.csv'
+
 df = pd.read_csv(datei)
 
 df_ersten_1000 = df.head(1000)
 
-zielverzeichnis = '../process/data/data_csv'
+zielverzeichnis = '../data/data_process/data_process_csv'
 
 os.makedirs(zielverzeichnis, exist_ok=True)
 
