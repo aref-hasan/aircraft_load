@@ -1,0 +1,189 @@
+id,creation_time,airline_code,flight_number,flight_date,departure_airport,user_name,action_name,header_line,entry_details
+375134606,2024-04-30 10:53:52,ZY,999.0,30.0,GRU,human,RampFinalAction,"2024-04-30 10:53:52,884 INFO  [ff3b8786eb7e3c9b] [ZY999 /30 GRU | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375134607,2024-04-30 10:53:52,ZY,999.0,30.0,GRU,human,RampFinalAction,"2024-04-30 10:53:52,886 INFO  [ff3b8786eb7e3c9b] [ZY999 /30 GRU | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  REC                       170                       3400.00 KG                
+CKI                        REC                       0                         0.00    KG                
+SUM                        REC                       170                       3400.00 KG"
+375134688,2024-04-30 10:53:52,ZY,999.0,30.0,GRU,human,RampFinalAction,"2024-04-30 10:53:52,887 INFO  [ff3b8786eb7e3c9b] [ZY999 /30 GRU | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0
+375134716,2024-04-30 10:53:56,ZY,999.0,30.0,GRU,human,RampFinalAction,"2024-04-30 10:53:56,031 INFO  [9612ca2f0bec15b4] [ZY999 /30 GRU | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375134719,2024-04-30 10:53:56,ZY,999.0,30.0,GRU,human,RampFinalAction,"2024-04-30 10:53:56,036 INFO  [9612ca2f0bec15b4] [ZY999 /30 GRU | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0
+375138477,2024-04-30 12:47:14,ZY,4483.0,30.0,BEL,human,RampFinalAction,"2024-04-30 12:47:14,028 INFO  [6852fb4f4bf137a8] [ZY4483 /30 BEL | human | RampFinalAction                     | Ramp Final                     | default task-127]  Received:","Caller user             : humanira
+Close ramp              : true
+Check discrepancy       : true"
+375138480,2024-04-30 12:47:14,ZY,4483.0,30.0,BEL,human,RampFinalAction,"2024-04-30 12:47:14,032 INFO  [6852fb4f4bf137a8] [ZY4483 /30 BEL | human | RampFinalAction                     | Ramp Final                     | default task-127]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0
+375139115,2024-04-30 13:10:57,ZY,9888.0,30.0,LIS,human,RampFinalAction,"2024-04-30 13:10:57,447 INFO  [1bfa8ce2ffd16128] [ZY9888 /30 LIS | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375139116,2024-04-30 13:10:57,ZY,9888.0,30.0,LIS,human,RampFinalAction,"2024-04-30 13:10:57,448 INFO  [1bfa8ce2ffd16128] [ZY9888 /30 LIS | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  VCP                       200                       4000.00 KG                
+CKI                        VCP                       0                         0.00    KG                
+SUM                        VCP                       200                       4000.00 KG"
+375139117,2024-04-30 13:10:57,ZY,9888.0,30.0,LIS,human,RampFinalAction,"2024-04-30 13:10:57,450 INFO  [1bfa8ce2ffd16128] [ZY9888 /30 LIS | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 9 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 9 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0
+375139118,2024-04-30 13:11:04,ZY,9888.0,30.0,LIS,human,RampFinalAction,"2024-04-30 13:11:04,238 INFO  [e0ae8203d0048dcb] [ZY9888 /30 LIS | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375139121,2024-04-30 13:11:04,ZY,9888.0,30.0,LIS,human,RampFinalAction,"2024-04-30 13:11:04,242 INFO  [e0ae8203d0048dcb] [ZY9888 /30 LIS | human  | RampFinalAction                     | Ramp Final                     | default task-127]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 9 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 9 REGISTRATION 1 REGISTRATION_CHANGE 1 DGR_ITEMS 0
+375143663,2024-04-30 15:57:33,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:57:33,154 INFO  [89b2402e487fcc6c] [ZY9700 /30 ORY | human | RampFinalAction                     | Reopen Ramp                    | default task-131]  Received:","Caller user             : humanira
+Close ramp              : false
+Check discrepancy       : false
+User name               : humanira
+Confirmation message    : NULL"
+375143666,2024-04-30 15:57:33,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:57:33,158 INFO  [89b2402e487fcc6c] [ZY9700 /30 ORY | human | RampFinalAction                     | Reopen Ramp                    | default task-131]  Saved:",STATUS LOZYSHEET 1 LOZYING_INSTRUCTION 1 FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1
+375144352,2024-04-30 15:54:03,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:54:03,995 INFO  [57146b1bdf907bc5] [ZY9700 /30 ORY | human | RampFinalAction                     | Ramp Final                     | default task-132]  Received:","Caller user             : humanira
+Close ramp              : true
+Check discrepancy       : true"
+375144353,2024-04-30 15:54:03,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:54:03,996 INFO  [57146b1bdf907bc5] [ZY9700 /30 ORY | human | RampFinalAction                     | Ramp Final                     | default task-132]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  REC                       298                       5960.00 KG                
+CKI                        REC                       0                         0.00    KG                
+SUM                        REC                       298                       5960.00 KG                
+LOZYTABLE                  VCP                       0                         0.00    KG                
+CKI                        VCP                       0                         0.00    KG"
+375144354,2024-04-30 15:54:03,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:54:03,998 INFO  [57146b1bdf907bc5] [ZY9700 /30 ORY | human | RampFinalAction                     | Ramp Final                     | default task-132]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375144371,2024-04-30 15:54:07,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:54:07,542 INFO  [9ea552f2878bfb07] [ZY9700 /30 ORY | human | RampFinalAction                     | Ramp Final                     | default task-132]  Received:","Caller user             : humanira
+Close ramp              : true
+Check discrepancy       : false"
+375144374,2024-04-30 15:54:07,ZY,9700.0,30.0,ORY,human,RampFinalAction,"2024-04-30 15:54:07,547 INFO  [9ea552f2878bfb07] [ZY9700 /30 ORY | human | RampFinalAction                     | Ramp Final                     | default task-132]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375144504,2024-04-30 15:59:29,ZY,9700.0,30.0,REC,human,RampFinalAction,"2024-04-30 15:59:29,653 INFO  [eedee6c38210014b] [ZY9700 /30 REC | human | RampFinalAction                     | Ramp Final                     | default task-131]  Received:","Caller user             : humanira
+Close ramp              : true
+Check discrepancy       : true"
+375144507,2024-04-30 15:59:29,ZY,9700.0,30.0,REC,human,RampFinalAction,"2024-04-30 15:59:29,657 INFO  [eedee6c38210014b] [ZY9700 /30 REC | human | RampFinalAction                     | Ramp Final                     | default task-131]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 TRANSIT_ACCEPTANCE 1 TRANSIT_PAX 1 AUTO_MODE_ACTIVE 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375243843,2024-05-01 18:06:42,ZY,2111.0,1.0,SDU,human,RampFinalAction,"2024-05-01 18:06:42,224 INFO  [5209a31d1088dd72] [ZY2111 /01 SDU | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375243846,2024-05-01 18:06:42,ZY,2111.0,1.0,SDU,human,RampFinalAction,"2024-05-01 18:06:42,228 INFO  [5209a31d1088dd72] [ZY2111 /01 SDU | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375243867,2024-05-01 18:06:39,ZY,2111.0,1.0,SDU,human,RampFinalAction,"2024-05-01 18:06:39,969 INFO  [981e762d818244eb] [ZY2111 /01 SDU | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  VCP                       105                       840.00  KG                
+CKI                        VCP                       0                         0.00    KG                
+SUM                        VCP                       105                       840.00  KG"
+375243868,2024-05-01 18:06:39,ZY,2111.0,1.0,SDU,human,RampFinalAction,"2024-05-01 18:06:39,971 INFO  [981e762d818244eb] [ZY2111 /01 SDU | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375244760,2024-05-01 18:47:25,ZY,3222.0,1.0,POA,human,RampFinalAction,"2024-05-01 18:47:25,515 INFO  [c91177709a6ca384] [ZY3222 /01 POA | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375244761,2024-05-01 18:47:25,ZY,3222.0,1.0,POA,human,RampFinalAction,"2024-05-01 18:47:25,516 INFO  [c91177709a6ca384] [ZY3222 /01 POA | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  GIG                       127                       1524.00 KG                
+CKI                        GIG                       0                         0.00    KG                
+SUM                        GIG                       127                       1524.00 KG"
+375244762,2024-05-01 18:47:25,ZY,3222.0,1.0,POA,human,RampFinalAction,"2024-05-01 18:47:25,518 INFO  [c91177709a6ca384] [ZY3222 /01 POA | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Saved:",STATUS LOZYING_INSTRUCTION 1 AIRCRAFT_CONFIG 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375244763,2024-05-01 18:47:27,ZY,3222.0,1.0,POA,human,RampFinalAction,"2024-05-01 18:47:27,655 INFO  [52bb3be3a4ccf84c] [ZY3222 /01 POA | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375244766,2024-05-01 18:47:27,ZY,3222.0,1.0,POA,human,RampFinalAction,"2024-05-01 18:47:27,660 INFO  [52bb3be3a4ccf84c] [ZY3222 /01 POA | human  | RampFinalAction                     | Ramp Final                     | default task-163]  Saved:",STATUS LOZYING_INSTRUCTION 1 AIRCRAFT_CONFIG 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375247487,2024-05-01 20:16:04,ZY,4333.0,1.0,NAT,human,RampFinalAction,"2024-05-01 20:16:04,129 INFO  [cb53817b2cb2643a] [ZY4333 /01 NAT | human  | RampFinalAction                     | Ramp Final                     | default task-166]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375247508,2024-05-01 20:16:04,ZY,4333.0,1.0,NAT,human,RampFinalAction,"2024-05-01 20:16:04,131 INFO  [cb53817b2cb2643a] [ZY4333 /01 NAT | human  | RampFinalAction                     | Ramp Final                     | default task-166]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  BVH                       77                        1078.00 KG                
+CKI                        BVH                       0                         0.00    KG                
+SUM                        BVH                       77                        1078.00 KG"
+375247509,2024-05-01 20:16:04,ZY,4333.0,1.0,NAT,human,RampFinalAction,"2024-05-01 20:16:04,132 INFO  [cb53817b2cb2643a] [ZY4333 /01 NAT | human  | RampFinalAction                     | Ramp Final                     | default task-166]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375247510,2024-05-01 20:16:07,ZY,4333.0,1.0,NAT,human,RampFinalAction,"2024-05-01 20:16:07,181 INFO  [a7c3497db20b091d] [ZY4333 /01 NAT | human  | RampFinalAction                     | Ramp Final                     | default task-166]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375247513,2024-05-01 20:16:07,ZY,4333.0,1.0,NAT,human,RampFinalAction,"2024-05-01 20:16:07,185 INFO  [a7c3497db20b091d] [ZY4333 /01 NAT | human  | RampFinalAction                     | Ramp Final                     | default task-166]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375265249,2024-05-02 10:56:41,ZY,8777.0,2.0,MVD,human,RampFinalAction,"2024-05-02 10:56:41,320 INFO  [ebf2a7581fb446d2] [ZY8777 /02 MVD | human  | RampFinalAction                     | Ramp Final                     | default task-168]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375265252,2024-05-02 10:56:41,ZY,8777.0,2.0,MVD,human,RampFinalAction,"2024-05-02 10:56:41,324 INFO  [ebf2a7581fb446d2] [ZY8777 /02 MVD | human  | RampFinalAction                     | Ramp Final                     | default task-168]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 3 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375266260,2024-05-02 11:38:03,ZY,8777.0,2.0,CGB,human,RampFinalAction,"2024-05-02 11:38:03,514 INFO  [c40963894df1d7d4] [ZY8777A/02 CGB | human  | RampFinalAction                     | Ramp Final                     | default task-168]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375266263,2024-05-02 11:38:03,ZY,8777.0,2.0,CGB,human,RampFinalAction,"2024-05-02 11:38:03,519 INFO  [c40963894df1d7d4] [ZY8777A/02 CGB | human  | RampFinalAction                     | Ramp Final                     | default task-168]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375373329,2024-05-03 17:00:24,ZY,2111.0,3.0,BVH,human,RampFinalAction,"2024-05-03 17:00:24,676 INFO  [1e6705cf769871bf] [ZY2111 /03 BVH | human  | RampFinalAction                     | Ramp Final                     | default task-53]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375373330,2024-05-03 17:00:24,ZY,2111.0,3.0,BVH,human,RampFinalAction,"2024-05-03 17:00:24,677 INFO  [1e6705cf769871bf] [ZY2111 /03 BVH | human  | RampFinalAction                     | Ramp Final                     | default task-53]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  MCZ                       102                       1224.00 KG                
+CKI                        MCZ                       0                         0.00    KG                
+SUM                        MCZ                       102                       1224.00 KG"
+375373331,2024-05-03 17:00:24,ZY,2111.0,3.0,BVH,human,RampFinalAction,"2024-05-03 17:00:24,679 INFO  [1e6705cf769871bf] [ZY2111 /03 BVH | human  | RampFinalAction                     | Ramp Final                     | default task-53]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375373332,2024-05-03 17:00:26,ZY,2111.0,3.0,BVH,human,RampFinalAction,"2024-05-03 17:00:26,803 INFO  [2294b4498753ba59] [ZY2111 /03 BVH | human  | RampFinalAction                     | Ramp Final                     | default task-53]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false"
+375373335,2024-05-03 17:00:26,ZY,2111.0,3.0,BVH,human,RampFinalAction,"2024-05-03 17:00:26,808 INFO  [2294b4498753ba59] [ZY2111 /03 BVH | human  | RampFinalAction                     | Ramp Final                     | default task-53]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375375615,2024-05-03 18:04:34,ZY,2023.0,3.0,VCP,human,RampFinalAction,"2024-05-03 18:04:34,265 INFO  [409e3e35a5f61ddd] [ZY2023 /03 VCP | human   | RampFinalAction                     | Ramp Final                     | default task-83]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : true"
+375375616,2024-05-03 18:04:34,ZY,2023.0,3.0,VCP,human,RampFinalAction,"2024-05-03 18:04:34,266 INFO  [409e3e35a5f61ddd] [ZY2023 /03 VCP | human   | RampFinalAction                     | Ramp Final                     | default task-83]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  JTC                       70                        840.00  KG                
+CKI                        JTC                       0                         0.00    KG                
+SUM                        JTC                       70                        840.00  KG"
+375375617,2024-05-03 18:04:34,ZY,2023.0,3.0,VCP,human,RampFinalAction,"2024-05-03 18:04:34,268 INFO  [409e3e35a5f61ddd] [ZY2023 /03 VCP | human   | RampFinalAction                     | Ramp Final                     | default task-83]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375375632,2024-05-03 18:04:42,ZY,2023.0,3.0,VCP,human,RampFinalAction,"2024-05-03 18:04:42,327 INFO  [3e9599ee05590ae4] [ZY2023 /03 VCP | human   | RampFinalAction                     | Ramp Final                     | default task-83]  Received:","Caller user             : human
+Close ramp              : true
+Check discrepancy       : false
+User name               : iago
+Confirmation message    : **** CASO APAREÃ‡A â€œDISCREPANCYâ€ EM VERMELHO ****\nVOLTAR PARA ABA â€œLOZY DATAâ€ E CORRIGIR AS PEÃ‡AS DE ACORDO COM AS PEÃ‡AS CONSTANTES NA ABA â€œPAX DATAâ€ LINHA CHECKIN.\n\n**** SE OPTAR POR FECHAR A RAMPA COM â€œDISCREPANCYâ€ EM VERMELHO ****\nCASO ZYICIONE OU REMOVA PEÃ‡AS DE BAGAGEM DE ULTIMO MINUTO. SUA DECISÃƒO IMPACTA NA SEGURANÃ‡A DE VOO, VOCÃŠ ESTA INFORMANDO O PESO REAL CARREGZYO NOS PORÃ•ES E A INFORMAÃ‡ÃƒO SERÃ REFLETIDA NA LOZYSHEET. DUVIDAS CONSULTAR O DOV\n\n\nPOR FAVOR CONFIRME O FINAL DAS ATIVIDZYES DA RAMPA!"
+375375640,2024-05-03 18:04:42,ZY,2023.0,3.0,VCP,human,RampFinalAction,"2024-05-03 18:04:42,342 INFO  [3e9599ee05590ae4] [ZY2023 /03 VCP | human   | RampFinalAction                     | Ramp Final                     | default task-83]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375540606,2024-05-06 17:48:04,ZY,9900.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:48:04,591 INFO  [e8f855de31b3b54b] [ZY9900 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-103]  Received:","Caller user             : humanz
+Close ramp              : true
+Check discrepancy       : true"
+375540607,2024-05-06 17:48:04,ZY,9900.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:48:04,593 INFO  [e8f855de31b3b54b] [ZY9900 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-103]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  LIS                       260                       4680.00 KG                
+CKI                        LIS                       0                         0.00    KG                
+SUM                        LIS                       260                       4680.00 KG"
+375540793,2024-05-06 17:51:52,ZY,5258.0,6.0,SDU,human,RampFinalAction,"2024-05-06 17:51:52,263 INFO  [d67f68ae3325d295] [ZY5258 /06 SDU | human | RampFinalAction                     | Ramp Final                     | default task-103]  Received:","Caller user             : humana
+Close ramp              : true
+Check discrepancy       : true"
+375540794,2024-05-06 17:51:52,ZY,5258.0,6.0,SDU,human,RampFinalAction,"2024-05-06 17:51:52,265 INFO  [d67f68ae3325d295] [ZY5258 /06 SDU | human | RampFinalAction                     | Ramp Final                     | default task-103]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  CGH                       100                       1200.00 KG                
+CKI                        CGH                       0                         0.00    KG                
+SUM                        CGH                       100                       1200.00 KG"
+375540795,2024-05-06 17:51:52,ZY,5258.0,6.0,SDU,human,RampFinalAction,"2024-05-06 17:51:52,267 INFO  [d67f68ae3325d295] [ZY5258 /06 SDU | human | RampFinalAction                     | Ramp Final                     | default task-103]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1
+375540796,2024-05-06 17:51:54,ZY,5258.0,6.0,SDU,human,RampFinalAction,"2024-05-06 17:51:54,749 INFO  [42f7916f6c32a8cd] [ZY5258 /06 SDU | human | RampFinalAction                     | Ramp Final                     | default task-103]  Received:","Caller user             : humana
+Close ramp              : true
+Check discrepancy       : false"
+375540799,2024-05-06 17:51:54,ZY,5258.0,6.0,SDU,human,RampFinalAction,"2024-05-06 17:51:54,754 INFO  [42f7916f6c32a8cd] [ZY5258 /06 SDU | human | RampFinalAction                     | Ramp Final                     | default task-103]  Saved:",STATUS LOZYING_INSTRUCTION 2 FUEL 1 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1
+375540868,2024-05-06 17:48:04,ZY,9900.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:48:04,594 INFO  [e8f855de31b3b54b] [ZY9900 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-103]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375540869,2024-05-06 17:48:07,ZY,9900.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:48:07,195 INFO  [34fdfc5e8f7b01b8] [ZY9900 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-103]  Received:","Caller user             : humanz
+Close ramp              : true
+Check discrepancy       : false"
+375540872,2024-05-06 17:48:07,ZY,9900.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:48:07,200 INFO  [34fdfc5e8f7b01b8] [ZY9900 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-103]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 1 AIRCRAFT_CONFIG 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375541075,2024-05-06 17:52:27,ZY,9902.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:52:27,542 INFO  [b942e8290603e84a] [ZY9902 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-89]  Received:","Caller user             : humanz
+Close ramp              : true
+Check discrepancy       : true"
+375541076,2024-05-06 17:52:27,ZY,9902.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:52:27,544 INFO  [b942e8290603e84a] [ZY9902 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-89]  Sent:","Discrepancy check result
+Discrepancy happend: true
+Discrepancies
+ Type                      Destination               Bag pieces                Bag weight               
+LOZYTABLE                  REC                       520                       9360.00 KG                
+CKI                        REC                       0                         0.00    KG                
+SUM                        REC                       520                       9360.00 KG"
+375541077,2024-05-06 17:52:27,ZY,9902.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:52:27,545 INFO  [b942e8290603e84a] [ZY9902 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-89]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
+375541078,2024-05-06 17:52:29,ZY,9902.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:52:29,857 INFO  [90172d9838995d06] [ZY9902 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-89]  Received:","Caller user             : humanz
+Close ramp              : true
+Check discrepancy       : false"
+375541081,2024-05-06 17:52:29,ZY,9902.0,6.0,VCP,human,RampFinalAction,"2024-05-06 17:52:29,862 INFO  [90172d9838995d06] [ZY9902 /06 VCP | human | RampFinalAction                     | Ramp Final                     | default task-89]  Saved:",STATUS LOZYING_INSTRUCTION 1 FUEL 2 AIRCRAFT_CONFIG 1 EZFW 1 CARGO_FINAL 1 RAMP_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 CALC_HIST_DATA 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOZY_ITEMS_GEN 1 EZFW_COUNTER 1 REGISTRATION 1 REGISTRATION_CHANGE 1
