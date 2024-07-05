@@ -10,16 +10,16 @@ def process_csv(file_path, output_path):
         print(f"Fehler beim Parsen der Datei {file_path}: {e}")
 
 # ABCD
-file_path = '/Users/lucamohr/GitHub/aircraft_load/data/original_data/ABCD_tripfiles.csv'
-output_path = '/Users/lucamohr/GitHub/aircraft_load/data/drop_entry-details/ABCD_tripfiles_drop_entry.csv'
+file_path = '../data/original_data/ABCD_tripfiles.csv'
+output_path = '../data/drop_entry-details/ABCD_tripfiles_drop_entry.csv'
 process_csv(file_path, output_path)
 
 # MNOP
-file_path = '/Users/lucamohr/GitHub/aircraft_load/data/original_data/MNOP_tripfiles.csv'
-output_path = '/Users/lucamohr/GitHub/aircraft_load/data/drop_entry-details/MNOP_tripfiles_drop_entry.csv'
+file_path = '../data/original_data/MNOP_tripfiles.csv'
+output_path = '../data/drop_entry-details/MNOP_tripfiles_drop_entry.csv'
 process_csv(file_path, output_path)
 
 # ZYXW
-file_path = '/Users/lucamohr/GitHub/aircraft_load/data/original_data/ZYXW_tripfiles.csv'
-output_path = '/Users/lucamohr/GitHub/aircraft_load/data/drop_entry-details/ZYXW_tripfiles_drop_entry.csv'
+file_path = '../data/original_data/ZYXW_tripfiles.csv'
+output_path = '../data/drop_entry-details/ZYXW_tripfiles_drop_entry.csv'
 process_csv(file_path, output_path)
