@@ -1,7 +1,21 @@
 import re
 from typing import Optional, Tuple
 
-def CreateLoadsheetAction(string: Optional[str]) -> Tuple[Optional[int], Optional[int], Optional[int], Optional[int]]:
+def CreateLoadsheetAction(string: str) -> Tuple[Optional[int], Optional[int], Optional[int], Optional[int]]:
+    """
+    Parses the input string to extract the actual take off weight, actual zero fuel weight,
+    estimated zero fuel weight, and take off fuel values.
+
+    Args:
+        string (str): The input string containing the weights and fuel values.
+
+    Returns:
+        Tuple[Optional[int], Optional[int], Optional[int], Optional[int]]:
+            - actual_tow: The actual take off weight as an integer if found, otherwise None.
+            - actual_zfw: The actual zero fuel weight as an integer if found, otherwise None.
+            - estimated_zfw: The estimated zero fuel weight as an integer if found, otherwise None.
+            - fuel: The take off fuel as an integer if found, otherwise None.
+    """
     actual_tow = None
     actual_zfw = None
     estimated_zfw = None
@@ -17,7 +31,6 @@ def CreateLoadsheetAction(string: Optional[str]) -> Tuple[Optional[int], Optiona
         match_actual_zfw = re.search(pattern, string)
         if match_actual_zfw:
             actual_zfw = int(float(match_actual_zfw.group(1)))
-
 
         pattern = r"TAKE OFF FUEL\s+(\d+)"
         match_fuel = re.search(pattern, string)

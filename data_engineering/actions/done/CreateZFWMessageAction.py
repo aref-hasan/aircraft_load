@@ -2,6 +2,17 @@ import re
 from typing import Tuple, Optional
 
 def CreateZFWMessageAction(string: str) -> Tuple[Optional[int], Optional[int]]:
+    """
+    Parses the input string to extract the estimated and actual zero fuel weight (ZFW) values.
+
+    Args:
+        string (str): The input string containing the ZFW values.
+
+    Returns:
+        Tuple[Optional[int], Optional[int]]:
+            - estimated_zfw: The estimated zero fuel weight as an integer if found, otherwise None.
+            - actual_zfw: The actual zero fuel weight as an integer if found, otherwise None.
+    """
     pattern_estimated = r"^ZFW (\d+) KG"
     pattern_actual = r"<actualZFW>\s*(\d+)\s*</actualZFW>"
 
