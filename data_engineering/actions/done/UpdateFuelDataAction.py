@@ -1,6 +1,6 @@
 import re
 from typing import Optional
-def UpdateFuelDataAction(string) -> Optional[int]:
+def UpdateFuelDataAction(string: str) -> Optional[int]:
     take_off_fuel = None
     minimum_tof = None
     pattern = r'Take Off Fuel\s*:\s*([\d.]+) KG'

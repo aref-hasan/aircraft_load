@@ -1,7 +1,7 @@
 import re
 from typing import Optional, Tuple
 
-def CreateLoadsheetAction(string: Optional[str]) -> Tuple[Optional[int], Optional[int], Optional[int], Optional[int]]:
+def CreateLoadsheetAction(string: str) -> Tuple[Optional[int], Optional[int], Optional[int], Optional[int]]:
     actual_tow = None
     actual_zfw = None
     estimated_zfw = None

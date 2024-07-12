@@ -1,6 +1,6 @@
 import re
 from typing import Optional
-def CalculateWeightAndTrimAction(string) -> Optional[int]:
+def CalculateWeightAndTrimAction(string: str) -> Optional[int]:
     pattern = r"AZFW\s*:\s*(\d+(?:\.\d*)?)\s*KG"
 
     match = re.search(pattern, string)
