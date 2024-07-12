@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 # function to load configuration from a json file
-def load_config(path):
+def load_config(path: str):
     with open(path, 'r') as file:
         return json.load(file)
 
