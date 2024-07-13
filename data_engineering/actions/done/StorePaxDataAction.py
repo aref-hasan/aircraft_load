@@ -161,31 +161,8 @@ def StorePaxDataAction(string: str) -> Tuple[Optional[int], Optional[int], Optio
                     temp_y_distributions.append(code[1:])
                     temp_j_distributions.append('0')
         # Append temp lists to outer lists
-        j_capacities_list.append(temp_j_capacities)
-        y_capacities_list.append(temp_y_capacities)
-        j_distributions_list.append(temp_j_distributions)
-        y_distributions_list.append(temp_y_distributions)
-    
-    try:
-        j_capacities_list = j_capacities_list[-1]
-    except IndexError:
-        # list is empty so pass
-        pass
-    try:
-        y_capacities_list = y_capacities_list[-1]
-    except IndexError:
-        # list is empty so pass
-        pass
-    try:
-        j_distributions_list = j_distributions_list[-1]
-    except IndexError:
-        # list is empty so pass
-        pass
-    try:
-        y_distributions_list = y_distributions_list[-1]
-    except IndexError:
-        # list is empty so pass
-        pass
-
-    
+        j_capacities_list = temp_j_capacities
+        y_capacities_list = temp_y_capacities
+        j_distributions_list = temp_j_distributions
+        y_distributions_list = temp_y_distributions    
     return total_pax, economy_class, business_class, jump_seat, standby, male, female, child, infant, total_bag, total_bag_weight, baggage_weight_type, j_capacities_list, y_capacities_list, j_distributions_list, y_distributions_list
