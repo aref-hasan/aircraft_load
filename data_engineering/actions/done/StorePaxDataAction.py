@@ -43,7 +43,7 @@ def StorePaxDataAction(string: str) -> Tuple[Optional[int], Optional[int], Optio
     j_distributions_list = []
     y_distributions_list = []
     
-    if string is not None:
+    if string is not None and "TOTAL Pax: 0    Y: 0  J: 0  Jump: 0    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: STANDARD" not in string:
         # Extracting total passengers
         pattern_total_pax = r"TOTAL Pax: (\d+)"
         match_total_pax = re.search(pattern_total_pax, string)
@@ -166,4 +166,26 @@ def StorePaxDataAction(string: str) -> Tuple[Optional[int], Optional[int], Optio
         j_distributions_list.append(temp_j_distributions)
         y_distributions_list.append(temp_y_distributions)
     
-    return total_pax, economy_class, business_class, jump_seat, standby, male, female, child, infant, total_bag, total_bag_weight, baggage_weight_type, j_capacities_list[-1], y_capacities_list[-1], j_distributions_list[-1], y_distributions_list[-1]
+    try:
+        j_capacities_list = j_capacities_list[-1]
+    except IndexError:
+        # list is empty so pass
+        pass
+    try:
+        y_capacities_list = y_capacities_list[-1]
+    except IndexError:
+        # list is empty so pass
+        pass
+    try:
+        j_distributions_list = j_distributions_list[-1]
+    except IndexError:
+        # list is empty so pass
+        pass
+    try:
+        y_distributions_list = y_distributions_list[-1]
+    except IndexError:
+        # list is empty so pass
+        pass
+
+    
+    return total_pax, economy_class, business_class, jump_seat, standby, male, female, child, infant, total_bag, total_bag_weight, baggage_weight_type, j_capacities_list, y_capacities_list, j_distributions_list, y_distributions_list
