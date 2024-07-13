@@ -37,8 +37,13 @@ def StorePaxDataAction(string: str) -> Tuple[Optional[int], Optional[int], Optio
     total_bag = None
     total_bag_weight = None
     baggage_weight_type = None
+
+    j_capacities_list = []
+    y_capacities_list = []
+    j_distributions_list = []
+    y_distributions_list = []
     
-    if string is not None:
+    if string is not None and "TOTAL Pax: 0    Y: 0  J: 0  Jump: 0    StandBy: NULL  Male: NULL  Female: NULL  Child: NULL  Infant: NULL  Total bag: 0  Total bag weight: 0.0 KG  Baggage weight type: STANDARD" not in string:
         # Extracting total passengers
         pattern_total_pax = r"TOTAL Pax: (\d+)"
         match_total_pax = re.search(pattern_total_pax, string)
@@ -110,5 +115,54 @@ def StorePaxDataAction(string: str) -> Tuple[Optional[int], Optional[int], Optio
         match_baggage_weight_type = re.search(pattern_baggage_weight_type, string)
         if match_baggage_weight_type:
             baggage_weight_type = match_baggage_weight_type.group(1)
-    
-    return total_pax, economy_class, business_class, jump_seat, standby, male, female, child, infant, total_bag, total_bag_weight, baggage_weight_type
+
+        # Extract capacities
+        pattern_capacity = r'Capacity\s*:\s*((?:[JjYy]\d+\s*)+)'
+        capacities_match = re.search(pattern_capacity, string)
+        if capacities_match:
+            capacities_string = capacities_match.group(1)
+            capacities_list = re.findall(r'[JjYy]\d+', capacities_string)
+        else:
+            capacities_list = []
+
+        # Extract distributions
+        pattern_distribution = r'Distribution\s*:\s*((?:[JjYy]\d+\s*)+)'
+        distributions_match = re.findall(pattern_distribution, string)
+        if distributions_match:
+            distributions_string = distributions_match[-1]  # Take the last match for distribution
+            distributions_list = re.findall(r'[JjYy]\d+', distributions_string)
+        else:
+            distributions_list = []
+
+        # Separate 'J' and 'Y' capacities
+        temp_j_capacities = []
+        temp_y_capacities = []
+        if capacities_list:
+            for code in capacities_list:
+                if code[0].lower() == 'j':
+                    temp_j_capacities.append(code[1:])
+                    temp_y_capacities.append('0')
+                elif code[0].lower() == 'y':
+                    temp_y_capacities.append(code[1:])
+                    temp_j_capacities.append('0')
+        else:
+            temp_j_capacities = ['0'] * 3  # Assuming 3 entries as in your example
+            temp_y_capacities = ['0'] * 3  # Adjust as per your actual needs
+
+        # Separate 'J' and 'Y' distributions
+        temp_j_distributions = []
+        temp_y_distributions = []
+        if distributions_list:
+            for code in distributions_list:
+                if code[0].lower() == 'j':
+                    temp_j_distributions.append(code[1:])
+                    temp_y_distributions.append('0')
+                elif code[0].lower() == 'y':
+                    temp_y_distributions.append(code[1:])
+                    temp_j_distributions.append('0')
+        # Append temp lists to outer lists
+        j_capacities_list = temp_j_capacities
+        y_capacities_list = temp_y_capacities
+        j_distributions_list = temp_j_distributions
+        y_distributions_list = temp_y_distributions    
+    return total_pax, economy_class, business_class, jump_seat, standby, male, female, child, infant, total_bag, total_bag_weight, baggage_weight_type, j_capacities_list, y_capacities_list, j_distributions_list, y_distributions_list
