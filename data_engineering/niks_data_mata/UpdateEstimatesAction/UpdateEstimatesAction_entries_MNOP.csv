@@ -1,0 +1,1306 @@
+id,creation_time,airline_code,flight_number,flight_date,departure_airport,user_name,action_name,header_line,entry_details
+138100281,2024-05-03 17:02:13,MN,1126.0,3.0,YYZ,human,UpdateEstimatesAction,"2024-05-03 17:02:13,354 INFO  [6cd5c02f2d788bef] [MN1126  /03 YYZ | human      | UpdateEstimatesAction               |                                | default task-2496]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688620  flightId = 668809 legId = 688620  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 281                       Pax Weight          : 21486.0    KG 
+ Bag                 : 265                       Bag Weight          : 3975.0     KG 
+ Cargo                                                               : 607.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26644.0    KG 
+ DOW                                                                 : 128823.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 155467.0   KG
+ Remark              :"
+138100675,2024-05-03 16:54:13,MN,1122.0,3.0,ORD,human,UpdateEstimatesAction,"2024-05-03 16:54:13,373 INFO  [d7918177276d8af] [MN1122  /03 ORD | human      | UpdateEstimatesAction               |                                | default task-3741]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688542  flightId = 668731 legId = 688542  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 313                       Pax Weight          : 24880.0    KG 
+ Bag                 : 259                       Bag Weight          : 3885.0     KG 
+ Cargo                                                               : 7500.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 36841.0    KG 
+ DOW                                                                 : 128360.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 165201.0   KG
+ Remark              :"
+138100680,2024-05-03 16:54:13,MN,1122.0,3.0,ORD,human,UpdateEstimatesAction,"2024-05-03 16:54:13,380 INFO  [d7918177276d8af] [MN1122  /03 ORD | human      | UpdateEstimatesAction               |                                | default task-3741]  Saved:","Pax Weight = 24880.0 KG Bag Weight = 3885.0 KG Cargo = 7500.0 KG Mail = 0.0 KG DOW = 128360.0 KG ZFW = 153315.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138101030,2024-05-03 16:55:07,MN,1100.0,3.0,EWR,human,UpdateEstimatesAction,"2024-05-03 16:55:07,361 INFO  [4c4683dbdc950611] [MN1100  /03 EWR | human      | UpdateEstimatesAction               |                                | default task-2496]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688619  flightId = 668808 legId = 688619  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 148                       Pax Weight          : 11676.0    KG 
+ Bag                 : 136                       Bag Weight          : 2040.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 14309.0    KG 
+ DOW                                                                 : 53999.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 68308.0    KG
+ Remark              :"
+138101035,2024-05-03 16:55:07,MN,1100.0,3.0,EWR,human,UpdateEstimatesAction,"2024-05-03 16:55:07,363 INFO  [4c4683dbdc950611] [MN1100  /03 EWR | human      | UpdateEstimatesAction               |                                | default task-2496]  Saved:","Pax Weight = 11676.0 KG Bag Weight = 2040.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53999.0 KG ZFW = 65740.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 3 FUEL_ORDER 1"
+138101065,2024-05-03 16:54:49,MN,1116.0,3.0,IAD,human,UpdateEstimatesAction,"2024-05-03 16:54:49,249 INFO  [526673c6fb6f5d36] [MN1116  /03 IAD | human      | UpdateEstimatesAction               |                                | default task-3741]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688508  flightId = 668697 legId = 688508  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 184                       Pax Weight          : 14377.0    KG 
+ Bag                 : 172                       Bag Weight          : 2580.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 17550.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 71576.0    KG
+ Remark              :"
+138101070,2024-05-03 16:54:49,MN,1116.0,3.0,IAD,human,UpdateEstimatesAction,"2024-05-03 16:54:49,257 INFO  [526673c6fb6f5d36] [MN1116  /03 IAD | human      | UpdateEstimatesAction               |                                | default task-3741]  Saved:","Pax Weight = 14377.0 KG Bag Weight = 2580.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 68468.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 2 FUEL_ORDER 1"
+138101646,2024-05-03 17:02:13,MN,1126.0,3.0,YYZ,human,UpdateEstimatesAction,"2024-05-03 17:02:13,356 INFO  [6cd5c02f2d788bef] [MN1126  /03 YYZ | human      | UpdateEstimatesAction               |                                | default task-2496]  Saved:","Pax Weight = 21486.0 KG Bag Weight = 3975.0 KG Cargo = 607.0 KG Mail = 0.0 KG DOW = 128823.0 KG ZFW = 150384.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138101785,2024-05-03 17:04:38,MN,1104.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:04:38,396 INFO  [d636ad540edf88f8] [MN1104  /03 JFK | human      | UpdateEstimatesAction               |                                | default task-3739]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688840  flightId = 669029 legId = 688840  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 207                       Pax Weight          : 16113.0    KG 
+ Bag                 : 200                       Bag Weight          : 3000.0     KG 
+ Cargo                                                               : 7500.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26973.0    KG 
+ DOW                                                                 : 127585.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 154558.0   KG
+ Remark              :"
+138101790,2024-05-03 17:04:38,MN,1104.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:04:38,404 INFO  [d636ad540edf88f8] [MN1104  /03 JFK | human      | UpdateEstimatesAction               |                                | default task-3739]  Saved:","Pax Weight = 16113.0 KG Bag Weight = 3000.0 KG Cargo = 7500.0 KG Mail = 0.0 KG DOW = 127585.0 KG ZFW = 143773.0 KG
+STATUS FUEL 4 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138101812,2024-05-03 17:05:19,MN,1044.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:05:19,079 INFO  [98aa04eee4aecab1] [MN1044   /03 JFK | human      | UpdateEstimatesAction               |                                | default task-2496]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688723  flightId = 668912 legId = 688723  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 153                       Pax Weight          : 12242.0    KG 
+ Bag                 : 154                       Bag Weight          : 2310.0     KG 
+ Cargo                                                               : 100.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 15012.0    KG 
+ DOW                                                                 : 127486.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 142498.0   KG
+ Remark              :"
+138101817,2024-05-03 17:05:19,MN,1044.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:05:19,081 INFO  [98aa04eee4aecab1] [MN1044   /03 JFK | human      | UpdateEstimatesAction               |                                | default task-2496]  Saved:","Pax Weight = 12242.0 KG Bag Weight = 2310.0 KG Cargo = 100.0 KG Mail = 0.0 KG DOW = 127486.0 KG ZFW = 139803.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138101851,2024-05-03 17:05:44,MN,1106.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:05:44,755 INFO  [4d07779c5403ec5e] [MN1106  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3743]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689213  flightId = 669402 legId = 689213  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 256                       Pax Weight          : 19800.0    KG 
+ Bag                 : 246                       Bag Weight          : 3690.0     KG 
+ Cargo                                                               : 1000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24922.0    KG 
+ DOW                                                                 : 127185.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152107.0   KG
+ Remark              :"
+138101856,2024-05-03 17:05:44,MN,1106.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-03 17:05:44,763 INFO  [4d07779c5403ec5e] [MN1106  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3743]  Saved:","Pax Weight = 19800.0 KG Bag Weight = 3690.0 KG Cargo = 1000.0 KG Mail = 0.0 KG DOW = 127185.0 KG ZFW = 147510.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138112093,2024-05-03 18:28:48,MN,1132.0,3.0,BOS,human,UpdateEstimatesAction,"2024-05-03 18:28:48,250 INFO  [c94f04d0f81d402e] [MN1132  /03 BOS | human      | UpdateEstimatesAction               |                                | default task-3753]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688509  flightId = 668698 legId = 688509  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 288                       Pax Weight          : 22466.0    KG 
+ Bag                 : 262                       Bag Weight          : 3930.0     KG 
+ Cargo                                                               : 706.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 27606.0    KG 
+ DOW                                                                 : 127715.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 155321.0   KG
+ Remark              :"
+138112098,2024-05-03 18:28:48,MN,1132.0,3.0,BOS,human,UpdateEstimatesAction,"2024-05-03 18:28:48,257 INFO  [c94f04d0f81d402e] [MN1132  /03 BOS | human      | UpdateEstimatesAction               |                                | default task-3753]  Saved:","Pax Weight = 22466.0 KG Bag Weight = 3930.0 KG Cargo = 706.0 KG Mail = 0.0 KG DOW = 127715.0 KG ZFW = 150256.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1 DGR_ITEMS 0"
+138112164,2024-05-03 18:29:10,MN,1130.0,3.0,BDL,human,UpdateEstimatesAction,"2024-05-03 18:29:10,006 INFO  [c287b9ce4b32e227] [MN1130  /03 BDL | human      | UpdateEstimatesAction               |                                | default task-2523]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688544  flightId = 668733 legId = 688544  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 141                       Pax Weight          : 10969.0    KG 
+ Bag                 : 131                       Bag Weight          : 1965.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 13527.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 67553.0    KG
+ Remark              :"
+138112229,2024-05-03 18:29:10,MN,1130.0,3.0,BDL,human,UpdateEstimatesAction,"2024-05-03 18:29:10,009 INFO  [c287b9ce4b32e227] [MN1130  /03 BDL | human      | UpdateEstimatesAction               |                                | default task-2523]  Saved:","Pax Weight = 10969.0 KG Bag Weight = 1965.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 65060.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 4"
+138113002,2024-05-03 18:42:46,MN,1134.0,3.0,BOS,human,UpdateEstimatesAction,"2024-05-03 18:42:46,998 INFO  [ea21e3f2e81b58c5] [MN1134  /03 BOS | human      | UpdateEstimatesAction               |                                | default task-3753]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688817  flightId = 669006 legId = 688817  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 155                       Pax Weight          : 12129.0    KG 
+ Bag                 : 152                       Bag Weight          : 2280.0     KG 
+ Cargo                                                               : 153.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 15002.0    KG 
+ DOW                                                                 : 53868.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 68870.0    KG
+ Remark              :"
+138113116,2024-05-03 18:42:29,MN,1110.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 18:42:29,358 INFO  [a19fee22febdcd4e] [MN1110  /03 JFK | human      | UpdateEstimatesAction               |                                | default task-2530]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688722  flightId = 668911 legId = 688722  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 118                       Pax Weight          : 9414.0     KG 
+ Bag                 : 115                       Bag Weight          : 1725.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 11644.0    KG 
+ DOW                                                                 : 53889.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 65533.0    KG
+ Remark              :"
+138113121,2024-05-03 18:42:29,MN,1110.0,3.0,JFK,human,UpdateEstimatesAction,"2024-05-03 18:42:29,360 INFO  [a19fee22febdcd4e] [MN1110  /03 JFK | human      | UpdateEstimatesAction               |                                | default task-2530]  Saved:","Pax Weight = 9414.0 KG Bag Weight = 1725.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53889.0 KG ZFW = 63368.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138113131,2024-05-03 18:42:12,MN,1030.0,3.0,BGI,human,UpdateEstimatesAction,"2024-05-03 18:42:12,061 INFO  [95fe80a58ff0a572] [MN1030   /03 BGI | human      | UpdateEstimatesAction               |                                | default task-2530]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688816  flightId = 669005 legId = 688816  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 189                       Pax Weight          : 14834.0    KG 
+ Bag                 : 186                       Bag Weight          : 2790.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 18059.0    KG 
+ DOW                                                                 : 12751030.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 145589.0   KG
+ Remark              :"
+138113136,2024-05-03 18:42:12,MN,1030.0,3.0,BGI,human,UpdateEstimatesAction,"2024-05-03 18:42:12,063 INFO  [95fe80a58ff0a572] [MN1030   /03 BGI | human      | UpdateEstimatesAction               |                                | default task-2530]  Saved:","Pax Weight = 14834.0 KG Bag Weight = 2790.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 12751030.0 KG ZFW = 142439.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138113147,2024-05-03 18:42:47,MN,1134.0,3.0,BOS,human,UpdateEstimatesAction,"2024-05-03 18:42:47,006 INFO  [ea21e3f2e81b58c5] [MN1134  /03 BOS | human      | UpdateEstimatesAction               |                                | default task-3753]  Saved:","Pax Weight = 12129.0 KG Bag Weight = 2280.0 KG Cargo = 153.0 KG Mail = 0.0 KG DOW = 53868.0 KG ZFW = 68870.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138113148,2024-05-03 18:43:36,MN,1060.0,4.0,SFO,human,UpdateEstimatesAction,"2024-05-03 18:43:36,559 INFO  [b94aeefbe4baadd6] [MN1060   /04 SFO | human      | UpdateEstimatesAction               |                                | default task-3753]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688983  flightId = 669172 legId = 688983  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 240                       Pax Weight          : 18678.0    KG 
+ Bag                 : 236                       Bag Weight          : 3540.0     KG 
+ Cargo                                                               : 10600.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 23250.0    KG 
+ DOW                                                                 : 128352.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 15110602.0   KG
+ Remark              :"
+138113153,2024-05-03 18:43:36,MN,1060.0,4.0,SFO,human,UpdateEstimatesAction,"2024-05-03 18:43:36,566 INFO  [b94aeefbe4baadd6] [MN1060   /04 SFO | human      | UpdateEstimatesAction               |                                | default task-3753]  Saved:","Pax Weight = 18678.0 KG Bag Weight = 3540.0 KG Cargo = 10600.0 KG Mail = 0.0 KG DOW = 128352.0 KG ZFW = 147255.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 8 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138117437,2024-05-03 20:26:30,MN,1118.0,4.0,IAD,human,UpdateEstimatesAction,"2024-05-03 20:26:30,932 INFO  [e96b69cdc9a49ead] [MN1118  /04 IAD | human      | UpdateEstimatesAction               |                                | default task-3753]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689083  flightId = 669272 legId = 689083  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 172                       Pax Weight          : 13413.0    KG 
+ Bag                 : 164                       Bag Weight          : 2460.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16466.0    KG 
+ DOW                                                                 : 54126.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70592.0    KG
+ Remark              :"
+138117442,2024-05-03 20:26:30,MN,1118.0,4.0,IAD,human,UpdateEstimatesAction,"2024-05-03 20:26:30,940 INFO  [e96b69cdc9a49ead] [MN1118  /04 IAD | human      | UpdateEstimatesAction               |                                | default task-3753]  Saved:","Pax Weight = 13413.0 KG Bag Weight = 2460.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54126.0 KG ZFW = 67604.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 10 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138118351,2024-05-03 20:25:35,MN,1088.0,3.0,MSP,human,UpdateEstimatesAction,"2024-05-03 20:25:35,110 INFO  [36f30adce040a757] [MN1088   /03 MSP | human      | UpdateEstimatesAction               |                                | default task-2535]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 61088621  flightId = 66108810 legId = 61088621  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 217                       Pax Weight          : 16991.0    KG 
+ Bag                 : 218                       Bag Weight          : 3270.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 20768.0    KG 
+ DOW                                                                 : 124430.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 145198.0   KG
+ Remark              :"
+138118356,2024-05-03 20:25:35,MN,1088.0,3.0,MSP,human,UpdateEstimatesAction,"2024-05-03 20:25:35,112 INFO  [36f30adce040a757] [MN1088   /03 MSP | human      | UpdateEstimatesAction               |                                | default task-2535]  Saved:","Pax Weight = 16991.0 KG Bag Weight = 3270.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 124430.0 KG ZFW = 141496.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138118410,2024-05-03 20:26:50,MN,1114.0,4.0,PHL,human,UpdateEstimatesAction,"2024-05-03 20:26:50,329 INFO  [fa384fa73ef051e5] [MN1114  /04 PHL | human      | UpdateEstimatesAction               |                                | default task-2535]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689040  flightId = 669229 legId = 689040  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 128                       Pax Weight          : 10202.0    KG 
+ Bag                 : 119                       Bag Weight          : 1785.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 12492.0    KG 
+ DOW                                                                 : 53849.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 66341.0    KG
+ Remark              :"
+138118415,2024-05-03 20:26:50,MN,1114.0,4.0,PHL,human,UpdateEstimatesAction,"2024-05-03 20:26:50,332 INFO  [fa384fa73ef051e5] [MN1114  /04 PHL | human      | UpdateEstimatesAction               |                                | default task-2535]  Saved:","Pax Weight = 10202.0 KG Bag Weight = 1785.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53849.0 KG ZFW = 64116.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 10 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138118416,2024-05-03 20:27:20,MN,1124.0,4.0,ORD,human,UpdateEstimatesAction,"2024-05-03 20:27:20,178 INFO  [6aa9242d504e6df] [MN1124  /04 ORD | human      | UpdateEstimatesAction               |                                | default task-2535]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689175  flightId = 669364 legId = 689175  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 263                       Pax Weight          : 20589.0    KG 
+ Bag                 : 244                       Bag Weight          : 3660.0     KG 
+ Cargo                                                               : 8450.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 33203.0    KG 
+ DOW                                                                 : 1124356.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 157559.0   KG
+ Remark              :"
+138118421,2024-05-03 20:27:20,MN,1124.0,4.0,ORD,human,UpdateEstimatesAction,"2024-05-03 20:27:20,181 INFO  [6aa9242d504e6df] [MN1124  /04 ORD | human      | UpdateEstimatesAction               |                                | default task-2535]  Saved:","Pax Weight = 20589.0 KG Bag Weight = 3660.0 KG Cargo = 8450.0 KG Mail = 0.0 KG DOW = 1124356.0 KG ZFW = 145020.0 KG
+STATUS FUEL 4 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 10 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138118477,2024-05-03 20:28:06,MN,1068.0,4.0,LAX,human,UpdateEstimatesAction,"2024-05-03 20:28:06,233 INFO  [84853df42983bfd9] [MN1068   /04 LAX | human      | UpdateEstimatesAction               |                                | default task-3747]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 10689193  flightId = 669382 legId = 10689193  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 245                       Pax Weight          : 19046.0    KG 
+ Bag                 : 240                       Bag Weight          : 3600.0     KG 
+ Cargo                                                               : 7000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 30150.0    KG 
+ DOW                                                                 : 129173.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 159323.0   KG
+ Remark              :"
+138118482,2024-05-03 20:28:06,MN,1068.0,4.0,LAX,human,UpdateEstimatesAction,"2024-05-03 20:28:06,240 INFO  [84853df42983bfd9] [MN1068   /04 LAX | human      | UpdateEstimatesAction               |                                | default task-3747]  Saved:","Pax Weight = 19046.0 KG Bag Weight = 3600.0 KG Cargo = 7000.0 KG Mail = 0.0 KG DOW = 129173.0 KG ZFW = 148294.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138118505,2024-05-03 20:26:11,MN,1086.0,4.0,CLE,human,UpdateEstimatesAction,"2024-05-03 20:26:11,705 INFO  [ea35644c79022498] [MN1086   /04 CLE | human      | UpdateEstimatesAction               |                                | default task-3747]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689173  flightId = 669362 legId = 689173  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 179                       Pax Weight          : 14096.0    KG 
+ Bag                 : 172                       Bag Weight          : 2580.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 17269.0    KG 
+ DOW                                                                 : 53899.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 71168.0    KG
+ Remark              :"
+138118510,2024-05-03 20:26:11,MN,1086.0,4.0,CLE,human,UpdateEstimatesAction,"2024-05-03 20:26:11,715 INFO  [ea35644c79022498] [MN1086   /04 CLE | human      | UpdateEstimatesAction               |                                | default task-3747]  Saved:","Pax Weight = 14096.0 KG Bag Weight = 2580.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53899.0 KG ZFW = 68060.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138125667,2024-05-03 22:04:54,MN,1106.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-03 22:04:54,335 INFO  [21fc56b61ccf3ba7] [MN1106  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3772]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689213  flightId = 669402 legId = 689213  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 255                       Pax Weight          : 19694.0    KG 
+ Bag                 : 246                       Bag Weight          : 3690.0     KG 
+ Cargo                                                               : 8743.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 32559.0    KG 
+ DOW                                                                 : 127185.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 159744.0   KG
+ Remark              :"
+138125672,2024-05-03 22:04:54,MN,1106.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-03 22:04:54,343 INFO  [21fc56b61ccf3ba7] [MN1106  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3772]  Saved:","Pax Weight = 19694.0 KG Bag Weight = 3690.0 KG Cargo = 8743.0 KG Mail = 0.0 KG DOW = 127185.0 KG ZFW = 159219.0 KG
+STATUS FUEL 40 AIRCRAFT_CONFIG 1 EZFW 38 CARGO_TRANSFER 1 OFP 14 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 38 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 2"
+138127029,2024-05-03 22:24:01,MN,1136.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-03 22:24:01,406 INFO  [7c1024bb62726b2e] [MN1136  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3772]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689041  flightId = 669230 legId = 689041  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 271                       Pax Weight          : 20920.0    KG 
+ Bag                 : 262                       Bag Weight          : 3930.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 25429.0    KG 
+ DOW                                                                 : 127250.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152679.0   KG
+ Remark              :"
+138127034,2024-05-03 22:24:01,MN,1136.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-03 22:24:01,417 INFO  [7c1024bb62726b2e] [MN1136  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3772]  Saved:","Pax Weight = 20920.0 KG Bag Weight = 3930.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127250.0 KG ZFW = 148245.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 10 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138127932,2024-05-03 22:43:24,MN,1052.0,4.0,SEA,human,UpdateEstimatesAction,"2024-05-03 22:43:24,001 INFO  [ac6bd3c2a3e029cd] [MN1052   /04 SEA | human      | UpdateEstimatesAction               |                                | default task-3772]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689120  flightId = 669309 legId = 689120  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 264                       Pax Weight          : 20787.0    KG 
+ Bag                 : 255                       Bag Weight          : 3825.0     KG 
+ Cargo                                                               : 3859.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 28975.0    KG 
+ DOW                                                                 : 12105242.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 154217.0   KG
+ Remark              :"
+138127937,2024-05-03 22:43:24,MN,1052.0,4.0,SEA,human,UpdateEstimatesAction,"2024-05-03 22:43:24,009 INFO  [ac6bd3c2a3e029cd] [MN1052   /04 SEA | human      | UpdateEstimatesAction               |                                | default task-3772]  Saved:","Pax Weight = 20787.0 KG Bag Weight = 3825.0 KG Cargo = 3859.0 KG Mail = 0.0 KG DOW = 12105242.0 KG ZFW = 146104.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 8 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138251016,2024-05-04 16:25:46,MN,1122.0,4.0,ORD,human,UpdateEstimatesAction,"2024-05-04 16:25:46,451 INFO  [5407417bf7689e70] [MN1122  /04 ORD | human      | UpdateEstimatesAction               |                                | default task-2684]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688986  flightId = 669175 legId = 688986  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 233                       Pax Weight          : 18543.0    KG 
+ Bag                 : 217                       Bag Weight          : 3255.0     KG 
+ Cargo                                                               : 11000.0    KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 33302.0    KG 
+ DOW                                                                 : 124430.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 157732.0   KG
+ Remark              :"
+138251021,2024-05-04 16:25:46,MN,1122.0,4.0,ORD,human,UpdateEstimatesAction,"2024-05-04 16:25:46,453 INFO  [5407417bf7689e70] [MN1122  /04 ORD | human      | UpdateEstimatesAction               |                                | default task-2684]  Saved:","Pax Weight = 18543.0 KG Bag Weight = 3255.0 KG Cargo = 11000.0 KG Mail = 0.0 KG DOW = 124430.0 KG ZFW = 142973.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138254194,2024-05-04 16:53:37,MN,1104.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 16:53:37,047 INFO  [8ddd6b385d654d0a] [MN1104  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-2684]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689214  flightId = 669403 legId = 689214  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 249                       Pax Weight          : 19239.0    KG 
+ Bag                 : 228                       Bag Weight          : 3420.0     KG 
+ Cargo                                                               : 5500.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 28591.0    KG 
+ DOW                                                                 : 128823.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 157414.0   KG
+ Remark              :"
+138254199,2024-05-04 16:53:37,MN,1104.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 16:53:37,049 INFO  [8ddd6b385d654d0a] [MN1104  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-2684]  Saved:","Pax Weight = 19239.0 KG Bag Weight = 3420.0 KG Cargo = 5500.0 KG Mail = 0.0 KG DOW = 128823.0 KG ZFW = 148062.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138257284,2024-05-04 17:27:00,MN,1100.0,4.0,EWR,human,UpdateEstimatesAction,"2024-05-04 17:27:00,882 INFO  [6cf2350bcc8f8fc] [MN1100  /04 EWR | human      | UpdateEstimatesAction               |                                | default task-3990]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689215  flightId = 669404 legId = 689215  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 161                       Pax Weight          : 12693.0    KG 
+ Bag                 : 125                       Bag Weight          : 1875.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 15073.0    KG 
+ DOW                                                                 : 53849.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 68922.0    KG
+ Remark              :"
+138257390,2024-05-04 17:26:20,MN,1116.0,4.0,IAD,human,UpdateEstimatesAction,"2024-05-04 17:26:20,283 INFO  [4b8ed7622aea9c23] [MN1116  /04 IAD | human      | UpdateEstimatesAction               |                                | default task-3990]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689295  flightId = 669484 legId = 689295  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 170                       Pax Weight          : 13002.0    KG 
+ Bag                 : 165                       Bag Weight          : 2475.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16070.0    KG 
+ DOW                                                                 : 53899.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 69969.0    KG
+ Remark              :"
+138257395,2024-05-04 17:26:20,MN,1116.0,4.0,IAD,human,UpdateEstimatesAction,"2024-05-04 17:26:20,291 INFO  [4b8ed7622aea9c23] [MN1116  /04 IAD | human      | UpdateEstimatesAction               |                                | default task-3990]  Saved:","Pax Weight = 13002.0 KG Bag Weight = 2475.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53899.0 KG ZFW = 66901.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138257469,2024-05-04 17:27:00,MN,1100.0,4.0,EWR,human,UpdateEstimatesAction,"2024-05-04 17:27:00,889 INFO  [6cf2350bcc8f8fc] [MN1100  /04 EWR | human      | UpdateEstimatesAction               |                                | default task-3990]  Saved:","Pax Weight = 12693.0 KG Bag Weight = 1875.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53849.0 KG ZFW = 66542.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138262181,2024-05-04 18:03:59,MN,1126.0,4.0,YYZ,human,UpdateEstimatesAction,"2024-05-04 18:03:59,456 INFO  [fffd2e4750f1d071] [MN1126  /04 YYZ | human      | UpdateEstimatesAction               |                                | default task-2696]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689296  flightId = 669485 legId = 689296  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 254                       Pax Weight          : 19818.0    KG 
+ Bag                 : 248                       Bag Weight          : 3720.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24189.0    KG 
+ DOW                                                                 : 124356.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 148545.0   KG
+ Remark              :"
+138262686,2024-05-04 18:03:59,MN,1126.0,4.0,YYZ,human,UpdateEstimatesAction,"2024-05-04 18:03:59,458 INFO  [fffd2e4750f1d071] [MN1126  /04 YYZ | human      | UpdateEstimatesAction               |                                | default task-2696]  Saved:","Pax Weight = 19818.0 KG Bag Weight = 3720.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 124356.0 KG ZFW = 144174.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138263303,2024-05-04 18:12:00,MN,1034.0,4.0,MCO,human,UpdateEstimatesAction,"2024-05-04 18:12:00,398 INFO  [3229ce2a494371a2] [MN1034   /04 MCO | human      | UpdateEstimatesAction               |                                | default task-2696]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688988  flightId = 669177 legId = 688988  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 199                       Pax Weight          : 14883.0    KG 
+ Bag                 : 199                       Bag Weight          : 2985.0     KG 
+ Cargo                                                               : 5939.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24167.0    KG 
+ DOW                                                                 : 127455.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 151622.0   KG
+ Remark              :"
+138263371,2024-05-04 18:11:27,MN,1132.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-04 18:11:27,149 INFO  [8403987abea71f13] [MN1132  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3985]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688965  flightId = 669154 legId = 688965  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 267                       Pax Weight          : 21087.0    KG 
+ Bag                 : 245                       Bag Weight          : 3675.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 25413.0    KG 
+ DOW                                                                 : 127250.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152663.0   KG
+ Remark              :"
+138263376,2024-05-04 18:11:27,MN,1132.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-04 18:11:27,156 INFO  [8403987abea71f13] [MN1132  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3985]  Saved:","Pax Weight = 21087.0 KG Bag Weight = 3675.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127250.0 KG ZFW = 148337.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138263377,2024-05-04 18:13:54,MN,1134.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-04 18:13:54,766 INFO  [618b267ef5fe0b8d] [MN1134  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3985]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689177  flightId = 669366 legId = 689177  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 112                       Pax Weight          : 8690.0     KG 
+ Bag                 : 111                       Bag Weight          : 1665.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 4                                             : 352.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 10772.0    KG 
+ DOW                                                                 : 53889.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 64661.0    KG
+ Remark              :"
+138263382,2024-05-04 18:13:54,MN,1134.0,4.0,BOS,human,UpdateEstimatesAction,"2024-05-04 18:13:54,774 INFO  [618b267ef5fe0b8d] [MN1134  /04 BOS | human      | UpdateEstimatesAction               |                                | default task-3985]  Saved:","Pax Weight = 8690.0 KG Bag Weight = 1665.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53889.0 KG ZFW = 62579.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138263408,2024-05-04 18:12:00,MN,1034.0,4.0,MCO,human,UpdateEstimatesAction,"2024-05-04 18:12:00,401 INFO  [3229ce2a494371a2] [MN1034   /04 MCO | human      | UpdateEstimatesAction               |                                | default task-2696]  Saved:","Pax Weight = 14883.0 KG Bag Weight = 2985.0 KG Cargo = 5939.0 KG Mail = 0.0 KG DOW = 127455.0 KG ZFW = 142338.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_FINAL 1 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138263413,2024-05-04 18:13:21,MN,1110.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 18:13:21,637 INFO  [3de3df05c01c44d4] [MN1110  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-2696]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689297  flightId = 669486 legId = 689297  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 109                       Pax Weight          : 8640.0     KG 
+ Bag                 : 107                       Bag Weight          : 1605.0     KG 
+ Cargo                                                               : 241.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 4                                             : 352.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 10838.0    KG 
+ DOW                                                                 : 53868.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 64706.0    KG
+ Remark              :"
+138263418,2024-05-04 18:13:21,MN,1110.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 18:13:21,639 INFO  [3de3df05c01c44d4] [MN1110  /04 JFK | human      | UpdateEstimatesAction               |                                | default task-2696]  Saved:","Pax Weight = 8640.0 KG Bag Weight = 1605.0 KG Cargo = 241.0 KG Mail = 0.0 KG DOW = 53868.0 KG ZFW = 62508.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138263425,2024-05-04 18:12:44,MN,1130.0,4.0,BDL,human,UpdateEstimatesAction,"2024-05-04 18:12:44,467 INFO  [f1fc713af5635a7f] [MN1130  /04 BDL | human      | UpdateEstimatesAction               |                                | default task-3985]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689257  flightId = 669446 legId = 689257  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 112                       Pax Weight          : 8652.0     KG 
+ Bag                 : 106                       Bag Weight          : 1590.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 10747.0    KG 
+ DOW                                                                 : 54126.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 64873.0    KG
+ Remark              :"
+138263430,2024-05-04 18:12:44,MN,1130.0,4.0,BDL,human,UpdateEstimatesAction,"2024-05-04 18:12:44,474 INFO  [f1fc713af5635a7f] [MN1130  /04 BDL | human      | UpdateEstimatesAction               |                                | default task-3985]  Saved:","Pax Weight = 8652.0 KG Bag Weight = 1590.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54126.0 KG ZFW = 62778.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138263472,2024-05-04 18:14:22,MN,1044.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 18:14:22,411 INFO  [e651748e373ff22f] [MN1044   /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3985]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 688966  flightId = 669155 legId = 688966  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 137                       Pax Weight          : 10709.0    KG 
+ Bag                 : 137                       Bag Weight          : 2055.0     KG 
+ Cargo                                                               : 1000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 14124.0    KG 
+ DOW                                                                 : 127486.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 141610.0   KG
+ Remark              :"
+138263477,2024-05-04 18:14:22,MN,1044.0,4.0,JFK,human,UpdateEstimatesAction,"2024-05-04 18:14:22,418 INFO  [e651748e373ff22f] [MN1044   /04 JFK | human      | UpdateEstimatesAction               |                                | default task-3985]  Saved:","Pax Weight = 10709.0 KG Bag Weight = 2055.0 KG Cargo = 1000.0 KG Mail = 0.0 KG DOW = 127486.0 KG ZFW = 138195.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138264023,2024-05-04 18:34:26,MN,1126.0,4.0,YYZ,human,UpdateEstimatesAction,"2024-05-04 18:34:26,516 INFO  [f209de4e10ecd518] [MN1126  /04 YYZ | human      | UpdateEstimatesAction               |                                | default task-2696]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689296  flightId = 669485 legId = 689296  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 254                       Pax Weight          : 19818.0    KG 
+ Bag                 : 248                       Bag Weight          : 3720.0     KG 
+ Cargo                                                               : 8753.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 32867.0    KG 
+ DOW                                                                 : 124356.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 157223.0   KG
+ Remark              :"
+138264048,2024-05-04 18:34:26,MN,1126.0,4.0,YYZ,human,UpdateEstimatesAction,"2024-05-04 18:34:26,518 INFO  [f209de4e10ecd518] [MN1126  /04 YYZ | human      | UpdateEstimatesAction               |                                | default task-2696]  Saved:","Pax Weight = 19818.0 KG Bag Weight = 3720.0 KG Cargo = 8753.0 KG Mail = 0.0 KG DOW = 124356.0 KG ZFW = 144174.0 KG
+STATUS FUEL 9 AIRCRAFT_CONFIG 1 EZFW 10 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 17 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 10 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138269117,2024-05-04 20:21:48,MN,1088.0,4.0,MSP,human,UpdateEstimatesAction,"2024-05-04 20:21:48,656 INFO  [8538e9c2b0e7dd02] [MN1088   /04 MSP | human      | UpdateEstimatesAction               |                                | default task-2704]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689216  flightId = 669405 legId = 689216  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 189                       Pax Weight          : 14531.0    KG 
+ Bag                 : 11088                       Bag Weight          : 2820.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 17858.0    KG 
+ DOW                                                                 : 125232.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 143090.0   KG
+ Remark              :"
+138269122,2024-05-04 20:21:48,MN,1088.0,4.0,MSP,human,UpdateEstimatesAction,"2024-05-04 20:21:48,658 INFO  [8538e9c2b0e7dd02] [MN1088   /04 MSP | human      | UpdateEstimatesAction               |                                | default task-2704]  Saved:","Pax Weight = 14531.0 KG Bag Weight = 2820.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 125232.0 KG ZFW = 139763.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138269501,2024-05-04 20:28:02,MN,1120.0,5.0,MCO,human,UpdateEstimatesAction,"2024-05-04 20:28:02,111 INFO  [5d8b0ada7ea2c3bc] [MN1120  /05 MCO | human      | UpdateEstimatesAction               |                                | default task-2704]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689596  flightId = 669785 legId = 689596  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 277                       Pax Weight          : 21257.0    KG 
+ Bag                 : 269                       Bag Weight          : 4035.0     KG 
+ Cargo                                                               : 3437.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 29233.0    KG 
+ DOW                                                                 : 127185.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 156418.0   KG
+ Remark              :"
+138269546,2024-05-04 20:28:02,MN,1120.0,5.0,MCO,human,UpdateEstimatesAction,"2024-05-04 20:28:02,113 INFO  [5d8b0ada7ea2c3bc] [MN1120  /05 MCO | human      | UpdateEstimatesAction               |                                | default task-2704]  Saved:","Pax Weight = 21257.0 KG Bag Weight = 4035.0 KG Cargo = 3437.0 KG Mail = 0.0 KG DOW = 127185.0 KG ZFW = 148442.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138270678,2024-05-04 20:51:37,MN,1106.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-04 20:51:37,799 INFO  [311bfc949e1000a0] [MN1106  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-4016]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689457  flightId = 669646 legId = 689457  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 226                       Pax Weight          : 17747.0    KG 
+ Bag                 : 217                       Bag Weight          : 3255.0     KG 
+ Cargo                                                               : 1000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 22434.0    KG 
+ DOW                                                                 : 127585.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150019.0   KG
+ Remark              :"
+138270683,2024-05-04 20:51:37,MN,1106.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-04 20:51:37,806 INFO  [311bfc949e1000a0] [MN1106  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-4016]  Saved:","Pax Weight = 17747.0 KG Bag Weight = 3255.0 KG Cargo = 1000.0 KG Mail = 0.0 KG DOW = 127585.0 KG ZFW = 145332.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138270944,2024-05-04 20:50:15,MN,1118.0,5.0,IAD,human,UpdateEstimatesAction,"2024-05-04 20:50:15,629 INFO  [800c9b70bb009ffc] [MN1118  /05 IAD | human      | UpdateEstimatesAction               |                                | default task-2715]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689635  flightId = 669824 legId = 689635  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 167                       Pax Weight          : 12743.0    KG 
+ Bag                 : 163                       Bag Weight          : 2445.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 15781.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 69807.0    KG
+ Remark              :"
+138271241,2024-05-04 20:50:43,MN,1114.0,5.0,PHL,human,UpdateEstimatesAction,"2024-05-04 20:50:43,176 INFO  [d9b76543f8052712] [MN1114  /05 PHL | human      | UpdateEstimatesAction               |                                | default task-2715]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689384  flightId = 669573 legId = 689384  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 124                       Pax Weight          : 9564.0     KG 
+ Bag                 : 110                       Bag Weight          : 1650.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 4                                             : 352.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 11631.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 65657.0    KG
+ Remark              :"
+138271249,2024-05-04 20:50:15,MN,1118.0,5.0,IAD,human,UpdateEstimatesAction,"2024-05-04 20:50:15,630 INFO  [800c9b70bb009ffc] [MN1118  /05 IAD | human      | UpdateEstimatesAction               |                                | default task-2715]  Saved:","Pax Weight = 12743.0 KG Bag Weight = 2445.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 66769.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138271306,2024-05-04 20:50:43,MN,1114.0,5.0,PHL,human,UpdateEstimatesAction,"2024-05-04 20:50:43,178 INFO  [d9b76543f8052712] [MN1114  /05 PHL | human      | UpdateEstimatesAction               |                                | default task-2715]  Saved:","Pax Weight = 9564.0 KG Bag Weight = 1650.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 63590.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138271307,2024-05-04 20:51:12,MN,1060.0,5.0,SFO,human,UpdateEstimatesAction,"2024-05-04 20:51:12,381 INFO  [ad2ab930dda241df] [MN1060   /05 SFO | human      | UpdateEstimatesAction               |                                | default task-2715]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689673  flightId = 669862 legId = 689673  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 222                       Pax Weight          : 17186.0    KG 
+ Bag                 : 213                       Bag Weight          : 3195.0     KG 
+ Cargo                                                               : 1300.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 22113.0    KG 
+ DOW                                                                 : 12831060.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150473.0   KG
+ Remark              :"
+138271312,2024-05-04 20:51:12,MN,1060.0,5.0,SFO,human,UpdateEstimatesAction,"2024-05-04 20:51:12,383 INFO  [ad2ab930dda241df] [MN1060   /05 SFO | human      | UpdateEstimatesAction               |                                | default task-2715]  Saved:","Pax Weight = 17186.0 KG Bag Weight = 3195.0 KG Cargo = 1300.0 KG Mail = 0.0 KG DOW = 12831060.0 KG ZFW = 145546.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138271345,2024-05-04 20:52:05,MN,1136.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-04 20:52:05,807 INFO  [52dcf8c3eb965d91] [MN1136  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-4021]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689693  flightId = 669882 legId = 689693  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 202                       Pax Weight          : 15780.0    KG 
+ Bag                 : 193                       Bag Weight          : 2895.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 19182.0    KG 
+ DOW                                                                 : 127715.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 146897.0   KG
+ Remark              :"
+138271350,2024-05-04 20:52:05,MN,1136.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-04 20:52:05,814 INFO  [52dcf8c3eb965d91] [MN1136  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-4021]  Saved:","Pax Weight = 15780.0 KG Bag Weight = 2895.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127715.0 KG ZFW = 143495.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 12 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138271351,2024-05-04 20:52:34,MN,1124.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-04 20:52:34,052 INFO  [5e0d8bcc85384e1c] [MN1124  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-4016]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689657  flightId = 669846 legId = 689657  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 231                       Pax Weight          : 18012.0    KG 
+ Bag                 : 222                       Bag Weight          : 3330.0     KG 
+ Cargo                                                               : 6950.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 28724.0    KG 
+ DOW                                                                 : 129163.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 157887.0   KG
+ Remark              :"
+138271356,2024-05-04 20:52:34,MN,1124.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-04 20:52:34,060 INFO  [5e0d8bcc85384e1c] [MN1124  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-4016]  Saved:","Pax Weight = 18012.0 KG Bag Weight = 3330.0 KG Cargo = 6950.0 KG Mail = 0.0 KG DOW = 129163.0 KG ZFW = 147175.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138271357,2024-05-04 20:53:04,MN,1068.0,5.0,LAX,human,UpdateEstimatesAction,"2024-05-04 20:53:04,080 INFO  [b7b2e7ad0cde090c] [MN1068   /05 LAX | human      | UpdateEstimatesAction               |                                | default task-4016]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 10689617  flightId = 669806 legId = 10689617  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 253                       Pax Weight          : 19043.0    KG 
+ Bag                 : 247                       Bag Weight          : 3705.0     KG 
+ Cargo                                                               : 5400.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 28652.0    KG 
+ DOW                                                                 : 128342.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 156994.0   KG
+ Remark              :"
+138271362,2024-05-04 20:53:04,MN,1068.0,5.0,LAX,human,UpdateEstimatesAction,"2024-05-04 20:53:04,088 INFO  [b7b2e7ad0cde090c] [MN1068   /05 LAX | human      | UpdateEstimatesAction               |                                | default task-4016]  Saved:","Pax Weight = 19043.0 KG Bag Weight = 3705.0 KG Cargo = 5400.0 KG Mail = 0.0 KG DOW = 128342.0 KG ZFW = 147385.0 KG
+STATUS FUEL 4 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138400812,2024-05-05 16:15:22,MN,1122.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-05 16:15:22,463 INFO  [4f120449a447757a] [MN1122  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-2831]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689517  flightId = 669706 legId = 689517  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 317                       Pax Weight          : 25250.0    KG 
+ Bag                 : 281                       Bag Weight          : 4215.0     KG 
+ Cargo                                                               : 2000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 9                                             : 648.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 32113.0    KG 
+ DOW                                                                 : 127715.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 159828.0   KG
+ Remark              :"
+138400817,2024-05-05 16:15:22,MN,1122.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-05 16:15:22,465 INFO  [4f120449a447757a] [MN1122  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-2831]  Saved:","Pax Weight = 25250.0 KG Bag Weight = 4215.0 KG Cargo = 2000.0 KG Mail = 0.0 KG DOW = 127715.0 KG ZFW = 152965.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138407894,2024-05-05 17:18:20,MN,1116.0,5.0,IAD,human,UpdateEstimatesAction,"2024-05-05 17:18:20,423 INFO  [d3e2443afa690400] [MN1116  /05 IAD | human      | UpdateEstimatesAction               |                                | default task-4234]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689504  flightId = 669693 legId = 689504  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 174                       Pax Weight          : 13427.0    KG 
+ Bag                 : 166                       Bag Weight          : 2490.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16510.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70536.0    KG
+ Remark              :"
+138407899,2024-05-05 17:18:20,MN,1116.0,5.0,IAD,human,UpdateEstimatesAction,"2024-05-05 17:18:20,430 INFO  [d3e2443afa690400] [MN1116  /05 IAD | human      | UpdateEstimatesAction               |                                | default task-4234]  Saved:","Pax Weight = 13427.0 KG Bag Weight = 2490.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 67453.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138407929,2024-05-05 17:16:55,MN,1104.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 17:16:55,956 INFO  [7ae97c0b0dd036f5] [MN1104  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689677  flightId = 669866 legId = 689677  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 257                       Pax Weight          : 19725.0    KG 
+ Bag                 : 247                       Bag Weight          : 3705.0     KG 
+ Cargo                                                               : 500.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24434.0    KG 
+ DOW                                                                 : 127585.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152019.0   KG
+ Remark              :"
+138407934,2024-05-05 17:16:55,MN,1104.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 17:16:55,958 INFO  [7ae97c0b0dd036f5] [MN1104  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 19725.0 KG Bag Weight = 3705.0 KG Cargo = 500.0 KG Mail = 0.0 KG DOW = 127585.0 KG ZFW = 147310.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138408131,2024-05-05 17:18:47,MN,1100.0,5.0,EWR,human,UpdateEstimatesAction,"2024-05-05 17:18:47,400 INFO  [b3bb479d315fd2f7] [MN1100  /05 EWR | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689406  flightId = 669595 legId = 689406  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 148                       Pax Weight          : 11586.0    KG 
+ Bag                 : 133                       Bag Weight          : 1995.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 14086.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 68112.0    KG
+ Remark              :"
+138408136,2024-05-05 17:18:47,MN,1100.0,5.0,EWR,human,UpdateEstimatesAction,"2024-05-05 17:18:47,402 INFO  [b3bb479d315fd2f7] [MN1100  /05 EWR | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 11586.0 KG Bag Weight = 1995.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 65612.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 2 FUEL_ORDER 1"
+138414789,2024-05-05 18:01:01,MN,1132.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-05 18:01:01,742 INFO  [5cbbe2a68a6f2218] [MN1132  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689714  flightId = 669903 legId = 689714  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 236                       Pax Weight          : 18375.0    KG 
+ Bag                 : 216                       Bag Weight          : 3240.0     KG 
+ Cargo                                                               : 2079.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24198.0    KG 
+ DOW                                                                 : 127185.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 151383.0   KG
+ Remark              :"
+138414794,2024-05-05 18:01:01,MN,1132.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-05 18:01:01,744 INFO  [5cbbe2a68a6f2218] [MN1132  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 18375.0 KG Bag Weight = 3240.0 KG Cargo = 2079.0 KG Mail = 0.0 KG DOW = 127185.0 KG ZFW = 145560.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138415205,2024-05-05 18:00:28,MN,1126.0,5.0,YYZ,human,UpdateEstimatesAction,"2024-05-05 18:00:28,072 INFO  [4045f68918402775] [MN1126  /05 YYZ | human      | UpdateEstimatesAction               |                                | default task-2840]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689461  flightId = 669650 legId = 689461  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 256                       Pax Weight          : 19905.0    KG 
+ Bag                 : 247                       Bag Weight          : 3705.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24261.0    KG 
+ DOW                                                                 : 124430.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 148691.0   KG
+ Remark              :"
+138415210,2024-05-05 18:00:28,MN,1126.0,5.0,YYZ,human,UpdateEstimatesAction,"2024-05-05 18:00:28,074 INFO  [4045f68918402775] [MN1126  /05 YYZ | human      | UpdateEstimatesAction               |                                | default task-2840]  Saved:","Pax Weight = 19905.0 KG Bag Weight = 3705.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 124430.0 KG ZFW = 144335.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138415326,2024-05-05 18:01:30,MN,1130.0,5.0,BDL,human,UpdateEstimatesAction,"2024-05-05 18:01:30,684 INFO  [a17d60aae9faaebb] [MN1130  /05 BDL | human      | UpdateEstimatesAction               |                                | default task-4243]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689678  flightId = 669867 legId = 689678  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 123                       Pax Weight          : 9566.0     KG 
+ Bag                 : 114                       Bag Weight          : 1710.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 11781.0    KG 
+ DOW                                                                 : 53849.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 65630.0    KG
+ Remark              :"
+138415331,2024-05-05 18:01:30,MN,1130.0,5.0,BDL,human,UpdateEstimatesAction,"2024-05-05 18:01:30,691 INFO  [a17d60aae9faaebb] [MN1130  /05 BDL | human      | UpdateEstimatesAction               |                                | default task-4243]  Saved:","Pax Weight = 9566.0 KG Bag Weight = 1710.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53849.0 KG ZFW = 63415.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 2"
+138415340,2024-05-05 18:02:48,MN,1134.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-05 18:02:48,424 INFO  [1bc3a5d47a37e52] [MN1134  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-4247]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689659  flightId = 669848 legId = 689659  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 128                       Pax Weight          : 10185.0    KG 
+ Bag                 : 127                       Bag Weight          : 1905.0     KG 
+ Cargo                                                               : 153.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 12683.0    KG 
+ DOW                                                                 : 53889.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 66572.0    KG
+ Remark              :"
+138415413,2024-05-05 18:01:58,MN,1030.0,5.0,BGI,human,UpdateEstimatesAction,"2024-05-05 18:01:58,268 INFO  [66e093c22c4bea5e] [MN1030   /05 BGI | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689658  flightId = 669847 legId = 689658  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 226                       Pax Weight          : 17696.0    KG 
+ Bag                 : 224                       Bag Weight          : 3360.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 21563.0    KG 
+ DOW                                                                 : 127455.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 149018.0   KG
+ Remark              :"
+138415418,2024-05-05 18:01:58,MN,1030.0,5.0,BGI,human,UpdateEstimatesAction,"2024-05-05 18:01:58,270 INFO  [66e093c22c4bea5e] [MN1030   /05 BGI | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 17696.0 KG Bag Weight = 3360.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127455.0 KG ZFW = 145151.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138415469,2024-05-05 18:02:23,MN,1110.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 18:02:23,838 INFO  [1e30f85ce3730398] [MN1110  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689407  flightId = 669596 legId = 689407  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 112                       Pax Weight          : 8742.0     KG 
+ Bag                 : 109                       Bag Weight          : 1635.0     KG 
+ Cargo                                                               : 241.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 4                                             : 352.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 10970.0    KG 
+ DOW                                                                 : 53868.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 64838.0    KG
+ Remark              :"
+138415474,2024-05-05 18:02:23,MN,1110.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 18:02:23,840 INFO  [1e30f85ce3730398] [MN1110  /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 8742.0 KG Bag Weight = 1635.0 KG Cargo = 241.0 KG Mail = 0.0 KG DOW = 53868.0 KG ZFW = 62610.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138415475,2024-05-05 18:03:13,MN,1044.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 18:03:13,140 INFO  [40e8e3720e1484bc] [MN1044   /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689408  flightId = 669597 legId = 689408  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 233                       Pax Weight          : 17353.0    KG 
+ Bag                 : 230                       Bag Weight          : 3450.0     KG 
+ Cargo                                                               : 1800.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 23035.0    KG 
+ DOW                                                                 : 127486.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150521.0   KG
+ Remark              :"
+138415480,2024-05-05 18:03:13,MN,1044.0,5.0,JFK,human,UpdateEstimatesAction,"2024-05-05 18:03:13,142 INFO  [40e8e3720e1484bc] [MN1044   /05 JFK | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 17353.0 KG Bag Weight = 3450.0 KG Cargo = 1800.0 KG Mail = 0.0 KG DOW = 127486.0 KG ZFW = 11044839.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138415505,2024-05-05 18:02:48,MN,1134.0,5.0,BOS,human,UpdateEstimatesAction,"2024-05-05 18:02:48,432 INFO  [1bc3a5d47a37e52] [MN1134  /05 BOS | human      | UpdateEstimatesAction               |                                | default task-4247]  Saved:","Pax Weight = 10185.0 KG Bag Weight = 1905.0 KG Cargo = 153.0 KG Mail = 0.0 KG DOW = 53889.0 KG ZFW = 64074.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138417766,2024-05-05 18:34:57,MN,1122.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-05 18:34:57,318 INFO  [d2f98a0ab5db1b20] [MN1122  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-2836]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689517  flightId = 669706 legId = 689517  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 315                       Pax Weight          : 25074.0    KG 
+ Bag                 : 281                       Bag Weight          : 4215.0     KG 
+ Cargo                                                               : 7251.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 9                                             : 648.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 37188.0    KG 
+ DOW                                                                 : 127715.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 164903.0   KG
+ Remark              :"
+138417771,2024-05-05 18:34:57,MN,1122.0,5.0,ORD,human,UpdateEstimatesAction,"2024-05-05 18:34:57,320 INFO  [d2f98a0ab5db1b20] [MN1122  /05 ORD | human      | UpdateEstimatesAction               |                                | default task-2836]  Saved:","Pax Weight = 25074.0 KG Bag Weight = 4215.0 KG Cargo = 7251.0 KG Mail = 0.0 KG DOW = 127715.0 KG ZFW = 152789.0 KG
+STATUS FUEL 7 AIRCRAFT_CONFIG 1 EZFW 5 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 17 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 5 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 2 DGR_ITEMS 0"
+138421465,2024-05-05 19:50:32,MN,1120.0,6.0,MCO,human,UpdateEstimatesAction,"2024-05-05 19:50:32,410 INFO  [e639762217e48857] [MN1120  /06 MCO | human      | UpdateEstimatesAction               |                                | default task-4265]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689796  flightId = 669985 legId = 689796  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 213                       Pax Weight          : 15902.0    KG 
+ Bag                 : 208                       Bag Weight          : 31120.0     KG 
+ Cargo                                                               : 1544.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 20998.0    KG 
+ DOW                                                                 : 125232.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 146230.0   KG
+ Remark              :"
+138421470,2024-05-05 19:50:32,MN,1120.0,6.0,MCO,human,UpdateEstimatesAction,"2024-05-05 19:50:32,417 INFO  [e639762217e48857] [MN1120  /06 MCO | human      | UpdateEstimatesAction               |                                | default task-4265]  Saved:","Pax Weight = 15902.0 KG Bag Weight = 31120.0 KG Cargo = 1544.0 KG Mail = 0.0 KG DOW = 125232.0 KG ZFW = 141134.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138421471,2024-05-05 19:51:23,MN,1086.0,6.0,CLE,human,UpdateEstimatesAction,"2024-05-05 19:51:23,340 INFO  [bd73b8c03980a462] [MN1086   /06 CLE | human      | UpdateEstimatesAction               |                                | default task-4265]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689879  flightId = 670068 legId = 689879  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 169                       Pax Weight          : 13220.0    KG 
+ Bag                 : 166                       Bag Weight          : 2490.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16303.0    KG 
+ DOW                                                                 : 53899.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70202.0    KG
+ Remark              :"
+138421476,2024-05-05 19:51:23,MN,1086.0,6.0,CLE,human,UpdateEstimatesAction,"2024-05-05 19:51:23,347 INFO  [bd73b8c03980a462] [MN1086   /06 CLE | human      | UpdateEstimatesAction               |                                | default task-4265]  Saved:","Pax Weight = 13220.0 KG Bag Weight = 2490.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53899.0 KG ZFW = 67119.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138421555,2024-05-05 19:51:51,MN,1118.0,6.0,IAD,human,UpdateEstimatesAction,"2024-05-05 19:51:51,648 INFO  [cfb86613310192d8] [MN1118  /06 IAD | human      | UpdateEstimatesAction               |                                | default task-2853]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690054  flightId = 670243 legId = 690054  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 169                       Pax Weight          : 13163.0    KG 
+ Bag                 : 165                       Bag Weight          : 2475.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16231.0    KG 
+ DOW                                                                 : 54126.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70357.0    KG
+ Remark              :"
+138421560,2024-05-05 19:51:51,MN,1118.0,6.0,IAD,human,UpdateEstimatesAction,"2024-05-05 19:51:51,651 INFO  [cfb86613310192d8] [MN1118  /06 IAD | human      | UpdateEstimatesAction               |                                | default task-2853]  Saved:","Pax Weight = 13163.0 KG Bag Weight = 2475.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54126.0 KG ZFW = 67289.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138421568,2024-05-05 19:52:36,MN,1114.0,6.0,PHL,human,UpdateEstimatesAction,"2024-05-05 19:52:36,630 INFO  [f281f6ef788975d1] [MN1114  /06 PHL | human      | UpdateEstimatesAction               |                                | default task-4252]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689996  flightId = 670185 legId = 689996  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 1114                       Pax Weight          : 8827.0     KG 
+ Bag                 : 108                       Bag Weight          : 1620.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 4                                             : 352.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 10864.0    KG 
+ DOW                                                                 : 53999.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 64863.0    KG
+ Remark              :"
+138421573,2024-05-05 19:52:36,MN,1114.0,6.0,PHL,human,UpdateEstimatesAction,"2024-05-05 19:52:36,638 INFO  [f281f6ef788975d1] [MN1114  /06 PHL | human      | UpdateEstimatesAction               |                                | default task-4252]  Saved:","Pax Weight = 8827.0 KG Bag Weight = 1620.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53999.0 KG ZFW = 62826.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138425964,2024-05-05 21:03:40,MN,1106.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-05 21:03:40,368 INFO  [e5c508e599b73158] [MN1106  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-2861]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690018  flightId = 670207 legId = 690018  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 282                       Pax Weight          : 21547.0    KG 
+ Bag                 : 277                       Bag Weight          : 4155.0     KG 
+ Cargo                                                               : 500.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26706.0    KG 
+ DOW                                                                 : 128823.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 155529.0   KG
+ Remark              :"
+138426149,2024-05-05 21:03:40,MN,1106.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-05 21:03:40,370 INFO  [e5c508e599b73158] [MN1106  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-2861]  Saved:","Pax Weight = 21547.0 KG Bag Weight = 4155.0 KG Cargo = 500.0 KG Mail = 0.0 KG DOW = 128823.0 KG ZFW = 150370.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138426173,2024-05-05 21:04:16,MN,1060.0,6.0,SFO,human,UpdateEstimatesAction,"2024-05-05 21:04:16,556 INFO  [9c7f8ecbb5df8ce1] [MN1060   /06 SFO | human      | UpdateEstimatesAction               |                                | default task-4266]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689797  flightId = 669986 legId = 689797  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 234                       Pax Weight          : 18378.0    KG 
+ Bag                 : 223                       Bag Weight          : 3345.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 22230.0    KG 
+ DOW                                                                 : 129163.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 151393.0   KG
+ Remark              :"
+138426178,2024-05-05 21:04:16,MN,1060.0,6.0,SFO,human,UpdateEstimatesAction,"2024-05-05 21:04:16,564 INFO  [9c7f8ecbb5df8ce1] [MN1060   /06 SFO | human      | UpdateEstimatesAction               |                                | default task-4266]  Saved:","Pax Weight = 18378.0 KG Bag Weight = 3345.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 129163.0 KG ZFW = 147541.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138426208,2024-05-05 21:05:25,MN,1136.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-05 21:05:25,213 INFO  [22702714be52225d] [MN1136  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4252]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689941  flightId = 670130 legId = 689941  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 223                       Pax Weight          : 17428.0    KG 
+ Bag                 : 215                       Bag Weight          : 3225.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 21160.0    KG 
+ DOW                                                                 : 127250.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 148410.0   KG
+ Remark              :"
+138426213,2024-05-05 21:05:25,MN,1136.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-05 21:05:25,221 INFO  [22702714be52225d] [MN1136  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4252]  Saved:","Pax Weight = 17428.0 KG Bag Weight = 3225.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127250.0 KG ZFW = 144678.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 11 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138427821,2024-05-05 21:28:46,MN,1124.0,6.0,ORD,human,UpdateEstimatesAction,"2024-05-05 21:28:46,119 INFO  [34639811db043cfb] [MN1124  /06 ORD | human      | UpdateEstimatesAction               |                                | default task-4266]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689997  flightId = 670186 legId = 689997  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 280                       Pax Weight          : 22284.0    KG 
+ Bag                 : 270                       Bag Weight          : 4050.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26985.0    KG 
+ DOW                                                                 : 128342.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 155327.0   KG
+ Remark              :"
+138427866,2024-05-05 21:28:46,MN,1124.0,6.0,ORD,human,UpdateEstimatesAction,"2024-05-05 21:28:46,128 INFO  [34639811db043cfb] [MN1124  /06 ORD | human      | UpdateEstimatesAction               |                                | default task-4266]  Saved:","Pax Weight = 22284.0 KG Bag Weight = 4050.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 128342.0 KG ZFW = 150626.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 12 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138429949,2024-05-05 22:07:46,MN,1052.0,6.0,SEA,human,UpdateEstimatesAction,"2024-05-05 22:07:46,869 INFO  [ed8e591c8995d0f8] [MN1052   /06 SEA | human      | UpdateEstimatesAction               |                                | default task-4252]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689863  flightId = 67001052 legId = 689863  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 255                       Pax Weight          : 19711.0    KG 
+ Bag                 : 253                       Bag Weight          : 3795.0     KG 
+ Cargo                                                               : 2111.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26121.0    KG 
+ DOW                                                                 : 124356.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150477.0   KG
+ Remark              :"
+138429954,2024-05-05 22:07:46,MN,1052.0,6.0,SEA,human,UpdateEstimatesAction,"2024-05-05 22:07:46,876 INFO  [ed8e591c8995d0f8] [MN1052   /06 SEA | human      | UpdateEstimatesAction               |                                | default task-4252]  Saved:","Pax Weight = 19711.0 KG Bag Weight = 3795.0 KG Cargo = 2111.0 KG Mail = 0.0 KG DOW = 124356.0 KG ZFW = 144067.0 KG
+STATUS FUEL 4 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 12 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138436049,2024-05-05 23:51:10,MN,1068.0,6.0,LAX,human,UpdateEstimatesAction,"2024-05-05 23:51:10,140 INFO  [6221c9e2c1ef261d] [MN1068   /06 LAX | human      | UpdateEstimatesAction               |                                | default task-2869]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 10689864  flightId = 670053 legId = 10689864  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 193                       Pax Weight          : 15024.0    KG 
+ Bag                 : 192                       Bag Weight          : 2880.0     KG 
+ Cargo                                                               : 3000.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 21264.0    KG 
+ DOW                                                                 : 128445.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 149709.0   KG
+ Remark              :"
+138436054,2024-05-05 23:51:10,MN,1068.0,6.0,LAX,human,UpdateEstimatesAction,"2024-05-05 23:51:10,142 INFO  [6221c9e2c1ef261d] [MN1068   /06 LAX | human      | UpdateEstimatesAction               |                                | default task-2869]  Saved:","Pax Weight = 15024.0 KG Bag Weight = 2880.0 KG Cargo = 3000.0 KG Mail = 0.0 KG DOW = 128445.0 KG ZFW = 143469.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138438782,2024-05-06 00:19:58,MN,1068.0,6.0,LAX,human,UpdateEstimatesAction,"2024-05-06 00:19:58,630 INFO  [1163cbd37a29be34] [MN1068   /06 LAX | human      | UpdateEstimatesAction               |                                | default task-4280]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 10689864  flightId = 670053 legId = 10689864  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 193                       Pax Weight          : 15024.0    KG 
+ Bag                 : 192                       Bag Weight          : 2880.0     KG 
+ Cargo                                                               : 2701.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 20965.0    KG 
+ DOW                                                                 : 128445.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 149410.0   KG
+ Remark              :"
+138438867,2024-05-06 00:19:58,MN,1068.0,6.0,LAX,human,UpdateEstimatesAction,"2024-05-06 00:19:58,637 INFO  [1163cbd37a29be34] [MN1068   /06 LAX | human      | UpdateEstimatesAction               |                                | default task-4280]  Saved:","Pax Weight = 15024.0 KG Bag Weight = 2880.0 KG Cargo = 2701.0 KG Mail = 0.0 KG DOW = 128445.0 KG ZFW = 143469.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_FINAL 1 CARGO_TRANSFER 1 OFP 10 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138550060,2024-05-06 16:05:29,MN,1122.0,6.0,ORD,human,UpdateEstimatesAction,"2024-05-06 16:05:29,765 INFO  [f5b98dfb059ae1cc] [MN1122  /06 ORD | human      | UpdateEstimatesAction               |                                | default task-4448]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689823  flightId = 670012 legId = 689823  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 243                       Pax Weight          : 18903.0    KG 
+ Bag                 : 253                       Bag Weight          : 3795.0     KG 
+ Cargo                                                               : 400.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 23674.0    KG 
+ DOW                                                                 : 128823.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152497.0   KG
+ Remark              :"
+138550065,2024-05-06 16:05:29,MN,1122.0,6.0,ORD,human,UpdateEstimatesAction,"2024-05-06 16:05:29,773 INFO  [f5b98dfb059ae1cc] [MN1122  /06 ORD | human      | UpdateEstimatesAction               |                                | default task-4448]  Saved:","Pax Weight = 18903.0 KG Bag Weight = 3795.0 KG Cargo = 400.0 KG Mail = 0.0 KG DOW = 128823.0 KG ZFW = 152172.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138550974,2024-05-06 16:08:47,MN,1116.0,6.0,IAD,human,UpdateEstimatesAction,"2024-05-06 16:08:47,604 INFO  [2a7a18fd315ce12] [MN1116  /06 IAD | human      | UpdateEstimatesAction               |                                | default task-2981]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689767  flightId = 669956 legId = 689767  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 173                       Pax Weight          : 13286.0    KG 
+ Bag                 : 164                       Bag Weight          : 2460.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16339.0    KG 
+ DOW                                                                 : 53999.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70338.0    KG
+ Remark              :"
+138550979,2024-05-06 16:08:47,MN,1116.0,6.0,IAD,human,UpdateEstimatesAction,"2024-05-06 16:08:47,606 INFO  [2a7a18fd315ce12] [MN1116  /06 IAD | human      | UpdateEstimatesAction               |                                | default task-2981]  Saved:","Pax Weight = 13286.0 KG Bag Weight = 2460.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53999.0 KG ZFW = 70338.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138551039,2024-05-06 16:10:18,MN,1100.0,6.0,EWR,human,UpdateEstimatesAction,"2024-05-06 16:10:18,500 INFO  [4686328c26ffa762] [MN1100  /06 EWR | human      | UpdateEstimatesAction               |                                | default task-2981]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690035  flightId = 670224 legId = 690035  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 149                       Pax Weight          : 11531.0    KG 
+ Bag                 : 141                       Bag Weight          : 2115.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 14151.0    KG 
+ DOW                                                                 : 53849.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 68000.0    KG
+ Remark              :"
+138551044,2024-05-06 16:10:18,MN,1100.0,6.0,EWR,human,UpdateEstimatesAction,"2024-05-06 16:10:18,502 INFO  [4686328c26ffa762] [MN1100  /06 EWR | human      | UpdateEstimatesAction               |                                | default task-2981]  Saved:","Pax Weight = 11531.0 KG Bag Weight = 2115.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53849.0 KG ZFW = 68000.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 2 FUEL_ORDER 1"
+138551476,2024-05-06 16:16:00,MN,1130.0,6.0,BDL,human,UpdateEstimatesAction,"2024-05-06 16:16:00,624 INFO  [a7078e2bbe0929b2] [MN1130  /06 BDL | human      | UpdateEstimatesAction               |                                | default task-4433]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689825  flightId = 670014 legId = 689825  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 138                       Pax Weight          : 10742.0    KG 
+ Bag                 : 137                       Bag Weight          : 2055.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 13302.0    KG 
+ DOW                                                                 : 54126.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 67428.0    KG
+ Remark              :"
+138551481,2024-05-06 16:16:00,MN,1130.0,6.0,BDL,human,UpdateEstimatesAction,"2024-05-06 16:16:00,633 INFO  [a7078e2bbe0929b2] [MN1130  /06 BDL | human      | UpdateEstimatesAction               |                                | default task-4433]  Saved:","Pax Weight = 10742.0 KG Bag Weight = 2055.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54126.0 KG ZFW = 67428.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138551925,2024-05-06 16:17:43,MN,1110.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 16:17:43,973 INFO  [bc749b3a764db68a] [MN1110  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-4433]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689768  flightId = 669957 legId = 689768  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 183                       Pax Weight          : 14376.0    KG 
+ Bag                 : 170                       Bag Weight          : 2550.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 17519.0    KG 
+ DOW                                                                 : 53868.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 71387.0    KG
+ Remark              :"
+138551930,2024-05-06 16:17:43,MN,1110.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 16:17:43,980 INFO  [bc749b3a764db68a] [MN1110  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-4433]  Saved:","Pax Weight = 14376.0 KG Bag Weight = 2550.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53868.0 KG ZFW = 71387.0 KG
+STATUS FUEL 13 AIRCRAFT_CONFIG 1 EZFW 14 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 14 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138552327,2024-05-06 16:21:16,MN,1134.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-06 16:21:16,888 INFO  [2f5822fc2d9931b6] [MN1134  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4456]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689867  flightId = 670056 legId = 689867  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 138                       Pax Weight          : 10617.0    KG 
+ Bag                 : 127                       Bag Weight          : 1905.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 13027.0    KG 
+ DOW                                                                 : 53889.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 66916.0    KG
+ Remark              :"
+138552332,2024-05-06 16:21:16,MN,1134.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-06 16:21:16,897 INFO  [2f5822fc2d9931b6] [MN1134  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4456]  Saved:","Pax Weight = 10617.0 KG Bag Weight = 1905.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53889.0 KG ZFW = 66916.0 KG
+STATUS FUEL 8 AIRCRAFT_CONFIG 1 EZFW 8 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 8 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138561859,2024-05-06 17:59:26,MN,1126.0,6.0,YYZ,human,UpdateEstimatesAction,"2024-05-06 17:59:26,022 INFO  [6140fdfe4dae516e] [MN1126  /06 YYZ | human      | UpdateEstimatesAction               |                                | default task-4469]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690024  flightId = 670213 legId = 690024  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 263                       Pax Weight          : 20379.0    KG 
+ Bag                 : 295                       Bag Weight          : 4425.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 25455.0    KG 
+ DOW                                                                 : 124430.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 149885.0   KG
+ Remark              :"
+138561864,2024-05-06 17:59:26,MN,1126.0,6.0,YYZ,human,UpdateEstimatesAction,"2024-05-06 17:59:26,030 INFO  [6140fdfe4dae516e] [MN1126  /06 YYZ | human      | UpdateEstimatesAction               |                                | default task-4469]  Saved:","Pax Weight = 20379.0 KG Bag Weight = 4425.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 124430.0 KG ZFW = 149885.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138561981,2024-05-06 18:00:44,MN,1034.0,6.0,MCO,human,UpdateEstimatesAction,"2024-05-06 18:00:44,554 INFO  [b91baf519e0dc148] [MN1034   /06 MCO | human      | UpdateEstimatesAction               |                                | default task-4469]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689842  flightId = 670031 legId = 689842  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 183                       Pax Weight          : 13317.0    KG 
+ Bag                 : 166                       Bag Weight          : 2490.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16242.0    KG 
+ DOW                                                                 : 127486.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 143728.0   KG
+ Remark              :"
+138562016,2024-05-06 18:00:15,MN,1132.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-06 18:00:15,633 INFO  [16145c8f81cb1d98] [MN1132  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4469]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689798  flightId = 669987 legId = 689798  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 258                       Pax Weight          : 20205.0    KG 
+ Bag                 : 243                       Bag Weight          : 3645.0     KG 
+ Cargo                                                               : 638.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 24992.0    KG 
+ DOW                                                                 : 127250.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 152242.0   KG
+ Remark              :"
+138562021,2024-05-06 18:00:15,MN,1132.0,6.0,BOS,human,UpdateEstimatesAction,"2024-05-06 18:00:15,640 INFO  [16145c8f81cb1d98] [MN1132  /06 BOS | human      | UpdateEstimatesAction               |                                | default task-4469]  Saved:","Pax Weight = 20205.0 KG Bag Weight = 3645.0 KG Cargo = 638.0 KG Mail = 0.0 KG DOW = 127250.0 KG ZFW = 152242.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138562126,2024-05-06 18:00:44,MN,1034.0,6.0,MCO,human,UpdateEstimatesAction,"2024-05-06 18:00:44,561 INFO  [b91baf519e0dc148] [MN1034   /06 MCO | human      | UpdateEstimatesAction               |                                | default task-4469]  Saved:","Pax Weight = 13317.0 KG Bag Weight = 2490.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127486.0 KG ZFW = 143728.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138566071,2024-05-06 18:40:21,MN,1104.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 18:40:21,963 INFO  [8a9d27ff5c479466] [MN1104  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-2996]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690023  flightId = 670212 legId = 690023  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 291                       Pax Weight          : 22217.0    KG 
+ Bag                 : 248                       Bag Weight          : 3720.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 26516.0    KG 
+ DOW                                                                 : 127715.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 154231.0   KG
+ Remark              :"
+138566076,2024-05-06 18:40:21,MN,1104.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 18:40:21,965 INFO  [8a9d27ff5c479466] [MN1104  /06 JFK | human      | UpdateEstimatesAction               |                                | default task-2996]  Saved:","Pax Weight = 22217.0 KG Bag Weight = 3720.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127715.0 KG ZFW = 154231.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138568255,2024-05-06 19:23:57,MN,1044.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 19:23:57,119 INFO  [6ffb67c73c73a969] [MN1044   /06 JFK | human      | UpdateEstimatesAction               |                                | default task-4469]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 689843  flightId = 670032 legId = 689843  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 239                       Pax Weight          : 18626.0    KG 
+ Bag                 : 226                       Bag Weight          : 3390.0     KG 
+ Cargo                                                               : 645.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 23093.0    KG 
+ DOW                                                                 : 127455.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150548.0   KG
+ Remark              :"
+138568260,2024-05-06 19:23:57,MN,1044.0,6.0,JFK,human,UpdateEstimatesAction,"2024-05-06 19:23:57,127 INFO  [6ffb67c73c73a969] [MN1044   /06 JFK | human      | UpdateEstimatesAction               |                                | default task-4469]  Saved:","Pax Weight = 18626.0 KG Bag Weight = 3390.0 KG Cargo = 645.0 KG Mail = 0.0 KG DOW = 127455.0 KG ZFW = 150548.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138569943,2024-05-06 20:10:04,MN,1088.0,6.0,MSP,human,UpdateEstimatesAction,"2024-05-06 20:10:04,023 INFO  [6f3a797b00a64ee3] [MN1088   /06 MSP | human      | UpdateEstimatesAction               |                                | default task-4476]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690025  flightId = 670214 legId = 690025  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 182                       Pax Weight          : 14129.0    KG 
+ Bag                 : 166                       Bag Weight          : 2490.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 360.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 17054.0    KG 
+ DOW                                                                 : 125232.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 142286.0   KG
+ Remark              :"
+138570268,2024-05-06 20:10:04,MN,1088.0,6.0,MSP,human,UpdateEstimatesAction,"2024-05-06 20:10:04,031 INFO  [6f3a797b00a64ee3] [MN1088   /06 MSP | human      | UpdateEstimatesAction               |                                | default task-4476]  Saved:","Pax Weight = 14129.0 KG Bag Weight = 2490.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 125232.0 KG ZFW = 142286.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138552830,2024-05-06 16:26:31,MN,1086.0,7.0,CLE,human,UpdateEstimatesAction,"2024-05-06 16:26:31,285 INFO  [f40f8f42a4bf646f] [MN1086   /07 CLE | human      | UpdateEstimatesAction               |                                | default task-2981]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690281  flightId = 670470 legId = 690281  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 169                       Pax Weight          : 13109.0    KG 
+ Bag                 : 163                       Bag Weight          : 2445.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16147.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70173.0    KG
+ Remark              :"
+138552835,2024-05-06 16:26:31,MN,1086.0,7.0,CLE,human,UpdateEstimatesAction,"2024-05-06 16:26:31,287 INFO  [f40f8f42a4bf646f] [MN1086   /07 CLE | human      | UpdateEstimatesAction               |                                | default task-2981]  Saved:","Pax Weight = 13109.0 KG Bag Weight = 2445.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 70173.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 2"
+138552966,2024-05-06 16:28:14,MN,1118.0,7.0,IAD,human,UpdateEstimatesAction,"2024-05-06 16:28:14,643 INFO  [bb6f8b59ee4572a7] [MN1118  /07 IAD | human      | UpdateEstimatesAction               |                                | default task-2981]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690297  flightId = 670486 legId = 690297  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 176                       Pax Weight          : 13671.0    KG 
+ Bag                 : 174                       Bag Weight          : 2610.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 528.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 16874.0    KG 
+ DOW                                                                 : 54026.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 70900.0    KG
+ Remark              :"
+138552971,2024-05-06 16:28:14,MN,1118.0,7.0,IAD,human,UpdateEstimatesAction,"2024-05-06 16:28:14,645 INFO  [bb6f8b59ee4572a7] [MN1118  /07 IAD | human      | UpdateEstimatesAction               |                                | default task-2981]  Saved:","Pax Weight = 13671.0 KG Bag Weight = 2610.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 54026.0 KG ZFW = 70900.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138553208,2024-05-06 16:29:44,MN,1114.0,7.0,PHL,human,UpdateEstimatesAction,"2024-05-06 16:29:44,424 INFO  [7663d8601eda3ff3] [MN1114  /07 PHL | human      | UpdateEstimatesAction               |                                | default task-4456]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690198  flightId = 670387 legId = 690198  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 121                       Pax Weight          : 9443.0     KG 
+ Bag                 : 120                       Bag Weight          : 1800.0     KG 
+ Cargo                                                               : 65.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 5                                             : 440.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 11748.0    KG 
+ DOW                                                                 : 53899.0    KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 65647.0    KG
+ Remark              :"
+138553213,2024-05-06 16:29:44,MN,1114.0,7.0,PHL,human,UpdateEstimatesAction,"2024-05-06 16:29:44,432 INFO  [7663d8601eda3ff3] [MN1114  /07 PHL | human      | UpdateEstimatesAction               |                                | default task-4456]  Saved:","Pax Weight = 9443.0 KG Bag Weight = 1800.0 KG Cargo = 65.0 KG Mail = 0.0 KG DOW = 53899.0 KG ZFW = 65647.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 2 FUEL_ORDER 1"
+138570275,2024-05-06 20:10:48,MN,1060.0,7.0,SFO,human,UpdateEstimatesAction,"2024-05-06 20:10:48,342 INFO  [2cf8602439465f4f] [MN1060   /07 SFO | human      | UpdateEstimatesAction               |                                | default task-4476]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690120  flightId = 670309 legId = 690120  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 216                       Pax Weight          : 16444.0    KG 
+ Bag                 : 210                       Bag Weight          : 3150.0     KG 
+ Cargo                                                               : 150.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 20176.0    KG 
+ DOW                                                                 : 128342.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 148518.0   KG
+ Remark              :"
+138570280,2024-05-06 20:10:48,MN,1060.0,7.0,SFO,human,UpdateEstimatesAction,"2024-05-06 20:10:48,350 INFO  [2cf8602439465f4f] [MN1060   /07 SFO | human      | UpdateEstimatesAction               |                                | default task-4476]  Saved:","Pax Weight = 16444.0 KG Bag Weight = 3150.0 KG Cargo = 150.0 KG Mail = 0.0 KG DOW = 128342.0 KG ZFW = 148443.0 KG
+STATUS FUEL 2 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 11 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138570330,2024-05-06 20:11:22,MN,1136.0,7.0,BOS,human,UpdateEstimatesAction,"2024-05-06 20:11:22,769 INFO  [943f4088c501e5bf] [MN1136  /07 BOS | human      | UpdateEstimatesAction               |                                | default task-4476]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690184  flightId = 670353 legId = 690184  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 246                       Pax Weight          : 19095.0    KG 
+ Bag                 : 225                       Bag Weight          : 3375.0     KG 
+ Cargo                                                               : 75.0       KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 22977.0    KG 
+ DOW                                                                 : 127185.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 150162.0   KG
+ Remark              :"
+138570335,2024-05-06 20:11:22,MN,1136.0,7.0,BOS,human,UpdateEstimatesAction,"2024-05-06 20:11:22,776 INFO  [943f4088c501e5bf] [MN1136  /07 BOS | human      | UpdateEstimatesAction               |                                | default task-4476]  Saved:","Pax Weight = 19095.0 KG Bag Weight = 3375.0 KG Cargo = 75.0 KG Mail = 0.0 KG DOW = 127185.0 KG ZFW = 150162.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138570349,2024-05-06 20:11:51,MN,1124.0,7.0,ORD,human,UpdateEstimatesAction,"2024-05-06 20:11:51,603 INFO  [a9435d1916317af4] [MN1124  /07 ORD | human      | UpdateEstimatesAction               |                                | default task-2996]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690283  flightId = 670472 legId = 690283  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 247                       Pax Weight          : 19471.0    KG 
+ Bag                 : 243                       Bag Weight          : 3645.0     KG 
+ Cargo                                                               : 2100.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 7                                             : 504.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 25720.0    KG 
+ DOW                                                                 : 128360.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 154080.0   KG
+ Remark              :"
+138570354,2024-05-06 20:11:51,MN,1124.0,7.0,ORD,human,UpdateEstimatesAction,"2024-05-06 20:11:51,604 INFO  [a9435d1916317af4] [MN1124  /07 ORD | human      | UpdateEstimatesAction               |                                | default task-2996]  Saved:","Pax Weight = 19471.0 KG Bag Weight = 3645.0 KG Cargo = 2100.0 KG Mail = 0.0 KG DOW = 128360.0 KG ZFW = 152055.0 KG
+STATUS AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1"
+138570664,2024-05-06 20:21:46,MN,1068.0,7.0,LAX,human,UpdateEstimatesAction,"2024-05-06 20:21:46,853 INFO  [91703e353ff49f17] [MN1068   /07 LAX | human      | UpdateEstimatesAction               |                                | default task-4480]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690284  flightId = 670473 legId = 690284  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 212                       Pax Weight          : 16535.0    KG 
+ Bag                 : 198                       Bag Weight          : 2970.0     KG 
+ Cargo                                                               : 1631.0     KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 2151068.0    KG 
+ DOW                                                                 : 124356.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 145924.0   KG
+ Remark              :"
+138570929,2024-05-06 20:21:46,MN,1068.0,7.0,LAX,human,UpdateEstimatesAction,"2024-05-06 20:21:46,863 INFO  [91703e353ff49f17] [MN1068   /07 LAX | human      | UpdateEstimatesAction               |                                | default task-4480]  Saved:","Pax Weight = 16535.0 KG Bag Weight = 2970.0 KG Cargo = 1631.0 KG Mail = 0.0 KG DOW = 124356.0 KG ZFW = 14431068.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138577646,2024-05-06 21:52:52,MN,1106.0,7.0,JFK,human,UpdateEstimatesAction,"2024-05-06 21:52:52,232 INFO  [284602e438b963e4] [MN1106  /07 JFK | human      | UpdateEstimatesAction               |                                | default task-4494]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690415  flightId = 670604 legId = 690415  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 299                       Pax Weight          : 23193.0    KG 
+ Bag                 : 294                       Bag Weight          : 4410.0     KG 
+ Cargo                                                               : 192.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 8                                             : 576.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 28371.0    KG 
+ DOW                                                                 : 127585.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 155956.0   KG
+ Remark              :"
+138577651,2024-05-06 21:52:52,MN,1106.0,7.0,JFK,human,UpdateEstimatesAction,"2024-05-06 21:52:52,241 INFO  [284602e438b963e4] [MN1106  /07 JFK | human      | UpdateEstimatesAction               |                                | default task-4494]  Saved:","Pax Weight = 23193.0 KG Bag Weight = 4410.0 KG Cargo = 192.0 KG Mail = 0.0 KG DOW = 127585.0 KG ZFW = 155956.0 KG
+STATUS FUEL 3 AIRCRAFT_CONFIG 1 EZFW 2 CARGO_TRANSFER 1 OFP 1 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 2 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 1"
+138590856,2024-05-07 01:03:47,MN,1068.0,7.0,LAX,human,UpdateEstimatesAction,"2024-05-07 01:03:47,651 INFO  [680015c1c4d61cd2] [MN1068   /07 LAX | human      | UpdateEstimatesAction               |                                | default task-4488]  Received:","com.systemone.lc2.estimateshandling.dto.EstimateWeightsDTO [ id = 690284  flightId = 670473 legId = 690284  deleted = false  fragmentId = EstimatesFragment ]
+
+ Pax                 : 214                       Pax Weight          : 16693.0    KG 
+ Bag                 : 198                       Bag Weight          : 2970.0     KG 
+ Cargo                                                               : 260.0      KG 
+ Mail                                                                : 0.0        KG 
+ Tare                : 6                                             : 432.0      KG 
+------------------------------------------------------------------------------------------------------------------------
+ Traffic Load                                                        : 20355.0    KG 
+ DOW                                                                 : 124441.0   KG 
+------------------------------------------------------------------------------------------------------------------------
+ EZFW                                                                : 144796.0   KG
+ Remark              :"
+138590861,2024-05-07 01:03:47,MN,1068.0,7.0,LAX,human,UpdateEstimatesAction,"2024-05-07 01:03:47,659 INFO  [680015c1c4d61cd2] [MN1068   /07 LAX | human      | UpdateEstimatesAction               |                                | default task-4488]  Saved:","Pax Weight = 16693.0 KG Bag Weight = 2970.0 KG Cargo = 260.0 KG Mail = 0.0 KG DOW = 124441.0 KG ZFW = 144796.0 KG
+STATUS FUEL 5 AIRCRAFT_CONFIG 1 EZFW 3 CARGO_TRANSFER 1 OFP 9 CABIN_CONFIG 1 AUTO_MODE_ACTIVE 1 AUTOMATION_STARTED 0 BAG_LOAD_ITEMS_GEN 1 EZFW_COUNTER 3 REGISTRATION 1 REGISTRATION_CHANGE 1 FUEL_ORDER 2 DGR_ITEMS 0"
