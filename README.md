@@ -53,7 +53,7 @@ by students at The Baden-Württemberg Cooperative State University (DHBW) Mannhe
 
 
 ## Contributing
-We welcome contributions to enhance the Coin Counter App! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
+If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
 
 
 ## License
